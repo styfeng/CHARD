@@ -1,0 +1,32 @@
+A person with Sinusitis has a/an driving risk factor because/since/as {explanation}
+A person with schizophrenia has a/an pregnancy and birth complication risk factor because/since/as {explanation}
+A person with endometriosis has a/an immune system disorder risk factor because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an age risk factor because/since/as {explanation}
+A person with schizophrenia has a/an family environment risk factor because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an joint injury risk factor because/since/as {explanation}
+A person with Dysthymia has a/an family history risk factor because/since/as {explanation}
+A person with ErectileDysfunction has a/an surgeries risk factor because/since/as {explanation}
+A person with endometriosis has a/an low body mass index risk factor because/since/as {explanation}
+A person with asthma has a/an occupational exposure risk factor because/since/as {explanation}
+A person with Narcolepsy has a/an age risk factor because/since/as {explanation}
+A person with adhd has a/an smoking risk factor because/since/as {explanation}
+A person with insomnia has a/an bipolar disorder risk factor because/since/as {explanation}
+A person with Hyperhidrosis has a/an infection risk factor because/since/as {explanation}
+A person with Sinusitis has a/an common cold risk factor because/since/as {explanation}
+A person with ocd has a/an mental illness risk factor because/since/as {explanation}
+A person with dementia has a/an depression risk factor because/since/as {explanation}
+A person with Gastroparesis has a/an diabetes risk factor because/since/as {explanation}
+A person with insomnia has a/an caffeine risk factor because/since/as {explanation}
+A person with Hypothyroidism has a/an autoimmune disease risk factor because/since/as {explanation}
+A person with Narcolepsy has a/an head injury risk factor because/since/as {explanation}
+A person with ocd has a/an personality risk factor because/since/as {explanation}
+A person with covid19 has a/an ethnicity risk factor because/since/as {explanation}
+A person with ibs has a/an lack of exercise risk factor because/since/as {explanation}
+A person with insomnia has a/an depression risk factor because/since/as {explanation}
+A person with pcos has a/an diabetes risk factor because/since/as {explanation}
+A person with ErectileDysfunction has a/an depression risk factor because/since/as {explanation}
+A person with gerd has a/an connective tissue disorder risk factor because/since/as {explanation}
+A person with schizophrenia has a/an living in a populated area risk factor because/since/as {explanation}
+A person with CysticFibrosis has a/an family history risk factor because/since/as {explanation}
+A person with CrohnsDisease has a/an medication risk factor because/since/as {explanation}
+A person with Prostatitis has a/an infection risk factor because/since/as {explanation}

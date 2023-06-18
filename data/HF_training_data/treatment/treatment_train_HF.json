@@ -1,0 +1,830 @@
+[
+    {
+        "input": "A person with Epilepsy has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a surgery treatment since  resective surgery, the most common epilepsy surgery, is the removal of a small portion of the brain in which the surgeon cuts out brain tissues in the area of the brain where seizures occur, usually the site of a tumor, brain injury or malformation"
+    },
+    {
+        "input": "A person with Epilepsy has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a get enough sleep treatment because having a good night's sleep helps our brains to recover from the day's events, so that we can function well the next day. For some people with epilepsy a lack of sleep can make seizures more likely to happen, for others having seizures at night can make them feel tired during the day"
+    },
+    {
+        "input": "A person with Epilepsy has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a/an regular exercise treatment because exercise helps people to stay fit and healthy, help to reduce the number of seizures and feel more in control of their health"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a/an medication treatment because oral medications like Sildenafil (Viagra), vardenafil (Levitra, Staxyn), tadalafil (Cialis) and avanafil (Stendra) reverse erectile dysfunction by enhancing the effects of nitric oxide, a natural chemical your body produces that relaxes muscles in the penis"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a surgery treatment because surgery reconstructs the arteries within the penis which increases the blood flow to the penis and the man is able to achieve or maintain an erection"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an lose weight treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a lose weight treatment because losing weight does help to increase testosterone production, which can resolve erectile dysfunction or impotence. losing weight can help to restore normal hormone levels, improve or reverse vascular disease, and even boost a person's mood to achieve better erections."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an couples counseling treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a couples counseling treatment because a counselor can help guide a couple in agreeing on a treatment or help them improve their sexual communication and lovemaking skills"
+    },
+    {
+        "input": "A person with Herpes has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Herpes has a medication treatment because medications help the body fight off harmful viruses. The drugs can ease symptoms and shorten the length of a viral infection and stops the herpes virus growing and spreading."
+    },
+    {
+        "input": "A person with insomnia has a/an cognitive behavioral therapy treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a cognitive behavioral therapy treatment because it helps the patient identify and replace thoughts and behaviors that cause or worsen sleep problems with habits that promote sound sleep"
+    },
+    {
+        "input": "A person with insomnia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a medication treatment because drugs including Benzodiazepine sedatives such as triazolam (Halcion), estazolam, lorazepam (Ativan), temazepam (Restoril), flurazepam, and quazepam (Doral) and non-benzodiazepine sedatives such as zolpidem (Ambien, Intermezzo), eszopiclone (Lunesta), and zaleplon (Sonata) can help induce sleep"
+    },
+    {
+        "input": "A person with insomnia has a/an good sleep habits treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a good sleep habits treatment because good sleep habits like go to bed at the same time each night and get up at the same time each morning, making sure the bedroom is quiet, dark, relaxing, and at a comfortable temperature and avoiding large meals, caffeine, and alcohol before bedtime etc help those who live with insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an stay active treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a stay active treatment because moderate to vigorous exercise can increase sleep quality by reducing sleep onset or the time it takes to fall asleep and decrease the amount of time they lie awake in bed during the night"
+    },
+    {
+        "input": "A person with insomnia has a/an avoid naps treatment because/since/as {explanation}",
+        "output": "A person with insomnia has an avoid naps treatment because avoiding naps during the day creates a sleep debt, which is helpful in falling asleep at night."
+    },
+    {
+        "input": "A person with insomnia has a/an avoid alcohol treatment because/since/as {explanation}",
+        "output": "A person with insomnia has an avoid alcohol treatment because alcohol disrupts breathing during sleep by relaxing the throat muscles. Alcohol can also reduce the brain's ability to wake and detect a lack of oxygen in the body, and this can lead to longer and more frequent breathing pauses."
+    },
+    {
+        "input": "A person with Dysthymia has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has a psychotherapy treatment because psychotherapy can help adjust to a crisis or other current difficulty, identify issues that contribute to the depression and change behaviors that make it worse, identify negative beliefs and behaviors and replace them with healthy and positive ones, find better ways to cope and solve problems and develop positive interactions with others and regain a sense of satisfaction and control in your life and help ease depression symptoms, such as hopelessness and anger"
+    },
+    {
+        "input": "A person with insomnia has a/an avoid caffeine treatment because/since/as {explanation}",
+        "output": "A person with insomnia has an avoid caffeine treatment because research has also shown that caffeine interferes with circadian melatonin rhythms4, delaying the onset of sleep"
+    },
+    {
+        "input": "A person with Dysthymia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with A person with Dysthymia has a medication treatment because studies revealed that SSRIs, tricyclic antidepressants, and monoamine oxidase inhibitors (MAOIs) are all equally effective antidepressant treatments for dysthymia Dysthymia has a medication treatment because"
+    },
+    {
+        "input": "A person with insomnia has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a stress management treatment because the presence of stress raises cortisol levels, a hormone that stimulates alertness and vigilance, raising heart rate and blood pressure. High cortisol levels at night interfere with the release of melatonin, a hormone that is essential for the regulation of sleep wake cycles"
+    },
+    {
+        "input": "A person with Dysthymia has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has a regular exercise treatment because working out and other forms of exercises can definitely ease symptoms of depression or anxiety and make the patient feel better"
+    },
+    {
+        "input": "A person with Anemia has a/an supplements treatment because/since/as {explanation}",
+        "output": "A person with Anemia has a supplements treatment since if you do not have enough iron, your body cannot make hemoglobin, then you may develop anemia and one way of treating anemia is with oral iron supplements, including pills, capsules, drops, and extended-release tablets"
+    },
+    {
+        "input": "A person with Anemia has a/an diet changes treatment because/since/as {explanation}",
+        "output": "A person with Anemia has a diet changes treatment because eating an overall healthy diet rich in dark, leafy greens, nuts and seeds, seafood, meat, beans, and vitamin C rich fruits and vegetables can help you get the iron you need to manage anemia"
+    },
+    {
+        "input": "A person with Dysthymia has a/an avoid alcohol and drugs treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has an avoid alcohol and drugs treatment because drinking can alter the brain's chemical levels and heighten the symptoms of depression, which can have life-threatening implications."
+    },
+    {
+        "input": "A person with Anemia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Anemia has a medication treatment as treatment depends on the cause there are a variety of medications used to treat anemia, such as iron supplements, vitamin C, vitamin B-12, synthetic hormone folic acid supplements."
+    },
+    {
+        "input": "A person with LymeDisease has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with LymeDisease has a medication treatment because for early lyme disease, a short course of oral antibiotics, such as doxycycline or amoxicillin, cures the majority of cases and for more complicated cases, lyme disease can usually be successfully treated with three to four weeks of antibiotic therapy medication treatment because"
+    },
+    {
+        "input": "A person with cfs has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with cfs has a medication treatment because there's no cure for chronic fatigue syndrome, but there are over-the-counter and prescription medications that could ease the symptoms"
+    },
+    {
+        "input": "A person with cfs has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with cfs has a therapy treatment because therapy can help build coping skills to deal with chronic illness, address limitations at work or school, and improve family dynamics. It can also be helpful for managing depression"
+    },
+    {
+        "input": "A person with migraine has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with migraine has a medication treatment as prescription drugs such as sumatriptan (Imitrex, Tosymra)and rizatriptan (Maxalt, Maxalt-MLT) are used to treat migraine because they block pain pathways in the brain and they can relieve many symptoms of migraine"
+    },
+    {
+        "input": "A person with migraine has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with migraine has a stress management treatment because stress can cause migraine, chronic pain creates more stress and so the cycle continues."
+    },
+    {
+        "input": "A person with ibs has a/an eat high-fiber foods treatment because/since/as {explanation}",
+        "output": "A person with ibs has an eat high-fiber foods treatment because dietary fiber has the ability to stabilize the gastrocolic reflex and intestinal muscles, which form the part of the digestive tract responsible for moving food through the system."
+    },
+    {
+        "input": "A person with migraine has a/an sleeping and eating routine treatment because/since/as {explanation}",
+        "output": "A person with migraine has a sleeping and eating routine treatment because to going to bed and wake up at the same time every day and eating a healthy foods and staying hydrated  help preventing or relieving headache"
+    },
+    {
+        "input": "A person with ibs has a/an drink fluids treatment because/since/as {explanation}",
+        "output": "A person with ibs has an drink fluids treatment because water intake might improve constipation among IBS-C patients while drinking water is a common suggestion for IBS-D patients to prevent diarrhea-induced dehydration."
+    },
+    {
+        "input": "A person with migraine has a/an drink fluids treatment because/since/as {explanation}",
+        "output": "A person with migraine has a drink fluids treatment as staying hydrated helps prevent a migraine attack"
+    },
+    {
+        "input": "A person with ibs has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with ibs has a regular exercise treatment because regular physical activity is thought to ease IBS symptoms by minimizing stress, improving bowel function, and reducing bloating."
+    },
+    {
+        "input": "A person with ibs has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with ibs has a get enough sleep treatment because sleep disruption aggravate both GI (such as abdominal pain) and non-GI symptoms (such as joint pain and headaches) of IBS."
+    },
+    {
+        "input": "A person with ibs has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with ibs has a medication treatment because medications like eluxadoline which can ease diarrhea by reducing muscle contractions and fluid secretion in the intestine, and increasing muscle tone in the rectum, alosetron which helps to relax the colon and slow the movement of waste through the lower bowel (only for women), rifaximin which decreases bacterial overgrowth and diarrhea and Lubiprostone and Linaclotide which increase fluid secretion in your small intestine to help with the passage of stool are commonly prescribed for IBS"
+    },
+    {
+        "input": "A person with migraine has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with migraine has a regular exercise treatment because exercise stimulate the release of the natural painkiller endorphin, which can aid in reducing the intensity and frequency of migraine headache."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an take naps treatment because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a take naps treatment because often help people stay awake and alert for 1 to 3 hours"
+    },
+    {
+        "input": "A person with migraine has a/an meditation and yoga treatment because/since/as {explanation}",
+        "output": "A person with migraine has a meditation and yoga treatment because yoga's postures, deep breathing and meditation aspects have been shown to reduce stress and some recent studies have analyzed the impact of yoga on adults with migraine and suggest that it could be very helpful in both treating migraine and fighting the disability associated with migraine"
+    },
+    {
+        "input": "A person with migraine has a/an cognitive behavioral therapy treatment because/since/as {explanation}",
+        "output": "A person with migraine has a cognitive behavioral therapy treatment because CBT assists in the reduction of the vicious cycle by facilitating the development of skills that increase your ability to cope with pain and reduce headache-related psychological distress"
+    },
+    {
+        "input": "A person with Narcolepsy has a/an avoid nicotine and alcohol treatment because/since/as {explanation}",
+        "output": "A person with Narcolepsy has an avoid nicotine and alcohol treatment because nicotine disrupt sleep and reduce total sleep time and consuming alcohol  prevents you from getting the deep sleep you need as alcohol use may lead to daytime fatigue and sleepiness."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a regular exercise treatment because exercise can improve alertness, focus and energy levels which reduce narcolepsy symptoms"
+    },
+    {
+        "input": "A person with Narcolepsy has a/an stick to a schedule treatment because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a stick to a schedule treatment because sticking to a regular sleep schedule can help you better manage your narcolepsy symptoms"
+    },
+    {
+        "input": "A person with ocd has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with ocd has a psychotherapy treatment because it helps people learn to change their thoughts and feelings by first changing their behavior"
+    },
+    {
+        "input": "A person with ocd has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with ocd has a medication treatment because medications like selective serotonin reuptake inhibitors (SSRIs) and clomipramine can improve chemical signals within the brain to reduce OCD symptoms"
+    },
+    {
+        "input": "A person with ocd has a/an deep brain stimulation treatment because/since/as {explanation}",
+        "output": "A person with ocd has a deep brain stimulation treatment because deep brain stimulation is thought to alleviate OCD symptoms by modulating underlying disturbances in normal cortico-striato-thalamo-cortical circuitry"
+    },
+    {
+        "input": "A person with parkinsons has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with parkinsons has a regular exercise treatment because exercise is an important way to slow the disease and control its symptoms and helps to maintain the ability to do everyday activities, and it protects the brain cells"
+    },
+    {
+        "input": "A person with parkinsons has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with parkinsons has a healthy diet treatment because following a balanced diet improves general well-being and boosts your ability to deal with symptoms of the disease."
+    },
+    {
+        "input": "A person with parkinsons has a/an meditation and yoga treatment because/since/as {explanation}",
+        "output": "A person with parkinsons has a meditation and yoga treatment because practicing yoga and meditation helps improve functional mobility, balance, improved balance, flexibility, and posture, participants experienced a boost in mood, better sleep quality and lower-limb strength of people with Parkinson's disease"
+    },
+    {
+        "input": "A person with Alzheimers has a/an create safe and supportive environment treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a create safe and supportive environment treatment because environment should help them know where they are and help them find where they want to go."
+    },
+    {
+        "input": "A person with Alzheimers has a/an establish routine habits treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has an establish routine habits treatment because a planned day allows you to spend less time trying to figure out what to do, and more time on activities that provide meaning and enjoyment."
+    },
+    {
+        "input": "A person with Alzheimers has a/an vitamins and supplements treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a vitamins and supplements treatment because Vitamin B6 has been proven to improve brain function, nerve function and red cell production, Vitamin B12 and Folic Acid can help lower the levels of an amino acid in the blood that is often linked to dementia, Zinc is essential to healthy functioning of the body and brain and Phosphatidylserine is actually a naturally occurring lipid that is the primary component of the membranes surrounding nerve cells are used to treat alzheimers"
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has a medication treatment because mucus thinning drugs, such as hypertonic saline, to help you cough up the mucus, which can improve lung function. Inhaled medications called bronchodilators that can help keep your airways open by relaxing the muscles around your bronchial tubes."
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an chest physical therapy treatment because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has a chest physical therapy treatment because it helps in airway clearance; exercise and movement; inhaled treatments; sinus management; or managing or treating joint, back and continence problems"
+    },
+    {
+        "input": "A person with Alzheimers has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a regular exercise treatment because regular exercising may Keep thinking, reasoning and learning skills sharp for healthy individuals. Improve memory, reasoning, judgment and thinking skills (cognitive function) for people with Alzheimer's disease"
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an pulmonary rehabilitation treatment because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has a pulmonary rehabilitation treatment because it is a combination of exercise, breathing techniques, diet and education that aims to help give patients a better quality of life and be able to have more control of their symptoms"
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an transplant treatment because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has a transplant treatment because for some people with CF, other organs may need to be transplanted (including the liver or the pancreas) because of the damage the condition can inflict on the whole of the body. Transplantation reduce the risk of infection spreading from the CF lung to the new lung."
+    },
+    {
+        "input": "A person with POTS has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with POTS has a medication treatment because medications like salt tablets, fludrocortisone, pyridostigmine, midodrine, and/or a beta blocker may help control POTS symptoms."
+    },
+    {
+        "input": "A person with POTS has a/an medical compression stockings treatment because/since/as {explanation}",
+        "output": "A person with POTS has a medical compression stockings treatment because compression of the lower limbs causes an increased blood return to the heart from the superficial veins in the legs."
+    },
+    {
+        "input": "A person with Alzheimers has a/an engage in activity treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has an engage in activity treatment because keeping patients actively engaged in everyday activities and cognitively challenging tasks is beneficial for both body and mind and, in some cases, it can even slow the progression of the disease. Activities play a significant part in dealing with challenging behaviors."
+    },
+    {
+        "input": "A person with POTS has a/an blood pressure monitor treatment because/since/as {explanation}",
+        "output": "A person with POTS has a/an blood pressure monitor treatment because some people with POTS can develop hypotension (a drop in blood pressure) with prolonged standing (more than three minutes upright)and Others can develop an increase in blood pressure (hypertension) when they stand"
+    },
+    {
+        "input": "A person with Alzheimers has a/an social interaction treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a social interaction treatment because social interaction rescues Alzheimer patients' memory deficit by increasing BDNF expression. BDNF produces many beneficial effects on brain functions"
+    },
+    {
+        "input": "A person with POTS has a/an cardiac rehab program treatment because/since/as {explanation}",
+        "output": "A person with POTS has a cardiac rehab program treatment because cardiac rehabilitation aims to not only strengthen the heart and body but give back confidence to patients through a supportive and monitored exercise program"
+    },
+    {
+        "input": "A person with hpv has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with hpv has a medication treatment because medications like keratolytic agents works by thinning the skin around and on the affected area, allowing for new, healthy skin to grow and Immune response modifiers works by boosting the immune system and its ability to fight off the infection, especially in the areas where the topical treatment is applied."
+    },
+    {
+        "input": "A person with POTS has a/an drink fluids treatment because/since/as {explanation}",
+        "output": "A person with POTS has an drink fluids treatment because it increases the amount of fluid in your body, making it easier for your blood to get to your head to help you feel less dizzy."
+    },
+    {
+        "input": "A person with hpv has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with hpv has a surgery treatment because surgery may be used to treat moderate to severe cervical dysplasia by removing abnormal cells on the cervix."
+    },
+    {
+        "input": "A person with POTS has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with POTS has a physical therapy treatment because physical therapy and endurance training can help recondition the body and decrease symptoms in people with POTS."
+    },
+    {
+        "input": "A person with Prostatitis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has a medication treatment because medications, called alpha-blockers, help relax the bladder neck and the muscle fibers where your prostate joins your bladder"
+    },
+    {
+        "input": "A person with Prostatitis has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has a psychotherapy treatment because psychotherapy can effectively improve the psychological status and sexual function in patients with category III chronic prostatitis."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an corticosteroids treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a corticosteroids treatment as MS flare is caused by inflammation in the  nerves and myelin, the sheath of tissue around the nerves and corticosteroids help relieve MS flare because they reduce the nerve inflammation"
+    },
+    {
+        "input": "A person with Prostatitis has a/an warm baths treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has a warm baths treatment because it relaxes the muscle in the prostate, which helps ease the constriction of the bladder neck and urethra, increasing blood circulation in the pelvic area."
+    },
+    {
+        "input": "A person with Prostatitis has a/an avoid alcohol treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has an avoid alcohol treatment because researches show that men who drank at least seven drinks per week between ages 15 to 49 years had a more than threefold greater likelihood for developing high-grade prostate cancer than men who did not drink"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an plasma exchange treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a plasma exchange treatment because plasma could have certain proteins that are attacking their own body and when you take out the plasma, you get rid of those proteins, and symptoms may get better"
+    },
+    {
+        "input": "A person with Prostatitis has a/an avoid caffeine treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has an avoid caffeine treatment because caffeine can make urinary or pain symptoms due to prostatitis worse and as because caffeine is a diuretic, avoiding caffeine can make a big difference in the urinary health"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an muscle relaxants treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a muscle relaxants treatment because it can effectively relieve spasms and has modest effects in improving performance"
+    },
+    {
+        "input": "A person with Prostatitis has a/an drink fluids treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has a drink fluids treatment because taking fluids eliminate toxins from the body and reduces inflammation in the bladder and prostate. Increasing intake of liquids helps flush bacteria from the bladder."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a medication treatment because medication reduce the amount of damage and scarring to the myelin sheath (a layer surrounding your nerves), which is associated with MS relapses and potentially reduce risk of brain atrophy and disability accumulation."
+    },
+    {
+        "input": "A person with Prostatitis has a/an avoid certain foods treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has an avoid certain foods treatment because spicy foods, hot peppers, and chili can all bother your bladder and make prostatitis symptoms worse. Drinks like tea, coffee, and soda can inflame your urinary tract and bladder"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a physical therapy treatment because it helps people with MS regain and maintain strength, flexibility, and general fitness, and to live active, productive lives"
+    },
+    {
+        "input": "A person with Prostatitis has a/an acupuncture treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has an acupuncture treatment because acupuncture can help relieve the symptoms of prostate disorders by stimulation at acupoints which promotes the release of naturally occurring opioid-like chemicals (enkephalins, endorphins, and dynorphins) with pain-killing properties"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an injections treatment because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an injections treatment because injectable treatments including Interferon beta medications are among the most commonly prescribed medications to treat MS which are injected under the skin or into muscle and can reduce the frequency and severity of relapses"
+    },
+    {
+        "input": "A person with Prostatitis has a/an herbal remedies treatment because/since/as {explanation}",
+        "output": "A person with Prostatitis has an herbal remedies treatment because African pygeum ( Prunus africana) helps reduce urinary symptoms of BPH and both bacterial and nonbacterial prostatitis in men with mild-to-moderate urinary symptoms."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an diet changes treatment because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a diet changes treatment since if you have gastroparesis, your stomach doesn't empty as fast as it should. Eating small meals more often, eating healthy food, tossing food in a blender or food processor with water, juice, milk, or broth helps reduce symptoms"
+    },
+    {
+        "input": "A person with Gastroparesis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a medication treatment because medicines helps the muscles in the wall of your stomach work better and control nausea and vomiting and reduce pain"
+    },
+    {
+        "input": "A person with Gastroparesis has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a surgery treatment because several surgical options exist for the management of refractory gastroparesis including GES, LP, endoscopic POP, or enteral feeding tubes and surgical resection options like sleeve gastrectomy and subtotal or total gastrectomy are also available"
+    },
+    {
+        "input": "A person with gout has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with gout has a medication treatment because drugs such as allopurinol and febuxostat help limit the amount of uric acid your body makes"
+    },
+    {
+        "input": "A person with gout has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with gout has a regular exercise treatment as exercising helps control gout by lowering uric acid levels to prevent gout attacks. Fat in the body carries more uric acid than muscle and thus, when you reduce body fat, you can reduce uric acid levels in your blood"
+    },
+    {
+        "input": "A person with adhd has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with adhd has a medication treatment because ADHD medications reverse a deficiency in the brain's neurotransmitter system, a deficiency that's at the root of the disorder. ADHD medicines improve attention by helping normal brain chemicals work better."
+    },
+    {
+        "input": "A person with adhd has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with adhd has a psychotherapy treatment because psychotherapy provide emotional support and assist in helping these individuals develop time management, organizational skills, problem solving ability and anger management"
+    },
+    {
+        "input": "A person with adhd has a/an follow a routine treatment because/since/as {explanation}",
+        "output": "A person with adhd has a follow a routine treatment because daily routines provide a framework on which the life and processes can run more smoothly"
+    },
+    {
+        "input": "A person with adhd has a/an ask for help treatment because/since/as {explanation}",
+        "output": "A person with adhd has an ask for help treatment because there are many ways the patient can gain support of others throughout their journey with ADHD"
+    },
+    {
+        "input": "A person with Sciatica has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a physical therapy treatment because it will help strengthen the muscles surrounding your sciatic nerve, by participating in targeted exercises and stretches. Physical therapy helps treat and alleviate the physical symptoms of stiffness, inflammation, and soreness associated with nerve pain."
+    },
+    {
+        "input": "A person with adhd has a/an social support treatment because/since/as {explanation}",
+        "output": "A person with adhd has a social support treatment because social support may provide a target for resilience-based interventions among children with ADHD in promoting their self concept and well being."
+    },
+    {
+        "input": "A person with diabetes has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a healthy diet treatment because a healthy diet plan helps you control your blood sugar, manage your weight and control heart disease risk factors, such as high blood pressure and high blood fats."
+    },
+    {
+        "input": "A person with Sciatica has a/an steroid injections treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a steroid injections treatment because steroids work by decreasing the production of inflammatory chemicals and reduce the sensitivity of your nerve fibers to pain. As a result, fewer pain signals are generated and you feel less pain"
+    },
+    {
+        "input": "A person with diabetes has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a regular exercise treatment because being active makes the body more sensitive to insuline which helps manage your diabetes and physical activity also helps control blood sugar levels and lowers the  risk of heart disease and nerve damage"
+    },
+    {
+        "input": "A person with diabetes has a/an monitor blood sugar treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a monitor blood sugar treatment as it helps to determine if you are meeting your glucose targets which helps to reduce the unpleasant symptoms of high and low blood sugar, and avoid long-term diabetes complications."
+    },
+    {
+        "input": "A person with Sciatica has a/an short-term rest treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a short-term rest treatment because when you are in the throes of acute sciatica, and you can't find a comfortable position, there may be not much else you can do but rest for a short period of time. Short-term rest can give you a break when standing or sitting causes severe pain."
+    },
+    {
+        "input": "A person with diabetes has a/an insulin treatment because/since/as {explanation}",
+        "output": "A person with diabetes has an insulin treatment because Insulin helps blood sugar enter the body's cells so it can be used for energy  and also also signals the liver to store blood sugar for later use"
+    },
+    {
+        "input": "A person with Sciatica has a/an heat or cold treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a heat or cold treatment because alternating heat and cold therapy can provide immediate relief of sciatic nerve pain. Ice can help reduce inflammation, while heat encourages blood flow to the painful area (which speeds healing) and also help ease painful muscle spasms that often accompany sciatica"
+    },
+    {
+        "input": "A person with diabetes has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a medication treatment because it lowers glucose production in the liver and improve your body's sensitivity to insulin so that your body uses insulin more effectively. Medication helps to keep your blood sugar level as normal as possible ."
+    },
+    {
+        "input": "A person with Sciatica has a/an stretching treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a stretching treatment because stretching  helps strengthen your muscles and improve the durability of your joints. Stretching makes your muscles stronger and more flexible."
+    },
+    {
+        "input": "A person with diabetes has a/an transplantation treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a transplantation treatment because in islet auto transplantation, doctors remove a patient's pancreas, remove the islets from the pancreas, and transplant the islets into the patient's liver to give the body enough healthy islets that make insulin"
+    },
+    {
+        "input": "A person with Sciatica has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a medication treatment because over the counter pain relievers such as acetaminophen, aspirin, or NSAIDs (such as ibuprofen, ketoprofen, or naproxen and muscle relaxants relieve symptoms"
+    },
+    {
+        "input": "A person with diabetes has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with diabetes has a surgery treatment because surgery can increase the production of certain bile acids that make cells more sensitive to insulin, or increase the uptake of glucose by the gut cells themselves, thereby lowering blood glucose levels."
+    },
+    {
+        "input": "A person with Sciatica has a/an acupuncture treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has an acupuncture treatment because acupuncture works by relaxing tight muscles, improving blood circulation, regulating the nervous system, and releasing neurotransmitters to reduce pain."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a medication treatment because antibiotics can reduce the amount of drainage from fistulas and abscesses. Medication help reduce harmful intestinal bacteria that may play a role in activating the intestinal immune system, leading to inflammation in people with Crohn's disease."
+    },
+    {
+        "input": "A person with Sciatica has a/an chiropractic care treatment because/since/as {explanation}",
+        "output": "A person with Sciatica has a chiropractic care treatment because chiropractic type of massage is an intense way of relieving the sciatica pain. It can induce deep muscles relaxation and release of endorphins that act as natural painkillers."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a surgery treatment because severe inflammation in the colon can lead to toxic megacolon. Surgery works to help conserve as much bowel as possible, alleviate serious complications or disrupting side effects, and improve the overall quality of life for those affected."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a medication treatment because many medications prescribed for fibromyalgia work to turn down \"pain volume\" in the central nervous system (CNS) and can also help reduce fatigue, improve mood, promote sleep and ease other problems associated with fibromyalgia, including irritable bowel and restless legs syndromes"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a therapy treatment because a variety of different therapies can help reduce the effect that fibromyalgia has on your body and your life. A physical therapist can teach you exercises that will improve your strength, flexibility and stamina and talking with a counselor can help strengthen your belief in your abilities and teach you strategies for dealing with stressful situations"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an diet changes treatment because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a diet changes treatment because a low-fiber with low-residue diet can help lessen abdominal pain, cramping, and diarrhea"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a stress management treatment because stress weakens the body and  in a weakened state, you're more vulnerable to fibromyalgia's symptoms, such as chronic pain, fatigue, and depression"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an quit smoking treatment because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a quit smoking treatment because crohn's patients who had quit smoking for more than a year had 65% fewer pain flare-ups than continued smokers"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an good sleep habits treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an good sleep habits treatment because sleep deprivation can exacerbate the widespread feelings of pain and tenderness brought on by fibromyalgia."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a stress management treatment because stress can lead to flare-ups and relapse and controlling stress is one way for you to minimize the effect Crohn's has on one's life"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a regular exercise treatment because regular exercise combats fatigue and increases energy,  makes joints more flexible, improves sleep and mood and frees people with fibromyalgia to live a fuller life."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an healthy lifestyle treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a healthy lifestyle treatment because diets that are rich in antioxidants and provide adequate amounts of nutrients such as vitamin B12 can help lead to reduced symptoms"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an meditation and yoga treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a/an meditation and yoga treatment because many yoga poses could potentially benefit and meditation may provide an effective complementary treatment approach for fibromyalgia patients"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an acupuncture treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an acupuncture treatment because acupuncture can calm or quiet the nervous system and help slow down the pain signals to the brain"
+    },
+    {
+        "input": "A person with bpd has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with bpd has a psychotherapy treatment because it helps people with BPD better manage their emotions, reduce impulsiveness, and improve their relationships, among other things."
+    },
+    {
+        "input": "A person with bpd has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with bpd has a medication treatment because certain medications may help with symptoms or co-occurring problems such as depression, impulsiveness, aggression or anxiety."
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a surgery treatment because surgical procedure avoids the use of stents or balloon plasty with excellent long-term results, leaving the patients unrestricted for physical activities."
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an anticoagulation treatment because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has an anticoagulation treatment because initiation of systemic anticoagulation immediately after diagnosis is the first step in treatment for Paget schroetter"
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an thrombolysis treatment because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a/an thrombolysis treatment as relieves  symptoms due to obstruction, preventing complications from DVT, and preventing recurrenceit when done with anticoagulation and surgical decompression."
+    },
+    {
+        "input": "A person with Sinusitis has a/an decongestants treatment because/since/as {explanation}",
+        "output": "A person with Sinusitis has a decongestants treatment because these work by narrowing blood vessels to help reduce inflammation and swelling that cause sinus congestion"
+    },
+    {
+        "input": "A person with Sinusitis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Sinusitis has a medication treatment since decongestants help reduce inflammation and swelling that cause sinus congestion by narrowing blood vessels and painrelievers like acetaminophen or ibuprofen relieves the pain caused by pressure buildup in the sinus cavities."
+    },
+    {
+        "input": "A person with Sinusitis has a/an drink fluids treatment because/since/as {explanation}",
+        "output": "A person with Sinusitis has a drink fluids treatment because drinking more fluids helps thin the mucus which lets it drain from the sinuses more easily"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a surgery treatment because surgery provides lasting relief from excessive sweating by stopping the nerve signals that the body sends to the sweat glands"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an microwave therapy treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a microwave therapy treatment since microwave thermolysis for hyperhidrosis uses precise beams of microwave energy to permanently disable sweat glands in the underarms"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an regular bathing treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a regular bathing treatment because regular bathing helps keep the number of bacteria on your skin in check and reducing other complications due to hyperhidrosis"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an socks and shoes material treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a socks and shoes material treatment because excessively sweaty feet could affect your foot health. When your feet sweat, your skin gets wet. Wearing socks and shoes traps this moisture against your skin, creating a welcoming environment for bacterial growth."
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an clothing treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a clothing treatment because natural fabrics are generally more comfortable than other kinds and also act as sweat barriers. Cotton is the best fabric to protect against sweat because it helps keep your body cool"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a stress management treatment because hyperhidrosis, can also happen as a result of stress and anxiety."
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an change socks often treatment because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a change socks often treatment because poor hygiene like washing your feet infrequently or not changing socks often can allow bacteria to thrive. Wearing fresh socks every day can help to stop you having smelly sweaty feet."
+    },
+    {
+        "input": "A person with gerd has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with gerd has a medication treatment because PPIs for treatment of GERD work by blocking the mechanism that produces stomach acid, theryby lowering the acidity of the digestive fluids involved in reflux, and thus reduces reflux symptoms"
+    },
+    {
+        "input": "A person with gerd has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with gerd has a surgery treatment because GERD is a chronic backup of stomach acid or contents into your esophagus, the tube that food goes down when you eat. During the fundoplication surgery, the surgeon uses the upper part of the stomach to reinforce and tighten the lower esophagus and strengthen the sphincter, which is the bundle of muscles that helps prevent the contents of the stomach from moving back up the esophagus, thus the symptoms are reduced, and quality of life is improved."
+    },
+    {
+        "input": "A person with gerd has a/an lose weight treatment because/since/as {explanation}",
+        "output": "A person with gerd has a lose weight treatment because weight loss is one of the best ways to beat GERD and the first step is to reduce your daily calorie intake. Reducing foods high in fat can help reduce calories while also decreasing the risk for heartburn"
+    },
+    {
+        "input": "A person with gerd has a/an diet changes treatment because/since/as {explanation}",
+        "output": "A person with gerd has a diet changes treatment because eating smaller and more frequent meals each day instead of a few large meals promotes digestion and can aid in preventing heartburn."
+    },
+    {
+        "input": "A person with gerd has a/an clothing treatment because/since/as {explanation}",
+        "output": "A person with gerd has a clothing treatment because tight clothing creates pressure on your stomach that can aggravate acid reflux and It pushes stomach juices into your esophagus, resulting in the symptoms of acid reflux"
+    },
+    {
+        "input": "A person with gerd has a/an herbal remedies treatment because/since/as {explanation}",
+        "output": "A person with gerd has a herbal remedies treatment because herbal remedies such as chamomile, ginger, licorice and other natural remedies helps reduce symptoms like heartburn and works as a digestive aid"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a/an medication treatment because these medications can relieve inflammation, pain and stiffness"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a therapy treatment because therapy can help stay active when you have ankylosing spondylitis. For example Physical therapy can help reduce stiffness in the joints and improve your posture and flexibility, which can decrease the pain"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a surgery treatment because if the disease has progressed to the point that daily activities are severely impaired, then surgery may be an option, including joint replacement surgery, laminectomy and osteotomy with fusion."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a regular exercise treatment as regular exercise maintains joint motion and function, ease pain, improve posture, tackle muscle imbalances, make it easier to breathe and enhance the overall quality of life"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an don't smoke treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a don't smoke treatment because quitting can help ease the effect of the condition on your spine and protect your heart and lungs. People with AS who stopped smoking had lower levels of disease activity and better function and quality of life."
+    },
+    {
+        "input": "A person with endometriosis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with endometriosis has a medication treatment because non-steroidal anti-inflammatory drugs) such as ibuprofen or naproxen helps releave pain and taking hormone birth control can stop the heavy menstrual bleeding that generally accompanies endometriosis. Progestin only contraceptives can cut down on pain, as most women don't have a period while taking these medicines, or at least have fewer periods"
+    },
+    {
+        "input": "A person with endometriosis has a/an hormone therapy treatment because/since/as {explanation}",
+        "output": "A person with endometriosis has a hormone therapy treatment because htreatments stop the ovaries from producing hormones, including estrogen, and usually prevent ovulation, slowing down the growth and local activity of both the endometrium and the endometrial lesions"
+    },
+    {
+        "input": "A person with endometriosis has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with endometriosis has a surgery treatment because surgery remove endometrial tissue"
+    },
+    {
+        "input": "A person with endometriosis has a/an fertility treatment treatment because/since/as {explanation}",
+        "output": "A person with endometriosis has a fertility treatment treatment because the abnormal tissue is surgically removed via a laparoscopic procedure helps clear blockages of the fallopian tubes, which is common among women with severe endometriosis and one of the most common causes of infertility."
+    },
+    {
+        "input": "A person with endometriosis has a/an warm baths treatment because/since/as {explanation}",
+        "output": "A person with endometriosis has a warm baths treatment because the stomach, abdomen walls, pelvic floor, and lower back are all common areas of endometrial pain, and heat therapy is effective at easing this pain, it relaxes the tense muscles and eases cramps"
+    },
+    {
+        "input": "A person with schizophrenia has a/an psychosocial therapy treatment because/since/as {explanation}",
+        "output": "A person with schizophrenia has a psychosocial therapy treatment because people with schizophrenia experience more positive outcomes if they have medications to manage depression or anxiety and a supportive partner, family member or friends involved in their care"
+    },
+    {
+        "input": "A person with schizophrenia has a/an hospitalization treatment because/since/as {explanation}",
+        "output": "A person with schizophrenia has a hospitalization treatment because hospitals can be the best place for people with schizophrenia to learn to live with their illness. A hospital can help the patient get the full picture of the symptoms and learn how to treat them as they are observing the patient all the time"
+    },
+    {
+        "input": "A person with asthma has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with asthma has a medication treatment because long term control medicines control chronic symptoms and prevent asthma attacks, inhaled anti-inflammatory drugs reduce swelling and tightening in the airways and leukotriene modifiers block the effects of leukotrienes, immune system chemicals that cause asthma symptoms"
+    },
+    {
+        "input": "A person with asthma has a/an air conditioner treatment because/since/as {explanation}",
+        "output": "A person with asthma has an air conditioner treatment because by turning on your air and keeping it on, reduces the amount of these irritants in the air and the AC unit eliminates these pesky asthma triggers by cooling the air to a temperature where they can't survive. It also pulls moisture from the air, keeping the allergens' moist breeding grounds at bay."
+    },
+    {
+        "input": "A person with asthma has a/an regular cleaning treatment because/since/as {explanation}",
+        "output": "A person with asthma has a regular cleaning treatment because regular house cleaning helps to clear dust in home which has been knowing to be the leading aggravator for asthma allergies"
+    },
+    {
+        "input": "A person with asthma has a/an face mask treatment because/since/as {explanation}",
+        "output": "A person with asthma has a face mask treatment because wearing a mask can help keep pollen from getting into your nose and lungs"
+    },
+    {
+        "input": "A person with asthma has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with asthma has a regular exercise treatment because regular exercise can actually decrease inflammation by reducing inflammatory proteins, which improves how your airways respond to exercise"
+    },
+    {
+        "input": "A person with bipolar has a/an hospitalization treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a hospitalization treatment because it becomes necessary in extreme cases where the disorder is causing someone to be an immediate threat to themselves or others and may also be used when medications need monitoring or adjustment."
+    },
+    {
+        "input": "A person with bipolar has a/an continued treatment treatment because/since/as {explanation}",
+        "output": "A person with bipolar has an continued treatment treatment because patients who skip maintenance treatment are at high risk of a relapse of symptoms or having minor mood changes turn into full-blown mania or depression"
+    },
+    {
+        "input": "A person with bipolar has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a psychotherapy treatment because psychotherapy is a vital part of bipolar disorder treatment and can be provided in individual, family or group settings."
+    },
+    {
+        "input": "A person with bipolar has a/an psychoeducation treatment because/since/as {explanation}",
+        "output": "A person with bipolar has an psychoeducation treatment because they need to be aware of their illness; adherence to treatment; early detection of prodromal symptoms and recurrences; and lifestyle regularity to live their life."
+    },
+    {
+        "input": "A person with bipolar has a/an avoid drugs and alcohol treatment because/since/as {explanation}",
+        "output": "A person with bipolar has an avoid drugs and alcohol treatment because drugs and alcohol often make the symptoms of bipolar disorder worse"
+    },
+    {
+        "input": "A person with bipolar has a/an healthy relationships treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a healthy relationships treatment because healthy relationships with empathy, communication, and emotional awareness will be supportive to someone with bipolar disorder and helps them manage their symptoms"
+    },
+    {
+        "input": "A person with bipolar has a/an healthy routine treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a healthy routine treatment because by stabilizing the daily schedule, you reduce some of the uncertainty that causes the pendulum swings in your mood"
+    },
+    {
+        "input": "A person with pcos has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with pcos has a regular exercise treatment because it helps your body respond better to insulin, lowering your risk for diabetes and other complications, reduce your cholesterol, increses endorphins that promote feelings of wellness and help you fall asleep quicker and have a better quality sleep"
+    },
+    {
+        "input": "A person with pcos has a/an lose weight treatment because/since/as {explanation}",
+        "output": "A person with pcos has a lose weight treatment because weight loss can restore the normal function of the ovaries and result in normal hormone production, in turn lead to improvements in symptoms of PCOS, such as excess facial or body hair growth, acne, scalp hair loss and menstrual regularity"
+    },
+    {
+        "input": "A person with pcos has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with pcos has a medication treatment because medication, like birth control pills, anti-androgens, and metformin helps to manage polycystic ovary syndrome"
+    },
+    {
+        "input": "A person with covid19 has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with covid19 has a medication treatment since antiviral medications like remdesivir target specific parts of the virus to stop it from multiplying in the body, helping to prevent severe illness and death and Monoclonal antibodies such as bebtelovimab help the immune system recognize and respond more effectively to the virus."
+    },
+    {
+        "input": "A person with covid19 has a/an supportive care treatment because/since/as {explanation}",
+        "output": "A person with covid19 has a supportive care treatment because by closely monitoring patients, helping them breathe, delivering intravenous fluids, keeping their fever down and treating cough, we can hopefully prevent adverse events, such as chronic shortness of breath, or worse, death in severe cases"
+    },
+    {
+        "input": "A person with covid19 has a/an rest treatment because/since/as {explanation}",
+        "output": "A person with covid19 has a rest treatment because ample sleep and rest supports the immune system, which reduces the risk of infection and can improve outcomes for people fighting a virus"
+    },
+    {
+        "input": "A person with covid19 has a/an stay home treatment because/since/as {explanation}",
+        "output": "A person with covid19 has an stay home treatment because it is a highly contagious disease that is spread through droplets from the infected so it's best to stay home."
+    },
+    {
+        "input": "A person with acne has a/an oral medication treatment because/since/as {explanation}",
+        "output": "A person with acne has an oral medication treatment as it can effectively combat blemishes by killing bacteria on and within the skin, regulating the hormone changes that lead to acne breakouts. It also help decrease inflammation of the skin."
+    },
+    {
+        "input": "A person with acne has a/an wash areas treatment because/since/as {explanation}",
+        "output": "A person with acne has a wash areas treatment because people with acne have skin cells that don't shed away properly. They are more sensitive to irritation caused by Propionibacteria acnes , an acne-causing bacteria.  It's important to wash areas to remove impurities, dead skin cells, and extra oil from your skin's surface."
+    },
+    {
+        "input": "A person with acne has a/an avoid irritants treatment because/since/as {explanation}",
+        "output": "A person with acne has an avoid irritants treatment because irritants cause inflammation, making acne breakouts worse"
+    },
+    {
+        "input": "A person with acne has a/an avoid sun treatment because/since/as {explanation}",
+        "output": "A person with acne has an avoid sun treatment because after exposure to sun the epidermis [the top layer of skin] starts to dry and thicken and your body responds by producing even more oil to compensate for what was lost \u2013 and that can lead to more breakouts"
+    },
+    {
+        "input": "A person with acne has a/an shower after physical exercise treatment because/since/as {explanation}",
+        "output": "A person with acne has a shower after physical exercise treatment because working out can cause excessive sweating, as well as a buildup of oil, dirt and bacteria on your skin. Since germs thrive at the gym, it's important to shower after work out to prevent clogged pores and the spread of harmful bacteria."
+    },
+    {
+        "input": "A person with acne has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with acne has a stress management treatment because researchers have found that wounds, including acne, are much slower in healing when a person is under stress and lower healing of acne means that the pimples stay longer and are more susceptible to increasing in severity"
+    },
+    {
+        "input": "A person with acne has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with acne has a get enough sleep treatment because by getting enough sleep, fatigue is eliminated, stress levels are reduced, blood is flowing properly and your skin can repair at a faster rate and help reduce factors that cause acne"
+    },
+    {
+        "input": "A person with anxiety has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with anxiety has a psychotherapy treatment because psychotherapy can help you uncover the underlying causes of your worries and fears, learn how to relax, and develop healthier coping mechanisms and problem-solving skills to overcome anxiety."
+    },
+    {
+        "input": "A person with anxiety has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with anxiety has an medication treatment because Benzodiazepines are sedatives that can help relax your muscles and calm your mind from anxiety."
+    },
+    {
+        "input": "A person with anxiety has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with anxiety has a regular exercise treatment because regular exercise may help ease depression and anxiety by releasing feel good endorphins, natural cannabis like brain chemicals (endogenous cannabinoids) and other natural brain chemicals that can enhance the sense of well being"
+    },
+    {
+        "input": "A person with anxiety has a/an avoid caffeine treatment because/since/as {explanation}",
+        "output": "A person with anxiety has an avoid caffeine treatment because high levels of caffeine can not only increase anxiety and nervousness, but also decrease the production of the feel-good chemical serotonin in the body, causing a depressed mood."
+    },
+    {
+        "input": "A person with anxiety has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with anxiety has a stress management treatment because stress is a common trigger for anxiety and it's important to catch anxiety symptoms early to prevent development of an anxiety disorder"
+    },
+    {
+        "input": "A person with anxiety has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with anxiety has a get enough sleep treatment because getting a good night's sleep can improve the mental well being and helps to better manage the anxiety"
+    },
+    {
+        "input": "A person with anxiety has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with anxiety has a healthy diet treatment because foods naturally rich in magnesium may, therefore, help a person to feel calmer"
+    },
+    {
+        "input": "A person with dementia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with dementia has a medication treatment as most people with alzheimer's who take one of medications like Donepezil, Galantamine and Rivastigmine get some benefit from it, including less anxiety, improved motivation, and better concentration and memory and some are able to continue with their regular activities."
+    },
+    {
+        "input": "A person with dementia has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with dementia has a therapy treatment because cognitive stimulation therapy aimed at those with mild to moderate dementia involves taking part in group activities and exercises designed to help improve memory, problem-solving skills and language ability"
+    },
+    {
+        "input": "A person with dementia has a/an modify environment treatment because/since/as {explanation}",
+        "output": "A person with dementia has a modify environment treatment because familiarity with environment is important for a person with dementia. The home environment should help them know where they are and help them find where they want to go"
+    },
+    {
+        "input": "A person with dementia has a/an simplify tasks treatment because/since/as {explanation}",
+        "output": "A person with dementia has a simplify tasks treatment because it benefits both the person with dementia and care giver as activities of the day go smoother, with less frustration"
+    },
+    {
+        "input": "A person with dementia has a/an enhance communication treatment because/since/as {explanation}",
+        "output": "A person with dementia has a/an enhance communication treatment because it helps people with dementia to keep a sense of self, sustain relationships and maintain their quality of life"
+    },
+    {
+        "input": "A person with dementia has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with dementia has a regular exercise treatment because researches find that any kind of exercise is associated with a decreased risk of developing dementia and aerobic exercise in particular may help slow shrinkage in the hippocampus, the part of the brain that deals with memory"
+    },
+    {
+        "input": "A person with dementia has a/an establish nighttime ritual treatment because/since/as {explanation}",
+        "output": "A person with dementia has an establish nighttime ritual treatment as dementia behavior is often worse at night and establishing going to bed rituals that are calming and away from the noise of television, meal cleanup and active family members helps"
+    },
+    {
+        "input": "A person with dementia has a/an engage in activity treatment because/since/as {explanation}",
+        "output": "A person with dementia has an engage in activity treatment because engage in activity can help regulate their sleep and prevent restlessness and sleeplessness in the evening. It can also help maintain a positive mood and lower the risk of them developing depression"
+    },
+    {
+        "input": "A person with dementia has a/an plan for future treatment because/since/as {explanation}",
+        "output": "A person with dementia has a plan for future treatment because planning for the future after a diagnosis of dementia enables people to play a key role in making important decisions on their care needs and financial and legal affairs. Discussing and planning for the future will help prevent difficult and often stressful situations arising later."
+    },
+    {
+        "input": "A person with ptsd has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with ptsd has a psychotherapy treatment because its focus is on the meaning of trauma-related symptoms and behaviors and on the meaning of catastrophic life events to the person as a whole and the consequences of catastrophe can be utilized by the survivor to identify and help master future danger situations and to try to make whole again the fabric of life"
+    },
+    {
+        "input": "A person with ptsd has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with ptsd has a medication treatment as most common medications used for treating the depression and anxiety associated with PTSD belong to a class of antidepressants called selective serotonin reuptake inhibitors, or SSRIs which work by raising levels of the brain chemical serotonin, which regulates mood, appetite, and sleep"
+    },
+    {
+        "input": "A person with ptsd has a/an avoid drugs and alcohol treatment because/since/as {explanation}",
+        "output": "A person with ptsd has an avoid drugs and alcohol treatment because the use of drugs and alcohol will intensify reckless and risk-taking behavior and exposing people to dangerous situations where they can be re-traumatized"
+    },
+    {
+        "input": "A person with ptsd has a/an avoid caffeine treatment because/since/as {explanation}",
+        "output": "A person with ptsd has an avoid caffeine treatment because caffeine and stress can both elevate cortisol levels and high amounts of caffeine can lead to the negative health effects associated with prolonged elevated levels of cortisol (as in chronic stress)"
+    },
+    {
+        "input": "A person with ptsd has a/an take care of yourself treatment because/since/as {explanation}",
+        "output": "A person with ptsd has a take care of yourself treatment because relaxation techniques such as meditation, deep breathing, massage, or yoga can activate the body's relaxation response and ease symptoms of PTSD. Make your own health a priority by doing activities that help you recharge."
+    },
+    {
+        "input": "A person with ptsd has a/an social support treatment because/since/as {explanation}",
+        "output": "A person with ptsd has a social support treatment because social support has been found to be protective against the development of PTSD and important in the related treatment outcome in people with PTSD, treatments for PTSD and associated comorbidities should incorporate a social support building component to improve symptoms and potentially reduce future relapse."
+    },
+    {
+        "input": "A person with ptsd has a/an friends and family treatment because/since/as {explanation}",
+        "output": "A person with ptsd has a friends and family treatment because friends and family can listen to them, not to blame them or put pressure on them to get better without the time and support they need, learn and avoid situations or conversations might trigger flashbacks and discuss with them how you can help if they become unwell or if a crisis happens"
+    },
+    {
+        "input": "A person with dystonia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a medication treatment because a number of different medications can be tried to treat dystonia, such as drugs that affect the specific neurotransmitters acetylcholine, GABA, and dopamine"
+    },
+    {
+        "input": "A person with dystonia has a/an therapy treatment because/since/as {explanation}",
+        "output": "person with dystonia has a therapy treatment because physical therapy or occupational therapy or both to help ease symptoms and improve function"
+    },
+    {
+        "input": "A person with dystonia has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a surgery treatment because surgery reduce the motor symptoms and tremors of dystonia, as well as the side-effects that can come from some of the medications used to treat the disease."
+    },
+    {
+        "input": "A person with dystonia has a/an sensory tricks treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a sensory tricks treatment because sensory tricks like touching certain parts of your body may cause spasms to stop temporarily or reduce."
+    },
+    {
+        "input": "A person with dystonia has a/an yoga and meditation treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a yoga and meditation treatment because yoga and meditation reducing stress and fatigue is often referenced as one of the successful self-managed interventions in dystonia patients."
+    },
+    {
+        "input": "A person with Epilepsy has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a medication treatment because medications help control stabilising the electrical activity of the brain and reduce or avoid siezures."
+    }
+]

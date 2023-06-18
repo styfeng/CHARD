@@ -1,0 +1,70 @@
+A person with CrohnsDisease has a/an regular exercise prevention because/since/as {explanation}
+A person with schizophrenia has a/an living in a populated area risk factor because/since/as {explanation}
+A person with bipolar has a/an avoid drugs and alcohol prevention because/since/as {explanation}
+A person with schizophrenia has a/an family environment risk factor because/since/as {explanation}
+A person with covid19 has a/an booster dose prevention because/since/as {explanation}
+A person with Hyperhidrosis has a/an medication treatment because/since/as {explanation}
+A person with schizophrenia has a/an pregnancy and birth complication risk factor because/since/as {explanation}
+A person with gerd has a/an don't smoke treatment because/since/as {explanation}
+A person with dementia has a/an treat health conditions prevention because/since/as {explanation}
+A person with ocd has a/an mental illness risk factor because/since/as {explanation}
+A person with insomnia has a/an bipolar disorder risk factor because/since/as {explanation}
+A person with endometriosis has a/an immune system disorder risk factor because/since/as {explanation}
+A person with Gastroparesis has a/an healthy diet prevention because/since/as {explanation}
+A person with CysticFibrosis has a/an surgery treatment because/since/as {explanation}
+A person with insomnia has a/an depression risk factor because/since/as {explanation}
+A person with parkinsons has a/an medication treatment because/since/as {explanation}
+A person with bpd has a/an hospitalization treatment because/since/as {explanation}
+A person with parkinsons has a/an surgery treatment because/since/as {explanation}
+A person with Dysthymia has a/an family history risk factor because/since/as {explanation}
+A person with Narcolepsy has a/an age risk factor because/since/as {explanation}
+A person with Alzheimers has a/an engage in activity prevention because/since/as {explanation}
+A person with ErectileDysfunction has a/an regular exercise treatment because/since/as {explanation}
+A person with adhd has a/an meditation treatment because/since/as {explanation}
+A person with insomnia has a/an meditation and yoga prevention because/since/as {explanation}
+A person with ibs has a/an lack of exercise risk factor because/since/as {explanation}
+A person with endometriosis has a/an low body mass index risk factor because/since/as {explanation}
+A person with Gastroparesis has a/an diabetes risk factor because/since/as {explanation}
+A person with CrohnsDisease has a/an medication risk factor because/since/as {explanation}
+A person with Alzheimers has a/an healthy diet treatment because/since/as {explanation}
+A person with ErectileDysfunction has a/an psychological counseling treatment because/since/as {explanation}
+A person with migraine has a/an acupuncture treatment because/since/as {explanation}
+A person with Sinusitis has a/an common cold risk factor because/since/as {explanation}
+A person with Fibromyalgia has a/an meditation and yoga prevention because/since/as {explanation}
+A person with adhd has a/an smoking risk factor because/since/as {explanation}
+A person with ibs has a/an avoid certain foods treatment because/since/as {explanation}
+A person with insomnia has a/an caffeine risk factor because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an healthy diet prevention because/since/as {explanation}
+A person with gout has a/an lose weight prevention because/since/as {explanation}
+A person with ErectileDysfunction has a/an depression risk factor because/since/as {explanation}
+A person with covid19 has a/an ethnicity risk factor because/since/as {explanation}
+A person with gerd has a/an connective tissue disorder risk factor because/since/as {explanation}
+A person with Hyperhidrosis has a/an infection risk factor because/since/as {explanation}
+A person with CrohnsDisease has a/an nutrition therapy treatment because/since/as {explanation}
+A person with ocd has a/an personality risk factor because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an age risk factor because/since/as {explanation}
+A person with ErectileDysfunction has a/an surgeries risk factor because/since/as {explanation}
+A person with bipolar has a/an medication prevention because/since/as {explanation}
+A person with CysticFibrosis has a/an family history risk factor because/since/as {explanation}
+A person with dementia has a/an depression risk factor because/since/as {explanation}
+A person with Sinusitis has a/an driving risk factor because/since/as {explanation}
+A person with Sciatica has a/an medication treatment because/since/as {explanation}
+A person with Prostatitis has a/an infection risk factor because/since/as {explanation}
+A person with pcos has a/an diabetes risk factor because/since/as {explanation}
+A person with Narcolepsy has a/an head injury risk factor because/since/as {explanation}
+A person with ibs has a/an stress management prevention because/since/as {explanation}
+A person with diabetes has a/an regular exercise prevention because/since/as {explanation}
+A person with Hyperhidrosis has a/an antiperspirant treatment because/since/as {explanation}
+A person with acne has a/an topical medication treatment because/since/as {explanation}
+A person with Anemia has a/an healthy diet prevention because/since/as {explanation}
+A person with Sciatica has a/an surgery treatment because/since/as {explanation}
+A person with Hypothyroidism has a/an autoimmune disease risk factor because/since/as {explanation}
+A person with asthma has a/an occupational exposure risk factor because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an joint injury risk factor because/since/as {explanation}
+A person with LymeDisease has a/an remove ticks quickly prevention because/since/as {explanation}
+A person with hpv has a/an HPV vaccine prevention because/since/as {explanation}
+A person with dystonia has a/an stress management treatment because/since/as {explanation}
+A person with ptsd has a/an follow treatment plan treatment because/since/as {explanation}
+A person with Sinusitis has a/an sprays treatment because/since/as {explanation}
+A person with Prostatitis has a/an healthy diet prevention because/since/as {explanation}
+A person with acne has a/an stress management prevention because/since/as {explanation}

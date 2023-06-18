@@ -1,0 +1,518 @@
+[
+    {
+        "input": "A person with Dysthymia has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with Dysthymia has an stress management prevention because traumatic or stressful life events, such as the loss of a loved one or financial problems are more likely to cause major depression."
+    },
+    {
+        "input": "A person with Dysthymia has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with Dysthymia has an early treatment prevention because while you can't prevent Dysthymia and other depression disorders, early treatment does promote remission, prevent relapse, and reduce the emotional and financial burden of the disease"
+    },
+    {
+        "input": "A person with Dysthymia has a/an long-term maintenance treatment prevention because/since/as {explanation}",
+        "output": "A person with Dysthymia has a long-term maintenance treatment prevention because this condition usually last for longer than 5 years, so following response to acute treatment, long\u2010term continuation and maintenance therapy is required to protect patients from relapse or recurrence of symptoms."
+    },
+    {
+        "input": "A person with ibs has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with ibs has a healthy diet prevention because diet and activity changes improve symptoms over time. Taking healthy diet such as whole-grain bread and cereals, beans, fruits, and vegetables can help prevent ibs."
+    },
+    {
+        "input": "A person with ibs has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with ibs has an regular exercise prevention because exercise helps IBS symptoms by minimizing stress, improving bowel function, and reducing bloating."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a regular exercise prevention because any physical activity can reduce narcolepsy symptoms, regular exercise is particularly beneficial"
+    },
+    {
+        "input": "A person with Narcolepsy has a/an stick to a schedule prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has an stick to a schedule prevention because going to bed and waking up at the same time every day, even on the weekends, can help people sleep better."
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an genetic testing prevention because/since/as {explanation}",
+        "output": "A person with Cystic Fibrosis has an genetic testing prevention because while Cystic Fibrosis cannot be prevent genetic testing can show if the parents are a carrier to be aware for future treatment if they decide to have children."
+    },
+    {
+        "input": "A person with POTS has a/an diet and nutrition prevention because/since/as {explanation}",
+        "output": "A person with POTS has an diet and nutrition prevention because diet with high fiber and complex carbohydrates may help reduce blood glucose (sugar) spikes and lessen POTS symptoms."
+    },
+    {
+        "input": "A person with POTS has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with POTS has an regular exercise prevention because exercise expands blood volume and plasma volume and increase cardiac muscle mass and heart size. These in turn have been associated with improvement in symptoms, and therefore exercise training is often suggested as a therapy for POTS syndrome"
+    },
+    {
+        "input": "A person with POTS has a/an sleep prevention because/since/as {explanation}",
+        "output": "A person with POTS has a sleep prevention because sleep problems contribute significantly to the diminished quality of life"
+    },
+    {
+        "input": "A person with POTS has a/an drink fluids prevention because/since/as {explanation}",
+        "output": "A person with POTS has a drink fluids prevention because increasing the amount of fluid in the body, makes it easier for blood to get to the head and helps feel less dizzy"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a don't smoke prevention as studies have shown that smokers get more autoimmune conditions, and MS is an autoimmune condition"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a healthy diet prevention because healthy diet is important for long-term health of the nervous system as well as helps with constipation and bloating, and experience perfect daily bowel movements"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a stress management prevention because  stress is more likely to exacerbate the symptoms of MS and bring about a flare or relapse"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a regular exercise prevention because regular aerobic exercise can increase strength and balance, improve bowel and bladder control, and decrease spasticity"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an vitamin D prevention because/since/as {explanation}",
+        "output": "A person with Multiple Sclerosis has a/an vitamin D prevention because low blood levels of vitamin D are associated with an increased number of brain lesions and signs of a more active disease state in people with multiple sclerosis."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an sun exposure prevention because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a sun exposure prevention because sunlight is the body's most efficient source for vitamin D, suggesting that exposure to sunlight may help protection from MS."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an avoid alcohol prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has an avoid alcohol prevention because drinking alcohol can gradually irritate and erode your stomach lining and exposes your stomach tissues underneath to digestive acids. Through abstinence from alcohol use, a person's digestive system can make a complete recovery and help prevent gastroparesis."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has an don't smoke prevention because smoking is known to damage the stomach lining causing ulcers and other problems."
+    },
+    {
+        "input": "A person with gout has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with gout has an regular exercise prevention because exercising helps control gout by lowering uric acid levels to prevent gout attacks."
+    },
+    {
+        "input": "A person with gout has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with gout has an healthy diet prevention because fruits, vegetables, whole grains, soy products and low-fat dairy products may help prevent gout attacks by lowering uric acid levels."
+    },
+    {
+        "input": "A person with gout has a/an healthy drinks prevention because/since/as {explanation}",
+        "output": "A person with gout has a healthy drinks prevention as lemons and lemon juice might be a useful remedy to help prevent gout in people with high uric acid levels"
+    },
+    {
+        "input": "A person with adhd has a/an limit screen time prevention because/since/as {explanation}",
+        "output": "A person with adhd has a limit screen time prevention because too much screen time primarily impacts our ability to focus. By limiting screen use to a maximum of one hour a day of high-quality programming can help prevent adhd."
+    },
+    {
+        "input": "A person with adhd has a/an avoid drugs, alcohol, and smoking during pregnancy prevention because/since/as {explanation}",
+        "output": "A person with adhd has an avoid drugs, alcohol, and smoking during pregnancy prevention because consuming all these can cause complications in the developing fetus and the newborn. Pregnant women are advised to abstain from drinking any alcohol or cigarette smoking  that can help prevent adhd."
+    },
+    {
+        "input": "A person with adhd has a/an protect child from exposure to pollutants and toxins prevention because/since/as {explanation}",
+        "output": "A person with adhd has an protect child from exposure to pollutants and toxins prevention because toxins like lead exposure especially causes difficulty with attention and experience behavioral issues that may be associated with ADHD"
+    },
+    {
+        "input": "A person with diabetes has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with diabetes has an healthy diet prevention because with a unhealthy diet your pancreas will wear out and stop producing enough insulin to keep your blood sugars under control."
+    },
+    {
+        "input": "A person with diabetes has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with diabetes has an lose weight prevention because weight loss has been shown to improve glycemic control by increasing insulin sensitivity and glucose uptake."
+    },
+    {
+        "input": "A person with diabetes has a/an medication prevention because/since/as {explanation}",
+        "output": "A person with diabetes has an medication prevention because the bodies ability to regulate sugar gets worse over time so medication helps keep your blood sugar level as normal as possible to prevent more health problems"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a don't smoke prevention because  smoking increases the risk of developing Crohn's disease and worsens its course, increasing the need for steroids, immunosuppressants and re-operations"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a healthy diet prevention because  eating a high-fiber, plant-based diet could help lead to Crohn's disease remission"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with Crohns Disease has an stress management prevention because stress can cause flare ups and relapse by disturbing intestine function and motility."
+    },
+    {
+        "input": "A person with Sinusitis has a/an medication prevention because/since/as {explanation}",
+        "output": "A person with Sinusitis has an medication prevention because taking chronic medication like antihistamines to prevent allergy flare ups or steroids to reduce sinus inflammation can lessen symptoms."
+    },
+    {
+        "input": "A person with Sinusitis has a/an rinsing nose with salt water prevention because/since/as {explanation}",
+        "output": "A person with Sinusitis has an rinsing nose with salt water prevention because saline can wash away allergens, mucus, and other debris, and help to moisten the mucous membranes."
+    },
+    {
+        "input": "A person with gerd has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with gerd has a healthy diet prevention because fried and fatty foods can cause the LES (Lower Esophageal Sphincter) to relax, allowing more stomach acid to back up into the esophagus. Increased fiber intake, specifically in the form of fruits and vegetables, can help prevent GERD."
+    },
+    {
+        "input": "A person with gerd has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with gerd has /an don't smoke prevention because nicotine from cigarettes causes the relaxing the lower esophageal sphincter which is a main problem with GERD."
+    },
+    {
+        "input": "A person with gerd has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with gerd has an lose weight prevention because excess weight increases abdominal pressure, making stomach acid leakage or backflow more likely."
+    },
+    {
+        "input": "A person with gerd has a/an avoid certain medications prevention because/since/as {explanation}",
+        "output": "A person with gerd has an avoid certain medications prevention because certain medications like NSAIDs and dietary supplements can irritate the lining of your esophagus, causing heartburn pain"
+    },
+    {
+        "input": "A person with gerd has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with gerd has an stress management prevention because depletes the production of substances called prostaglandins, which normally protect the stomach from the effects of acid."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Ankylosing Spondylitis has an regular exercise prevention because exercise can help ease pain, maintain flexibility and improve your posture"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an good posture prevention because/since/as {explanation}",
+        "output": "A person with Ankylosing Spondylitis has a/an good posture prevention because when people experience back pain, they often change their posture to ease the pain. Over time, postural changes can cause stiffness and weakness in muscles and joints and lead to more pain especially Ankylosing Spondylitis patients so it's important to sit correctly."
+    },
+    {
+        "input": "A person with endometriosis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with endometriosis has a regular exercise prevention because the mood-boosting effect of exercise is helps with depression and anxiety sometimes occur along with endometriosis"
+    },
+    {
+        "input": "A person with endometriosis has a/an avoid alcohol prevention because/since/as {explanation}",
+        "output": "A person with endometriosis has an avoid alcohol prevention because alcohol raises estrogen levels, which could lead to more painful endometrial symptoms."
+    },
+    {
+        "input": "A person with endometriosis has a/an avoid caffeine prevention because/since/as {explanation}",
+        "output": "A person with endometriosis has an avoid caffeine prevention because a high caffeine intake may increase estrogen levels in the body. By cutting down on caffeine, one can experience less endometriosis pain, conciliate the digestive symptoms, and can lower the anxiety that comes with endometriosis."
+    },
+    {
+        "input": "A person with covid19 has a/an vaccination prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a vaccination prevention because the vaccine stimulates the body's immunity to keep a person protected against subsequent infections or diseases. COVID-19 vaccination helps protect you by creating an antibody response without you having to experience sickness, potentially including severe illness."
+    },
+    {
+        "input": "A person with covid19 has a/an social distancing prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a social distancing prevention because social distancing  ensures  secure physical distance between people (of at least one metre), and reduce contact with infested people."
+    },
+    {
+        "input": "A person with covid19 has a/an wash hands prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a wash hands prevention because COVID-19 spread when mucus or droplets containing the virus get into one's body through body parts including hands and most important way to prevent the spread of a virus is to wash hands frequently with soap and water."
+    },
+    {
+        "input": "A person with covid19 has a/an hand sanitizer prevention because/since/as {explanation}",
+        "output": "A person with covid19 has an hand sanitizer prevention because alcohol-based hand sanitizers are effective at inactivating enveloped viruses like covid19."
+    },
+    {
+        "input": "A person with covid19 has a/an avoid touching face prevention because/since/as {explanation}",
+        "output": "A person with covid19 has  an avoid touching face prevention because covid19 lives in the mucus of your eyes, nose and mouth and touching your face spreads those droplets to other surfaces."
+    },
+    {
+        "input": "A person with covid19 has a/an clean surfaces prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a clean surfaces prevention because cleaning with Alcohol, soap or detergent reduces the amount of viruses on surfaces and decreases risk of infection from surfaces"
+    },
+    {
+        "input": "A person with covid19 has a/an stay home prevention because/since/as {explanation}",
+        "output": "A person with covid19 has an stay home prevention because covid19 is a contagious disease spread by droplets so by staying home with minimal contacts you don't spread your droplets to others."
+    },
+    {
+        "input": "A person with acne has a/an wash areas prevention because/since/as {explanation}",
+        "output": "A person with acne has an wash areas prevention because washing your face twice daily to remove impurities, dead skin cells, and extra oil from your skin's surface stops acne.."
+    },
+    {
+        "input": "A person with acne has a/an avoid irritants prevention because/since/as {explanation}",
+        "output": "A person with acne has an avoid irritants prevention because using oily or irritating personal care products clog your pores causing acne."
+    },
+    {
+        "input": "A person with acne has a/an avoid sun prevention because/since/as {explanation}",
+        "output": "A person with acne has a/an avoid sun prevention because after you've been in the sun, the epidermis starts to dry and thicken causing the skin to create more oil for breakouts."
+    },
+    {
+        "input": "A person with acne has a/an get enough sleep prevention because/since/as {explanation}",
+        "output": "A person with acne has an get enough sleep prevention because if the body doesn't feel rested and could kick-start that cortisol surge, which could lead to risk for more acne"
+    },
+    {
+        "input": "A person with anxiety has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with anxiety has an early treatment prevention because the longer one waits to treat, the more at risk a person is for developing depression and other complications"
+    },
+    {
+        "input": "A person with anxiety has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with anxiety has a regular exercise prevention because exercise releases feel-good endorphins, and other natural brain chemicals that can enhance your sense of well-being. Engaging in exercise diverts you from the very thing you are anxious about."
+    },
+    {
+        "input": "A person with anxiety has a/an social interaction prevention because/since/as {explanation}",
+        "output": "A person with anxiety has a social interaction prevention because socialization increases a hormone that decreases anxiety levels and make us feel more confident in our ability to cope with stressors."
+    },
+    {
+        "input": "A person with anxiety has a/an avoid drugs and alcohol prevention because/since/as {explanation}",
+        "output": "A person with anxiety has an avoid drugs and alcohol prevention because alcohol and drugs change levels of serotonin and other neurotransmitters in the brain, which can worsen anxiety"
+    },
+    {
+        "input": "A person with anxiety has a/an avoid caffeine prevention because/since/as {explanation}",
+        "output": "A person with anxiety has an avoid caffeine prevention because caffeine stimulates your \"fight or flight\" response, and research has shown that this can make anxiety worse and can even trigger an anxiety attack."
+    },
+    {
+        "input": "A person with anxiety has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with anxiety has an stress management prevention because anxiety is a person's specific reaction to stress. Anxiety is typically characterized by a \"persistent feeling of apprehension or dread\" in situations that are not actually threatening and persists after the stressful situation has passed."
+    },
+    {
+        "input": "A person with anxiety has a/an get enough sleep prevention because/since/as {explanation}",
+        "output": "A person with anxiety has an get enough sleep prevention because sleeps restores the brain's prefrontal mechanism that regulates our emotions, lowering emotional and physiological reactivity and preventing anxiety spirals."
+    },
+    {
+        "input": "A person with anxiety has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with anxiety has a healthy diet prevention because enhancing the diet with foods rich in antioxidants may help ease the symptoms of anxiety"
+    },
+    {
+        "input": "A person with dementia has a/an mental stimulation prevention because/since/as {explanation}",
+        "output": "A person with dementia has an mental stimulation prevention because activity that exercises the brain may build brain reserve that helps to compensate for the damage caused by Alzheimer's or other diseases. Because the brain is able to compensate and keep functioning well, the onset of dementia may be delayed."
+    },
+    {
+        "input": "A person with dementia has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "person with dementia has a/an regular exercise prevention because maintaining physical fitness can help keep blood flowing normally to brain tissue, which can reduce the risk of damage or deterioration."
+    },
+    {
+        "input": "A person with dementia has a/an social interaction prevention because/since/as {explanation}",
+        "output": "A person with dementia has an social interaction prevention because social interactions improve blood flow in the brain, and to help in the creation of new synapses which prevents dementia."
+    },
+    {
+        "input": "A person with dementia has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with dementia has an don't smoke prevention because smoking can tighten and damage blood vessels, which can restrict blood flow to the brain causing dementia."
+    },
+    {
+        "input": "A person with dementia has a/an vitamins prevention because/since/as {explanation}",
+        "output": "A person with dementia has an vitamins prevention because Vitamin B6 has been proven to improve brain function, nerve function and red cell production. Vitamin B12 and Folic Acid can help lower the levels of an amino acid in the blood that is often linked to dementia."
+    },
+    {
+        "input": "A person with dementia has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with dementia has an lose weight prevention because excess body fat increases inflammation which might contribute to the build-up of damaging proteins in the brain"
+    },
+    {
+        "input": "A person with dementia has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with dementia has an healthy diet prevention because diets high in saturated and trans fats have been shown to increase cognitive decline and the risk of worsening dementia"
+    },
+    {
+        "input": "A person with dementia has a/an sleep prevention because/since/as {explanation}",
+        "output": "A person with dementia has a sleep prevention because if you don't get enough sleep, your brain won't have enough time to drain away beta amyloid and other substances. When we sleep our brain flushes these amyloid-betas, preventing them from forming into plaque and damaging our neurons and can help prevent dementia."
+    },
+    {
+        "input": "A person with ptsd has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with ptsd has an early treatment prevention because early detection helps the patient not be stuck in a trauma spiral and generally lessens the severity of symptoms experienced like fear."
+    },
+    {
+        "input": "A person with ptsd has a/an therapy prevention because/since/as {explanation}",
+        "output": "A person with ptsd has an therapy prevention because therapy aims to help discover skills and improve coping strategies to better respond to reminders and emotions associated with the traumatic event"
+    },
+    {
+        "input": "A person with ptsd has a/an social support prevention because/since/as {explanation}",
+        "output": "A person with ptsd has a social support prevention because social support has been found to be protective against the development of PTSD and also helps improve symptoms and potentially reduce future relapse"
+    },
+    {
+        "input": "A person with dystonia has a/an genetic testing prevention because/since/as {explanation}",
+        "output": "A person with dystonia has an genetic testing prevention because you can test for two genetic types DYT1 and DYT28 early on to get better treament."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an regular checkups prevention because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a regular checkups prevention because regular checkups can help with the early identification and treatment of conditions that can potentially lead to ED"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an avoid drugs and alcohol prevention because/since/as {explanation}",
+        "output": "A person with Erectile Dysfunction has an avoid drugs and alcohol prevention because alcohol is a depressant that slow the signals between the brain and body, resulting in ED"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a regular exercise prevention because working the muscles beyond the pelvic floor may also help combat erectile dysfunction. Exercise delivers oxygen and nutrients to your tissues and helps your cardiovascular system work more efficiently."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with Erectile Dysfunction has an stress management prevention because stress increases cortisol in the body which limits testosterone for the sex drive."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an take care of mental health prevention because/since/as {explanation}",
+        "output": "A person with Erectile Dysfunction has a/an take care of mental health prevention because mental health problems cause greater impairment in functional status, lower sexual self-efficacy, greater depression and anxiety at the last intercourse."
+    },
+    {
+        "input": "A person with Herpes has a/an limit sexual activity prevention because/since/as {explanation}",
+        "output": "A person with Herpes has a limit sexual activity prevention because herpes is easily spread from skin-to-skin contact with someone who has the virus"
+    },
+    {
+        "input": "A person with Herpes has a/an wear protection prevention because/since/as {explanation}",
+        "output": "A person with Herpes has an wear protection prevention because Herpes is still a STD and is highly contagious during sexual intercourse."
+    },
+    {
+        "input": "A person with insomnia has a/an good sleep habits prevention because/since/as {explanation}",
+        "output": "A person with insomnia has a good sleep habits prevention because good sleep improves your brain performance, mood, and health. Consistent sleep schedule can significantly impact your quality of sleep and can help prevent insomnia."
+    },
+    {
+        "input": "A person with insomnia has a/an stay active prevention because/since/as {explanation}",
+        "output": "A person with insomnia has a stay active prevention because  sedentary behavior tends to be associated with an elevated risk of insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an avoid naps prevention because/since/as {explanation}",
+        "output": "A person with insomnia has an avoid naps prevention because long or frequent naps might interfere with nighttime sleep"
+    },
+    {
+        "input": "A person with insomnia has a/an avoid alcohol prevention because/since/as {explanation}",
+        "output": ": A person with insomnia has an avoid alcohol prevention because alcohol disrupts breathing during sleep by relaxing throat muscles. Alcohol can also reduce the brain's ability to wake and detect a lack of oxygen in the body, and leads to longer and more frequent breathing pauses"
+    },
+    {
+        "input": "A person with insomnia has a/an avoid caffeine prevention because/since/as {explanation}",
+        "output": "A person with insomnia has an avoid caffeine prevention because those who are caffeine-free may find it takes them much less time to fall asleep. Avoiding caffeine increases the quantity and quality of your sleep."
+    },
+    {
+        "input": "A person with insomnia has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with insomnia has a stress management prevention because sleep is a powerful stress reducer and following a regular sleep routine calms and restores the body, improves concentration, regulates mood, and sharpens judgment and decision-making."
+    },
+    {
+        "input": "A person with Anemia has a/an vitamins and minerals prevention because/since/as {explanation}",
+        "output": "A person with Anemia has an vitamins and minerals prevention because anemia is a deficiency of vitamins and minerals in the blood so you need to replace them with diet or supplements to be healthy."
+    },
+    {
+        "input": "A person with LymeDisease has a/an avoid wooded and bushy areas prevention because/since/as {explanation}",
+        "output": "A person with Lyme Disease has an avoid wooded and bushy areas prevention because blacklegged ticks (the ticks that cause Lyme disease) live in moist and humid environments, particularly in and near wooded or grassy areas."
+    },
+    {
+        "input": "A person with LymeDisease has a/an cover up prevention because/since/as {explanation}",
+        "output": ": A person with Lyme Disease has a/an cover up prevention because covering your ankles and wrists with long pants and shirts prevents the Lyme Disease causing ticks from biting you."
+    },
+    {
+        "input": "A person with LymeDisease has a/an use insect repellents prevention because/since/as {explanation}",
+        "output": "A person with Lyme Disease has an use insect repellents prevention because the repellent like DEET keeps the Lyme Disease causing ticks away."
+    },
+    {
+        "input": "A person with LymeDisease has a/an check for ticks prevention because/since/as {explanation}",
+        "output": "A person with Lyme Disease has/an check for ticks prevention because black-legged or deer ticks cause lyme disease and if you can't identify a bite it's harder to diagnose."
+    },
+    {
+        "input": "A person with migraine has a/an medication prevention because/since/as {explanation}",
+        "output": "A person with migraine has a medication prevention because drugs called tricyclic antidepressants can help prevent migraine attacks by increasing the amount of serotonin"
+    },
+    {
+        "input": "A person with migraine has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with migraine has an stress management prevention because stress is a common trigger of tension-type headaches and migraine and can make the headaches worse."
+    },
+    {
+        "input": "A person with migraine has a/an avoid alcohol prevention because/since/as {explanation}",
+        "output": "A person with migraine has an avoid alcohol prevention because alcohol contains ethanol which is known to trigger migraines."
+    },
+    {
+        "input": "A person with migraine has a/an avoid caffeine prevention because/since/as {explanation}",
+        "output": "A person with migraine has an avoid caffeine prevention because a possible abrupt withdrawal of caffeine in a later stage is a potent trigger for migraine attacks"
+    },
+    {
+        "input": "A person with migraine has a/an sleeping and eating routine prevention because/since/as {explanation}",
+        "output": "A person with migraine has an sleeping and eating routine prevention because eating and sleeping at the same time allows you to notice if a migraine is triggered by foods or lack of sleep."
+    },
+    {
+        "input": "A person with migraine has a/an drink fluids prevention because/since/as {explanation}",
+        "output": "A person with migraine has an drink fluids prevention because dehydration causes the brain to temporarily contract from fluid loss. This causes the brain to pull away from the skull, causing pain and resulting in a dehydration headache"
+    },
+    {
+        "input": "A person with migraine has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with migraine has an regular exercise prevention because exercise stimulates the release of the natural painkiller endorphin, which can aid in reducing the intensity and frequency of migraine headache."
+    },
+    {
+        "input": "A person with migraine has a/an meditation and yoga prevention because/since/as {explanation}",
+        "output": "A person with migraine has a meditation and yoga prevention because yoga's postures and meditation aspects have been shown to reduce stress and it could be very helpful in treating migraine"
+    },
+    {
+        "input": "A person with ocd has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with ocd has an early treatment prevention because early diagnosis and treatment can help you reduce ocd symptoms and its effects on your life. Early treatment may help prevent OCD from worsening and disrupting activities and your daily routine."
+    },
+    {
+        "input": "A person with parkinsons has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with parkinsons has an regular exercise prevention because exercises turns on the DJ-1 gene which prevents abnormal protein accumulation in brain."
+    },
+    {
+        "input": "A person with parkinsons has a/an consume caffeine prevention because/since/as {explanation}",
+        "output": "A person with parkinsons has an consume caffeine prevention because caffeine prevents the loss of the neurotransmitter dopamine."
+    },
+    {
+        "input": "A person with Alzheimers has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Alzheimers has an regular exercise prevention because exercise may help slow shrinkage in the hippocampus, the part of the brain that deals with memory."
+    },
+    {
+        "input": "A person with Alzheimers has a/an healthy diet prevention because/since/as {explanation}",
+        "output": "A person with Alzheimer's has a healthy diet prevention because eating a certain diet affects biological mechanisms, like oxidative stress and inflammation, that underlie Alzheimer's."
+    },
+    {
+        "input": "A person with Alzheimers has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with Alzheimers has an don't smoke prevention because smoking increases the risk of vascular problems, like strokes or smaller bleeds in the brain, which are dementia risk factors."
+    },
+    {
+        "input": "A person with Alzheimers has a/an social interaction prevention because/since/as {explanation}",
+        "output": "A person with Alzheimers has a social interaction prevention because  one can reduce the risk of cognitive rundown and delay the onset of AD if maintains strong social connections"
+    },
+    {
+        "input": "A person with hpv has a/an wear shoes and sandals prevention because/since/as {explanation}",
+        "output": "A person with hpv has an wear shoes and sandals prevention because plantar warts can develop on your feet from cuts or weak spots on the foot so it's important to keep them covered."
+    },
+    {
+        "input": "A person with hpv has a/an limit sexual activity prevention because/since/as {explanation}",
+        "output": "A person with hpv has an limit sexual activity prevention because the more sexual partners, the more possible exposure you have to HPV"
+    },
+    {
+        "input": "A person with hpv has a/an wear protection prevention because/since/as {explanation}",
+        "output": "A person with hpv has a wear protection prevention as consistent and correct use of latex condoms reduces the risk of genital herpes, syphilis, and chancroid only when the infected area or site of potential exposure is protected."
+    },
+    {
+        "input": "A person with Prostatitis has a/an good hygiene prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has a/an good hygiene prevention because keeping the penis and the area around it clean prevents bacterial infection."
+    },
+    {
+        "input": "A person with Prostatitis has a/an stand up prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has a stand up prevention because when you sit for long periods, it puts pressure on your prostate gland and inflames it over time, so standing up when possible can help prevent prostatitis."
+    },
+    {
+        "input": "A person with Prostatitis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has a regular exercise prevention since studies show that men who were more physically active were less likely to suffer from prostatitis and BPH"
+    },
+    {
+        "input": "A person with Prostatitis has a/an hydration prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an hydration prevention because keeping hydrated causes you to urinate more flushing out the bacteria in the urinary tract that cause infection."
+    },
+    {
+        "input": "A person with Prostatitis has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an lose weight prevention because obesity increases intra-abdominal pressure, which raises intravesical pressure, in turn worsening or causing BPH symptoms such as hesitancy, poor urine stream and nocturia making prostatitis worse."
+    },
+    {
+        "input": "A person with Prostatitis has a/an get enough sleep prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has a get enough sleep prevention because studies reveal that men who slept longer and with fewer interruption had increased levels of the sleep hormone melatonin in their urine and were 75% less likely to develop advanced prostate cancer"
+    },
+    {
+        "input": "A person with Prostatitis has a/an avoid alcohol and caffeine prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an avoid alcohol and caffeine prevention because caffeine and alcohol cause an \"allergic-like\" reaction leading to inflammation of the prostate and the urethra and urinary incontinence."
+    },
+    {
+        "input": "A person with Prostatitis has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an stress management prevention because stress may cause levels of certain hormones to shift, which in turn results in prostate enlargement."
+    },
+    {
+        "input": "A person with Prostatitis has a/an safe sex prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an safe sex prevention because the bacteria from the mouth or vagina can inflame the penis so it's important to keep it clean."
+    },
+    {
+        "input": "A person with Prostatitis has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with Prostatitis has an early treatment prevention because most prostatitis infections are bacterial and a quick round of antibiotics cures it. Giving the bacteria a chance to linger strengthens the infection."
+    },
+    {
+        "input": "A person with Sciatica has a/an sit smart prevention because/since/as {explanation}",
+        "output": "A person with Sciatica has a sit smart prevention because when sitting, the muscles that support the alignment of your pelvis and lower back can become tighter and compress on the sciatic nerve. Good posture techniques while you're sitting, standing, lifting objects and sleeping helps relieve pressure on your lower back that can help prevent sciatica."
+    },
+    {
+        "input": "A person with Sciatica has a/an good posture prevention because/since/as {explanation}",
+        "output": "A person with Sciatica has a good posture prevention because good posture creates a normal balance, relieving tension in the body causing sciatica."
+    },
+    {
+        "input": "A person with Sciatica has a/an lift smart prevention because/since/as {explanation}",
+        "output": "A person with Sciatica has an lift smart prevention because lifting heavy objects with your legs and not your back keeps your discs from bulging causing sciatica."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an regular exercise prevention because exercise can help maintain bone mass, improve balance, reduce stress, and increase strength"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an stress management prevention because stress weakens your body leaving you more vulnerable to the Fibromyalgia symptoms of chronic pain, fatigue, and depression."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an good sleep habits prevention because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an good sleep habits prevention because sleep deprivation can worsen the widespread feelings of pain and tenderness brought on by fibromyalgia."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an healthy lifestyle prevention because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a healthy lifestyle prevention because symptoms, such as pain, can often be managed by making changes to your lifestyle. Maintaining a healthy diet, exercising regularly, and getting enough rest are good rules to follow to prevent fibromyalgia."
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an avoid strenuous upper-body activity prevention because/since/as {explanation}",
+        "output": "A person with Paget Schroetter has an avoid strenuous upper-body activity prevention because Paget Schroetter causes thrombosis in the subclavian veins making excessive exercise both painful and a high risk for clots."
+    }
+]

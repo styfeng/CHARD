@@ -1,0 +1,102 @@
+[
+    {
+        "input": "A person with Costochondritis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Costochondritis has a medication treatment because ataminophen (Tylenol, others) ibuprofen (Advil, Motrin IB, others) or naproxen sodium, topical pain relievers including creams, gels, patches and sprays helps reduce pain and symptoms"
+    },
+    {
+        "input": "A person with Costochondritis has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with Costochondritis has a therapy treatment because Most patients get adequate relief with ice, heat, and gentle stretching and postural exercises"
+    },
+    {
+        "input": "A person with Costochondritis has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with Costochondritis has a surgery treatment because"
+    },
+    {
+        "input": "A person with rheumatoid has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a medication treatment because nonsteroidal anti-inflammatory drugs reduce pain and inflammation and disease-modifying antirheumatic drugs (DMARDs) curb your immune system to help slow RA or keep it from getting worse"
+    },
+    {
+        "input": "A person with rheumatoid has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a therapy treatment because  physiotherapy helps rheumatoid patients with pain control, reducing inflammation and joint stiffness and to return to the normal activities of daily living or sports."
+    },
+    {
+        "input": "A person with rheumatoid has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a surgery treatment as the surgeon removes the inflamed synovial tissue around the joint to reduce or eliminate the patient's symptoms"
+    },
+    {
+        "input": "A person with rheumatoid has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a/an regular exercise treatment because it helps reduce the disability often associated with rheumatoid arthritis and boosts strength and flexibility"
+    },
+    {
+        "input": "A person with rheumatoid has a/an heat or cold treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a heat or cold treatment because heat can relax muscles and helps lubricate joints, relieves muscle and joint stiffness, help warm up joints before activity, or ease a muscle spasm while cold can reduce inflammation, swelling, and pain"
+    },
+    {
+        "input": "A person with rheumatoid has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a stress management treatment because the connection between stress and RA has been identified in numerous studies. An analysis of 16 studies, published in Arthritis Research & TherapyTrusted Source, found that stress tends to make RA symptoms worse."
+    },
+    {
+        "input": "A person with rheumatoid has a/an weight loss treatment because/since/as {explanation}",
+        "output": "A person with rheumatoid has a weight loss treatment because if you are lean, you can ease pressure on your joints, reduce inflammation, and help you get around more easily. Weight loss improve health and alleviate the symptoms."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a/an surgery treatment because surgeries like lobectomy removes the lobe containing the cancer and thyroidectomy removes the thyroid gland"
+    },
+    {
+        "input": "A person with thyroidcancer has a/an thyroid hormone therapy treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a thyroid hormone therapy treatment because hormonal therapy is used to control TSH, which in turn helps prevent cancer cells from growing and reduce the risk of thyroid cancer coming back, or recurring."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an radioactive iodine treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a radioactive iodine treatment because the radioactivity destroys the cancer cells. The radioactive iodine gives off radiation nearby and destroys the cancer cells over time."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an alcohol ablation treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a/an alcohol ablation treatment because during an alcohol ablation for thyroid cancer, your doctor will use imaging guidance to inject a concentrated ethanol alcohol solution into the neck. The alcohol solution will cut off the blood supply to any malignant cells in the neck lymph nodes, causing them to die"
+    },
+    {
+        "input": "A person with thyroidcancer has a/an radiation therapy treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a radiation therapy treatment because an external beam radiation therapy uses high energy rays (or particles) to destroy cancer cells or slow their growth"
+    },
+    {
+        "input": "A person with thyroidcancer has a/an chemotherapy treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a chemotherapy treatment because Chemotherapy (chemo) uses anti-cancer drugs that are injected into a vein or are taken by mouth. Chemotherapy is systemic therapy, which means that the drug enters the bloodstream and travels throughout the body to reach and destroy cancer cells and stops cancer growth."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an pallative care treatment because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a pallative care treatment because palliative care can improve the quality of life and help the patient feel more satisfied with the treatment received."
+    },
+    {
+        "input": "A person with depression has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with depression has a medication treatment because It can effectively relieve spasms and has modest effects in improving performance antidepressant medications increase the activity of chemicals called neurotransmitters in the brain and  Increasing the activity of the neurotransmitters serotonin, norepinephrine and dopamine seems to help lessen the symptoms of depression and anxiety."
+    },
+    {
+        "input": "A person with depression has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with depression has an psychotherapy treatment because it helps pinpoint life events that contribute to the depression and help find ways to change, accept or adapt to those situations."
+    },
+    {
+        "input": "A person with depression has a/an hospitalization treatment because/since/as {explanation}",
+        "output": "A person with depression has a hospitalization treatment because it helps the doctor can fine tune the depression medicine under the close supervision as well as prevent a possible suicide or violence"
+    },
+    {
+        "input": "A person with depression has a/an avoid drugs and alcohol treatment because/since/as {explanation}",
+        "output": "A person with depression has an avoid drugs and alcohol treatment because substance abuse can trigger or intensify the feelings of loneliness, sadness and hopelessness often associated with depression"
+    },
+    {
+        "input": "A person with depression has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with depression has a healthy diet treatment because a healthy, well-balanced diet can help us think clearly and feel more alert. Foods high in protein, fiber and complex carbohydrates have the best nutrients for fighting depression."
+    },
+    {
+        "input": "A person with depression has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with depression has a regular exercise treatment because regular exercise may help ease depression and anxiety by releasing feel good endorphins, natural cannabis like brain chemicals (endogenous cannabinoids) and other natural brain chemicals that can enhance your sense of well being."
+    },
+    {
+        "input": "A person with depression has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with depression has a get enough sleep treatment because when you're well rested, you will not only have more energy, but you may also have a more upbeat view on life and better focus"
+    },
+    {
+        "input": "A person with depression has a/an stick to treatment plan treatment because/since/as {explanation}",
+        "output": "stickA person with depression has a stick to treatment plan treatment because the treatment can be an effective way to relieve sadness and other depression symptoms only if the patient take them regularly"
+    }
+]

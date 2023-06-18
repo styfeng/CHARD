@@ -1,0 +1,566 @@
+[
+    {
+        "input": "A person with ocd has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a gender risk factor because women were 1.6 times more likely to experience OCD compared to men, with lifetime prevalence rates of 1.5% in women and 1.0% in men."
+    },
+    {
+        "input": "A person with bulimia has a/an dieting risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a dieting risk factor because people who diet are at higher risk of developing eating disorders. Many people with bulimia severely restrict calories between binge episodes, which may trigger an urge to again binge eat and then purge."
+    },
+    {
+        "input": "A person with acne has a/an puberty risk factor because/since/as {explanation}",
+        "output": "A person with acne has a puberty risk factor because acne is caused by overactive oil glands in the skin and a buildup of oil, dead skin cells, and bacteria, which leads to inflammation (swelling and redness) in the pores. Oil glands get stimulated when hormones become active during puberty."
+    },
+    {
+        "input": "A person with lupus has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with lupus has a/an stress management prevention because stress causes lupus flares ups which include fatigue, muscle and joint aching and stiffness, fevers, and blood test abnormalities."
+    },
+    {
+        "input": "A person with dystonia has a/an heat or cold treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a heat or cold treatment because applying heat or cold can help ease muscle pain"
+    },
+    {
+        "input": "A person with backpain has a/an sit smart prevention because/since/as {explanation}",
+        "output": "A person with backpain has a/an sit smart prevention because sitting in an office chair for a long period, the natural tendency for most people is to slouch over or slouch down in the chair which can overstretch the spinal ligaments and strain the discs. So it's important to sit correctly."
+    },
+    {
+        "input": "A person with psychosis has a/an dementia risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a dementia risk factor because of ongoing changes to the brain which impact the brain's chemical messaging system. In people with dementia, psychosis is often caused by dopamine-based medications used to treat motor symptoms like stiffness and gait problems."
+    },
+    {
+        "input": "A person with psychosis has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a family history risk factor because people with a family history of psychotic disorders such as schizophrenia have a slightly increased chance of developing psychosis"
+    },
+    {
+        "input": "A person with lupus has a/an avoid sun treatment because/since/as {explanation}",
+        "output": "A person with lupus has an avoid sun treatment because for people with lupus, even minimal amounts of exposure to UV light can be disastrous as lupus increases photosensitivity, making unprotected skin cells more vulnerable to UV damage"
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has an ethnicity risk factor because it can affect people of any ethnicity and in any region in the world.  Among Caucasians, it's the most common autosomal recessive disorder. Cystic fibrosis is less common in other ethnic groups, affecting about 1 in 17,000 African Americans and 1 in 31,000 Asian Americans."
+    },
+    {
+        "input": "A person with bulimia has a/an family meals prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an family meals prevention because eating regularly with family showcases healthy eating habits and help family members detect early on if bulimia is occurring."
+    },
+    {
+        "input": "A person with ptsd has a/an lack of social support risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a lack of social support risk factor because low social support interacted with PTSD and mood symptoms, resulting in greater suicidal ideation than those with higher levels of social support"
+    },
+    {
+        "input": "A person with psychosis has a/an genetic mutation risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a genetic mutation risk factor because when there is a mistake in a gene, called a mutation, the instructions for a part of the brain may not function well and contributes to a chemical imbalance in the brain, which causes psychosis."
+    },
+    {
+        "input": "A person with Anemia has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a pregnancy risk factor because it is associated with low birth weight, premature birth, and maternal mortality. Women who are pregnant are at a higher risk for developing anemia due to the excess amount of blood the body produces to help provide nutrients for the baby."
+    },
+    {
+        "input": "A person with endometriosis has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has a medical condition risk factor because with endometriosis, bits of the uterine lining (endometrium) or similar endometrial-like tissue grow outside of the uterus on other pelvic organs. Outside the uterus, the tissue thickens and bleeds, just as typical endometrial tissue does during menstrual cycles."
+    },
+    {
+        "input": "A person with psychosis has a/an trauma risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a trauma risk factor because the odds of suffering psychosis for subjects who experienced a childhood trauma were 7.3 times higher than the odds for subjects who did not experience a childhood trauma"
+    },
+    {
+        "input": "A person with endometriosis has a/an infertility risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has an infertility risk factor because about 25 to 50% of infertile women have endometriosis"
+    },
+    {
+        "input": "A person with psychosis has a/an tranquilization treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a tranquilization treatment because people experiencing psychosis can become agitated and be at risk of hurting themselves or others. In these cases, doctor administer a fast-acting injection or liquid medication to quickly relax the person."
+    },
+    {
+        "input": "A person with bipolar has a/an pay attention to warning signs prevention because/since/as {explanation}",
+        "output": "A person with bipolar has a pay attention to warning signs prevention because addressing symptoms early, one can prevent episodes from getting worse. Identifying a pattern to your bipolar episodes and what triggers them can help prevent bipolar."
+    },
+    {
+        "input": "A person with gerd has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with gerd has a stress management treatment because stress is closely linked to anxiety, is also known to worsen acid reflux"
+    },
+    {
+        "input": "A person with Narcolepsy has a/an avoid nicotine and alcohol prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has an avoid nicotine and alcohol prevention because  using these substances, especially at night, can worsen the signs and symptoms of narcolepsy"
+    },
+    {
+        "input": "A person with bulimia has a/an depression risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a depression risk factor because studies have shown that depression and anxiety causes eating disorders"
+    },
+    {
+        "input": "A person with parkinsons has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with parkinsons has a gender risk factor since risk of developing PD is twice as high in men than women, but women have a higher mortality rate and faster progression of the disease."
+    },
+    {
+        "input": "A person with backpain has a/an light activity treatment because/since/as {explanation}",
+        "output": "A person with backpain has a light activity treatment because if you stop being active for a long time, the muscles in your back become weak and you become less fit, and this can make your back pain worse"
+    },
+    {
+        "input": "A person with bulimia has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a gender risk factor because bulimia is more common among females than males"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an good posture treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a good posture treatment because it can help sidestep a vicious cycle of pain and aggravated symptoms"
+    },
+    {
+        "input": "A person with backpain has a/an cortisone injections treatment because/since/as {explanation}",
+        "output": "A person with backpain has a cortisone injections treatment because cortisone injections resulting in pain relief lasts for several months after the shot"
+    },
+    {
+        "input": "A person with bulimia has a/an hospitalization treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a hospitalization treatment because inpatient care lets individuals escape negative environments that may be contributing to the eating disorder"
+    },
+    {
+        "input": "A person with diabetes has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with diabetes has an ethnicity risk factor because there is evidence that certain ethnic groups have a predisposition to type 2 diabetes"
+    },
+    {
+        "input": "A person with lupus has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with lupus has a get enough sleep treatment because getting enough sleep can help to prevent lupus flares, manage fatigue, and keep the body's immune system healthy"
+    },
+    {
+        "input": "A person with psychosis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a medication treatment because medications are the cornerstone of psychosis treatment. They work by blocking the effect of dopamine, a chemical that transmits messages in the brain."
+    },
+    {
+        "input": "A person with asthma has a/an air pollution risk factor because/since/as {explanation}",
+        "output": "A person with asthma has an air pollution risk factor because exposure to outdoor pollutants can induce asthma symptoms"
+    },
+    {
+        "input": "A person with bulimia has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has an abuse risk factor because people who have experienced emotional abuse may struggle with emotions in a way that could lead to chaotic and impulsive behaviors, which are most often associated with bulimia nervosa."
+    },
+    {
+        "input": "A person with psychosis has a/an tumor risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a tumor risk factor because brain tumors can cause mental confusion, forgetfulness, speech problems, mood shifts or visual hallucinations which can cause a person to see things that aren't there or act differently than usual increasing the chance for psychosis."
+    },
+    {
+        "input": "A person with Dysthymia has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has a get enough sleep treatment because getting a good night's sleep can be an important part of your plan to manage depression and when you're well rested, you'll not only have more energy, but you may also have a more upbeat view on life and better focus."
+    },
+    {
+        "input": "A person with lupus has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with lupus has a stress management treatment because stress can trigger a lupus flare or make symptoms worse"
+    },
+    {
+        "input": "A person with anxiety has a/an personality risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a personality risk factor because people with certain personality types are more prone to anxiety disorders than others are. From 36% to 76% of patients with anxiety disorders have been found to have a comorbid personality disorder diagnosis, with avoidant, dependent, obsessive-compulsive and paranoid being the most frequent."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a family history risk factor because fibromyalgia tends to run in families, there may be certain genetic mutations that may make you more susceptible to developing the disorder. A person is more likely to develop fibromyalgia if a parent or sibling also has the condition."
+    },
+    {
+        "input": "A person with bulimia has a/an avoid talking about weight prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an avoid talking about weight prevention because focusing on being healthy rather than weight gained can stop the person from spiraling into unhealthy purging."
+    },
+    {
+        "input": "A person with POTS has a/an surgery risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a surgery risk factor as POTS often begins after a major surgery"
+    },
+    {
+        "input": "A person with Sinusitis has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a gender risk factor because females accounted for 63% of sinusitis reported in the 2010 National Health Interview Survey"
+    },
+    {
+        "input": "A person with insomnia has a/an meditation and yoga treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a meditation and yoga treatment because they help reduce body stress, anxiety, and boosts the nervous system which are all important for better sleep."
+    },
+    {
+        "input": "A person with backpain has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with backpain has a/an don't smoke prevention because smoking damages the arteries in the back discs and joints causing pain and injury"
+    },
+    {
+        "input": "A person with asthma has a/an weather change risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a weather change risk factor because increasing temperatures and more severe storms, people with asthma are at higher risk of weather triggering asthma flares"
+    },
+    {
+        "input": "A person with Alzheimers has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a medication treatment because cholinesterase inhibitors such as Galantamine, rivastigmine, and donepezil prescribed for mild to moderate Alzheimer's symptoms help reduce or control some cognitive and behavioral symptoms. Memantine, an N-methyl D-aspartate (NMDA) antagonist, is prescribed to treat moderate to severe Alzheimer's disease decrease symptoms and enable some people to maintain certain daily functions a little longer than they would without the medication"
+    },
+    {
+        "input": "A person with lupus has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with lupus has a gender risk factor because the increased frequency of SLE(Systemic Lupus Erythematosus) among women may be attributed to differences in the metabolism of sex hormones. Lupus affects females at far greater rates than males."
+    },
+    {
+        "input": "A person with dementia has a/an keep a calendar treatment because/since/as {explanation}",
+        "output": "A person with dementia has a keep a calendar treatment because a predictable routine can prevent a person with dementia from becoming distracted and forgetting what they were doing. A calendar might help to remember upcoming events, daily activities and medication schedules."
+    },
+    {
+        "input": "A person with backpain has a/an lack of exercise risk factor because/since/as {explanation}",
+        "output": "A person with backpain has a lack of exercise risk factor because studies have shown that paraspinal muscles atrophy and increase in fat content are associated with low back pain from the result of physical inactivity"
+    },
+    {
+        "input": "A person with bulimia has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a substance abuse risk factor because of  compensatory form of purging in an attempt for the individual to lose weight."
+    },
+    {
+        "input": "A person with Anemia has a/an toxins risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a toxins risk factor because toxins in the environment, such as pesticides or industrial chemicals, can cause anemia"
+    },
+    {
+        "input": "A person with bulimia has a/an anxiety risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has an anxiety risk factor because research has demonstrated the connection between eating disorders and anxiety disorders"
+    },
+    {
+        "input": "A person with asthma has a/an lose weight treatment because/since/as {explanation}",
+        "output": "A person with asthma has a lose weight treatment because It can help you exercise more easily, which in turn helps you keep the weight down, and get fitter"
+    },
+    {
+        "input": "A person with backpain has a/an heat treatment because/since/as {explanation}",
+        "output": "A person with backpain has a heat treatment because heat therapy dilates blood vessels which increases blood circulation in the painful or stiff area ans heat transfers from the skin surface deep into the muscles, and improves blood circulation into the muscles"
+    },
+    {
+        "input": "A person with backpain has a/an occupation risk factor because/since/as {explanation}",
+        "output": "A person with backpain has an occupation risk factor because back pain is more common in occupational roles that involve repetitive tasks such as manual packing of goods. force - heavy manual labour, handling tasks, pushing and pulling loads that require excessive force"
+    },
+    {
+        "input": "A person with backpain has a/an chiropractic care treatment because/since/as {explanation}",
+        "output": "A person with backpain has a chiropractic care treatment because it involves moving a joint in your spine to the end of its range, followed by a light thrust. This is often called an \"adjustment.\" It realigns the bones of your spine to place them in a better position and the patient gets pain relief."
+    },
+    {
+        "input": "A person with backpain has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with backpain has a surgery treatment as in the back surgery procedure, a surgeon removes parts of the bone, bone spurs, or ligaments in your back and thus relieves pressure on spinal nerves and can ease pain or weakness"
+    },
+    {
+        "input": "A person with bulimia has a/an family and friends prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an family and friends prevention because your friends and family provide emotional support to keep up healthy habits."
+    },
+    {
+        "input": "A person with backpain has a/an acupuncture treatment because/since/as {explanation}",
+        "output": "A person with backpain has an acupuncture treatment because acupuncture helps stimulate the central nervous system, which triggers the release of beneficial chemicals such as endorphins and serotonin into a patient's muscles, spinal cord and brain and these chemicals work to lower and even eliminate a patient's back pain, promoting overall wellness"
+    },
+    {
+        "input": "A person with psychosis has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a mental health risk factor because during an episode of psychosis a person's thoughts become confused. Words and ideas lose their meaning or take on meanings that make no sense.  These disturbances in thinking can affect a person's ability to concentrate, remember things and make plans."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Crohn's Disease has a family history risk factor because the probability is higher if a first-degree relative, such as a parent, sibling or child, has the disease, and as many as 1 in 5 with Crohn's disease has a family member with the disease."
+    },
+    {
+        "input": "A person with bulimia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a family history risk factor as recent behavioral genetic findings suggest substantial genetic influence on these disorders"
+    },
+    {
+        "input": "A person with backpain has a/an lift smart prevention because/since/as {explanation}",
+        "output": "A person with backpain has an lift smart prevention because lifting with your back and not your legs can cause muscle strains or ligament sprains in the lower back"
+    },
+    {
+        "input": "A person with backpain has a/an massage treatment because/since/as {explanation}",
+        "output": "A person with backpain has a massage treatment because massaging improves blood circulation, which aids in recovery of muscle soreness"
+    },
+    {
+        "input": "A person with ibs has a/an poor diet risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a poor diet risk factor because many people have worse IBS symptoms when they eat or drink certain foods or beverages, including wheat, dairy products, citrus fruits, beans, cabbage, milk and carbonated drinks"
+    },
+    {
+        "input": "A person with psychosis has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "AA person with psychosis has an alcohol risk factor since psychosis associated with alcohol can occur with acute intoxication, alcohol withdrawal, and chronic alcoholism."
+    },
+    {
+        "input": "A person with lupus has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with lupus has a healthy diet treatment because a healthy diet includes plenty of fruits, vegetables, and whole grains. It should also include moderate amounts of meats, poultry, and oily fish ect helps reduce inflammation and other lupus symptoms"
+    },
+    {
+        "input": "A person with lupus has a/an race risk factor because/since/as {explanation}",
+        "output": "A person with lupus has a race risk factor because in the United States, lupus is more common in people of color than in the Caucasian population"
+    },
+    {
+        "input": "A person with backpain has a/an arthritis risk factor because/since/as {explanation}",
+        "output": "A person with backpain has an arthritis risk factor because of the slow deterioration of cartilage around joints in the lower back. Extra body weight puts added stress on the joints in your spine."
+    },
+    {
+        "input": "A person with lupus has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with lupus has an age risk factor because menopause and changes in cellular immunity with aging may contribute to development of lupus in older adults."
+    },
+    {
+        "input": "A person with Prostatitis has a/an prostate biopsy risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has a prostate biopsy risk factor because the incidence of acute prostatitis after transrectal prostate biopsy was 2.0%"
+    },
+    {
+        "input": "A person with backpain has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with backpain has a/an age risk factor because as you grow older, your intervertebral discs begin drying out, wearing away, and shrinking and it can start experiencing more stiffness and pain in your back as your vertebrae start rubbing against each other"
+    },
+    {
+        "input": "A person with psychosis has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a substance abuse risk factor because drugs like methamphetamine, psychedelic drugs such as LSD, and club drugs such as ecstasy and MDMA often causes psychosis"
+    },
+    {
+        "input": "A person with bipolar has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with bipolar has a family history risk factor because it run in families, so many experts believe that genes play a role in its development. Bipolar disorder is more common in people who have a first-degree relative, such as a sibling or parent, with the condition."
+    },
+    {
+        "input": "A person with backpain has a/an diseases risk factor because/since/as {explanation}",
+        "output": "A person with backpain has a/an diseases risk factor because deseases like Arthritis, Degenerative disc disease, Herniated disc, Spinal stenosis and Spondylosis affect back"
+    },
+    {
+        "input": "A person with parkinsons has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with parkinsons has an age risk factor because people usually develop the disease around age 60 or older"
+    },
+    {
+        "input": "A person with bulimia has a/an nutrition education treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a nutrition education treatment because it helps address research based nutrition knowledge, correct the misinformation the patient might already have, and alter the distorted cognition of the patient"
+    },
+    {
+        "input": "A person with bulimia has a/an puberty risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a puberty risk factor because changes in ovarian hormones in phenotypic and genetic may increase the risk for eating disorders during puberty."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an age risk factor because the average age range at which fibromyalgia is diagnosed is 35 to 45 years old, but most people have had symptoms, including chronic pain, that started much earlier in life."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an insulin prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has an insulin prevention because Gastroparesis causes food to be absorbed more slowly and at unpredictable times so insulin helps stabilize it."
+    },
+    {
+        "input": "A person with bulimia has a/an boredom risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a boredom risk factor because food helps to escape a sense of aversive self-awareness and may hence be used to cope with boredom. The excitement or stimulation certain foods offer may help to distract people's attention from the bored self."
+    },
+    {
+        "input": "A person with lupus has a/an don't smoke treatment because/since/as {explanation}",
+        "output": "A person with lupus has a don't smoke treatment because if you quit smoking, your immune system is no longer exposed to tar and nicotine, and within a week, you will have higher blood levels of protective antioxidants such as vitamin C."
+    },
+    {
+        "input": "A person with backpain has a/an improper lifting risk factor because/since/as {explanation}",
+        "output": "A person with backpain has an improper lifting risk factor because during or after lifting weights, back pain is caused by poor posture or poor lifting technique. Improper lifting  puts tremendous strain on the back muscles and may cause muscle strains disorders such as  osteoarthritis."
+    },
+    {
+        "input": "A person with backpain has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with backpain has a smoking risk factor because smoking increases brain activity that reduces resilience to chronic back pain. The more frequently one smokes, the greater the risk of back pain."
+    },
+    {
+        "input": "A person with backpain has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with backpain has a physical therapy treatment because physical therapy will reduce lower back pain and restore mobility"
+    },
+    {
+        "input": "A person with Herpes has a/an sexual activity risk factor because/since/as {explanation}",
+        "output": "A person with Herpes has a sexual activity risk factor because sexual contact is the primary way that the virus spreads more easily from men to women than it is from women to men. Each additional sexual partner raises the risk of being exposed to the virus that causes genital herpes."
+    },
+    {
+        "input": "A person with lupus has a/an get enough sleep prevention because/since/as {explanation}",
+        "output": "A person with lupus has a get enough sleep prevention because getting enough sleep can help you prevent lupus flares, manage fatigue, and keep your body's immune system healthy."
+    },
+    {
+        "input": "A person with psychosis has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a medication risk factor because Psychosis can be caused by the abuse of hallucinogens or certain prescription medications"
+    },
+    {
+        "input": "A person with backpain has a/an good posture prevention because/since/as {explanation}",
+        "output": "A person with backpain has an good posture prevention because proper posture keeps bones and joints in alignment. This decreases the abnormal wearing of joint surfaces, reduces stress on the ligaments holding the spinal joints together and allows muscles to work more efficiently"
+    },
+    {
+        "input": "A person with Anemia has a/an blood transfusions treatment because/since/as {explanation}",
+        "output": "A person with Anemia has a blood transfusions treatment because the red blood cells also give a source of iron that your body can reuse"
+    },
+    {
+        "input": "A person with Epilepsy has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a therapy treatment because psychological interventions such as relaxation therapy, cognitive behaviour therapy, electroencephalogram (EEG) bio-feedback and educational interventions have been used alone or in combination in the treatment of epilepsy, to reduce the seizure frequency and improve the quality of life"
+    },
+    {
+        "input": "A person with psychosis has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an early treatment prevention because early treatment reduces suffering, improves outcome and reduces future episodes of illness."
+    },
+    {
+        "input": "A person with psychosis has a/an cognitive behavioral therapy treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a cognitive behavioral therapy treatment because CBT helps a person experiencing delusions and hallucinations and change the way he thinks about and responds to these experiences. The goal is to make them less distressing and less impairing in day to day life."
+    },
+    {
+        "input": "A person with ocd has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a trauma or stress risk factor because trauma and stress trigger the intrusive thoughts, rituals and emotional distress characteristic of OCD"
+    },
+    {
+        "input": "A person with lupus has a/an medication treatment because/since/as {explanation}",
+        "output": "A person witA person with lupus has a medication treatment because Steroids can help reduce pain and inflammation by decreasing the activity of overactive white blood cells and Non-steroidal anti-inflammatories (NSAIDs) by reducing chemicals in the body that cause inflammationh lupus has a medication treatment because"
+    },
+    {
+        "input": "A person with lupus has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with lupus has a regular exercise treatment because studies show that for individuals with lupus, regular exercise improves one's ability to function independently. Exercise helps reduce fatigue from lupus and overall fatigue from life in general"
+    },
+    {
+        "input": "A person with backpain has a/an build muscle strength and flexibility prevention because/since/as {explanation}",
+        "output": "A person with backpain has a build muscle strength and flexibility prevention because a general exercise programme that combines muscular strength, flexibility and aerobic fitness is beneficial for rehabilitation of non-specific chronic low back pain. Increasing core muscular strength can assist in supporting the lumbar spine."
+    },
+    {
+        "input": "A person with lupus has a/an supplements treatment because/since/as {explanation}",
+        "output": "A person with lupus has a/an supplements treatment since people with lupus might have higher levels of oxidative stress and antioxidants like selenium and vitamin C can help protect against free radicals which are molecules that can damage your cells in a process called oxidation"
+    },
+    {
+        "input": "A person with backpain has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with backpain has a regular exercise prevention because back exercises reduces stiffness by keeping the connective fibers of ligaments and tendons flexible"
+    },
+    {
+        "input": "A person with backpain has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with backpain has an lose weight prevention because being overweight can alter the natural curve of your spine, press on the shock-absorbing disks between vertebrae and cause them to become herniated, pinched, or cause pressure on nerves that travel through the central canal, and strain the muscles and ligaments that support your back."
+    },
+    {
+        "input": "A person with lupus has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with lupus has an infection risk factor because both the disease and its treatments can weaken the immune system"
+    },
+    {
+        "input": "A person with lupus has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with lupus has a family history risk factor because 20 percent to 50 percent of those diagnosed with lupus have a parent or a sibling with lupus, showing that when a gene contains a lupus variation, that variation is passed along, too."
+    },
+    {
+        "input": "A person with bulimia has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a psychotherapy treatment because psychotherapy aims to change thinking patterns (cognitive) and actions (behavioral) causing bulimia"
+    },
+    {
+        "input": "A person with Gastroparesis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a regular exercise prevention because exercise can help improve the efficiency of the digestive process"
+    },
+    {
+        "input": "A person with ibs has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a/an family history risk factor because IBS is a common disorder that has been shown to aggregate in families, to affect multiple generations"
+    },
+    {
+        "input": "A person with backpain has a/an yoga treatment because/since/as {explanation}",
+        "output": "person with backpain has a yoga treatment because many of the postures in yoga gently strengthen the muscles in the back, as well as the abdominal muscles. Back and abdominal muscles are essential components of the muscular network of the spine, helping the body maintain proper upright posture and movement. When these muscles are well conditioned, back pain can be greatly reduced or avoided"
+    },
+    {
+        "input": "A person with parkinsons has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with parkinsons has a physical therapy treatment because physical therapy helps parkinsons patient to keep moving as well and as long as possible, while enhancing the ability to move."
+    },
+    {
+        "input": "A person with ibs has a/an depression risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a depression risk factor because the flare-ups of diarrhea or constipation cause distress resulting in less focus on social activities, such as work, school and friends, which are symptoms of depression."
+    },
+    {
+        "input": "A person with Sciatica has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Sciatica has an regular exercise prevention because exercise improves the health of your muscles and joints in your spine and nourish your spinal reducing pressure on your sciatic nerve roots."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an diabetes risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a diabetes risk factor because it can damage the blood supply to the penis and the nerves that control an erection. Poorly managed diabetes can lead to erectile dysfunction due to its effects on the bloodstream."
+    },
+    {
+        "input": "A person with psychosis has a/an brain injury risk factor because/since/as {explanation}",
+        "output": "A person with psychosis has a brain injury risk factor because there is an increased risk of schizophrenia following  TBI"
+    },
+    {
+        "input": "A person with bulimia has a/an healthy body image prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an healthy body image prevention because it's believed bulimia begins with dissatisfaction with your body and extreme concern with your size and shape"
+    },
+    {
+        "input": "A person with dementia has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a head injury risk factor because injury usually results from a violent blow or jolt to the head or body. Within hours after injury, severe traumatic brain injury has been shown to increase levels of beta-amyloid, one hallmark Alzheimer's protein which is the most common type of dementia."
+    },
+    {
+        "input": "A person with lupus has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with lupus has a medication risk factor because lupus can be triggered by certain types of blood pressure medications, anti-seizure medications and antibiotics."
+    },
+    {
+        "input": "A person with pcos has a/an low-grade inflammation risk factor because/since/as {explanation}",
+        "output": "A person with pcos has a low-grade inflammation risk factor because in pcos, a dietary trigger such as glucose is capable of inducing oxidative stress to stimulate an inflammatory response even in the absence of excess adiposity."
+    },
+    {
+        "input": "A person with bulimia has a/an societal expectations risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a societal expectations risk factor because having a social life can be difficult for people with an eating disorder. When people develop eating disorders they can become more distant and start to spend more time alone. This can make their harmful thoughts or low self-esteem worse."
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a gender risk factor since it is commonly seen in younger patients (in their 20s and 30s) with a male to female ratio of 2:1."
+    },
+    {
+        "input": "A person with Anemia has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a medical condition risk factor because iron deficiency anemia may lead to a rapid or irregular heartbeat. Your heart must pump more blood to compensate for the lack of oxygen carried in your blood when you're anemic."
+    },
+    {
+        "input": "A person with asthma has a/an action plan treatment because/since/as {explanation}",
+        "output": "A person with asthma has an action plan treatment because it shows you the steps to take to keep your asthma from getting worse. It also provides guidance on when to call your healthcare provider or when to go to the emergency room."
+    },
+    {
+        "input": "A person with Dysthymia has a/an eat healthy treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has an eat healthy treatment as reaerches found that the symptoms of people with moderate to severe depression improved when they received nutritional counseling sessions and ate a more healthful diet for 12 weeks."
+    },
+    {
+        "input": "A person with bulimia has a/an self-esteem risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a self-esteem risk factor as it occurs commonly in patients with an eating disorder, a term which includes patients with both anorexia nervosa and bulimia nervosa. They often feel incompetent, unloved, or inadequate."
+    },
+    {
+        "input": "A person with backpain has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with backpain has an obesity risk factor because pain and problems in the low back may be aggravated by obesity. This occurs for people with extra weight in their stomach, because the excess weight pulls the pelvis forward and strains the lower back, creating lower back pain."
+    },
+    {
+        "input": "A person with bulimia has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with bulimia has a trauma or stress risk factor because when you're stressed, you eat a lot. After you overeat, you feel bad or worried about weight gain, which makes you more stressed. Person's with food insecurity creates trauma."
+    },
+    {
+        "input": "A person with Dysthymia has a/an family and friends prevention because/since/as {explanation}",
+        "output": "A person with Dysthymia has a family and friends prevention as reaching out to close family and friends especially in times of stress and crisis to help you weather rough spells can help prevent dysthymia."
+    },
+    {
+        "input": "A person with schizophrenia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with schizophrenia has a medication treatment because most antipsychotic drugs are known to block some of the dopamine receptors in the brain. This reduces the flow of these messages, which can help to reduce your psychotic symptom"
+    },
+    {
+        "input": "A person with bulimia has a/an discourage dieting prevention because/since/as {explanation}",
+        "output": "A person with bulimia has a discourage dieting prevention because dieting is generally deemed a risk factor for bulimia because someone diets, eventually craves and eats, then feels badly for eating and purges, and the cycle begins"
+    },
+    {
+        "input": "A person with backpain has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with backpain has a mental health risk factor because chronic pain can influence a person's thoughts and moods in a big way. The presence of depressive symptoms like anxiety, stress and sleep disturbances can make back pain worse and  increase the disability associated with back pain."
+    },
+    {
+        "input": "A person with bipolar has a/an social support treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a social support treatment since bipolar patients with full interepisode remission perceive more social support than those who do not achieve full remission and poor social support may increase the risk of relapse in bipolar disorder."
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a medication treatment because standard treatment for hypothyroidism involves daily use of the synthetic thyroid hormone levothyroxine (Levo-T, Synthroid, others). This oral medication restores adequate hormone levels, reversing the signs and symptoms of hypothyroidism. You'll likely start to feel better soon after you start treatmentas"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an don't smoke treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a don't smoke treatment because smoking hampers circulation to all areas of the body, including the genitals, making it tougher to get and keep an erection"
+    },
+    {
+        "input": "A person with acne has a/an shower after physical exercise prevention because/since/as {explanation}",
+        "output": "A person with acne has an shower after physical exercise prevention because it rinses off the bacteria and access oil that cause acne."
+    },
+    {
+        "input": "A person with psychosis has a/an avoid cannabis prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an avoid cannabis prevention because people who use marijuana and have the AKT1 gene, provides coding for enzyme that affects dopamine signaling, are at increased risk of developing psychosis."
+    },
+    {
+        "input": "A person with lupus has a/an limit sun exposure prevention because/since/as {explanation}",
+        "output": "A person with lupus has a limit sun exposure prevention because people experience lupus  flare or their symptoms when exposed to sunlight affecting areas that are frequently exposed such as the face, neck, hands and feet."
+    },
+    {
+        "input": "A person with lupus has a/an sunlight risk factor because/since/as {explanation}",
+        "output": "A person with lupus has a sunlight risk factor because many experience an increase in lupus symptoms after being exposed to ultraviolet (UV) rays"
+    },
+    {
+        "input": "A person with covid19 has a/an face mask prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a face mask prevention because face masks are meant to protect the wearer from contact with droplets and sprays that may contain germs. Masks with several layers offer more protection."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an take naps prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a take naps prevention because a brief nap especially before driving is refreshing improving alertness for one to three hours afterwards"
+    },
+    {
+        "input": "A person with backpain has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with backpain has a medication treatment because ibuprofen (such as Advil or Motrin), available over-the-counter, is an excellent medication for the short-term treatment of low back pain"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an massage treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a massage treatment as it can reduce heart rate, relax muscles, improve range of motion in joints and increase production of the body's natural painkillers"
+    },
+    {
+        "input": "A person with bipolar has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a medication treatment because medication can bring mania and depression under control and prevent relapse once your mood has stabilized"
+    },
+    {
+        "input": "A person with acne has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with acne has a therapy treatment because blue light therapy is the type of light therapy most commonly used to address acne breakouts. The wavelength of blue light has an antimicrobial effect, making it effective at killing several types of bacteria that can collect in your pores and oil glands and cause breakouts."
+    },
+    {
+        "input": "A person with psychosis has a/an avoid exposure to risk factors prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an avoid exposure to risk factors prevention because avoiding certain risk factors like obstetric events, adverse life events and cannabis use are some of the most productive approach for psychosis prevention."
+    },
+    {
+        "input": "A person with bulimia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a medication treatment because the imbalance of serotonin levels in the body can increase urges to binge and purge in women and men who have bulimia, and antidepressant medications can decrease these urges by effectively balancing the levels of neurotransmitters in the brain."
+    }
+]

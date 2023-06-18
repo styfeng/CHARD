@@ -1,0 +1,150 @@
+[
+    {
+        "input": "A person with depression has a/an life-changing event risk factor because/since/as {explanation}",
+        "output": "A person with depression has a life-changing event risk factor because approximately 70% of first depression episodes and 40% of recurrent episodes of depression are preceded by a severe life event"
+    },
+    {
+        "input": "A person with depression has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with depression has a substance abuse risk factor because depression is common among people battling an addiction to drugs or alcohol"
+    },
+    {
+        "input": "A person with depression has a/an poor nutrition risk factor because/since/as {explanation}",
+        "output": "A person with depression has a poor nutrition risk factor because consumption of diets low in carbohydrate tends to precipitate depression"
+    },
+    {
+        "input": "A person with depression has a/an grief risk factor because/since/as {explanation}",
+        "output": "A person with depression has a grief risk factor because grief associated with loss of dear one greatly increases the risk of psychiatric complications such as depression"
+    },
+    {
+        "input": "A person with depression has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with depression has a trauma or stress risk factor because there is a clear link between childhood, domestic and racial events, such as physical or emotional abuse, rejection, major life changes and money problems, and depressive symptoms later in life."
+    },
+    {
+        "input": "A person with depression has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with depression has a medication risk factor because some people stop taking medication after symptoms improve, but this can lead to a relapse."
+    },
+    {
+        "input": "A person with depression has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with depression has a sleep problems risk factor because poor sleep can contribute to the development of depression and that having depression makes a person more likely to develop sleep issues."
+    },
+    {
+        "input": "A person with depression has a/an medical conditions risk factor because/since/as {explanation}",
+        "output": "A person with depression has a medical conditions risk factor because the pain and stress that come with certain conditions, including cancer, stroke, or heart disease, can take a toll on a person's mental state resulting in depression."
+    },
+    {
+        "input": "A person with depression has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with depression has an abuse risk factor as abuse can increase the risk of depression indirectly by feelings of worthlessness, low self-esteem, and self-suffering, ultimately affecting the individual's ability to cope with stressful situations"
+    },
+    {
+        "input": "A person with depression has a/an conflict risk factor because/since/as {explanation}",
+        "output": "A person with depression has a conflict risk factor because disputes and disappointments with family, friends or partners may overwhelming a child's or adult's ability to cope, and therefore interfere with daily routines resulting in depression."
+    },
+    {
+        "input": "A person with depression has a/an social isolation risk factor because/since/as {explanation}",
+        "output": "A person with depression has a social isolation risk factor because depression, and low self-esteem often result from social isolation"
+    },
+    {
+        "input": "A person with depression has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with depression has a family history risk factor since depression was highest among grandchildren with two previous generations affected by the disorder"
+    },
+    {
+        "input": "A person with Costochondritis has a/an exercise risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has an exercise risk factor because costochondritis can be aggravated by any activity that places stress on your chest area"
+    },
+    {
+        "input": "A person with Costochondritis has a/an injury risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has an injury risk factor because trauma to the chest, such as blunt impact from a car accident or fall can cause Costochondritis"
+    },
+    {
+        "input": "A person with Costochondritis has a/an coughing risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has a/an coughing risk factor because the sharp pain will be worse when coughing"
+    },
+    {
+        "input": "A person with Costochondritis has a/an arthritis risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has an arthritis risk factor because inflammation from RA can be a reason for damage to the rib cartilage"
+    },
+    {
+        "input": "A person with Costochondritis has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has a/an infection risk factor because of the inflammation of costochondral junctions from the viral infection itself or from the strain of coughing"
+    },
+    {
+        "input": "A person with Costochondritis has a/an tumors risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has a tumors risk factor because cancer might travel to the joint from another part of the body, such as the breast, thyroid or lung. Noncancerous and cancerous tumors can cause costochondritis"
+    },
+    {
+        "input": "A person with Costochondritis has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has an age risk factor because costochondritis occurs most often in people older than 40"
+    },
+    {
+        "input": "A person with Costochondritis has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Costochondritis has a gender risk factor because costochondritis occurs most often in women"
+    },
+    {
+        "input": "A person with rheumatoid has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a smoking risk factor since exposure to smoking accounts for 20%-30% of the environmental risk for RA"
+    },
+    {
+        "input": "A person with rheumatoid has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a diet risk factor because unhealthy food choices can increase inflammation from rheumatoid"
+    },
+    {
+        "input": "A person with rheumatoid has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a/an obesity risk factor because obesity can raise the risk of getting certain types of arthritis and it makes every type of arthritis harder to manage"
+    },
+    {
+        "input": "A person with rheumatoid has a/an birth history risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a birth history risk factor because If a member of your family has rheumatoid arthritis, you may have an increased risk of the disease. Parents, siblings, and children of someone with rheumatoid are at a slightly increased risk of developing  it."
+    },
+    {
+        "input": "A person with rheumatoid has a/an early life exposure risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has an early life exposure risk factor because early life exposure may have long-lasting effects on the likelihood of developing disease in adult life."
+    },
+    {
+        "input": "A person with rheumatoid has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a stress risk factor as the stress response results in the release of neurotransmitters (norepinephrine), hormones (cortisol) and immune cells which serve to send an efferent message from the brain to the periphery."
+    },
+    {
+        "input": "A person with rheumatoid has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a gender risk factor because men had nodules more often than women and women had erosions more often than men"
+    },
+    {
+        "input": "A person with rheumatoid has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has an age risk factor because rheumatoid arthritis can begin at any age, but it most commonly begins in middle age. The onset of  is highest among adults in their sixties."
+    },
+    {
+        "input": "A person with rheumatoid has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with rheumatoid has a family history risk factor because a person having a parent or sibling with rheumatoid has a three to five times greater risk than the general population and having second-degree relatives with rheumatoid more or less doubles the risk."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a diet risk factor because low dietary iodine has been considered as a risk factor for thyroid cancer development. Dietary factors are influenced by various dietary patterns, eating habits, life-styles, nutrition, and other environmental factors."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has an obesity risk factor because obesity has long been recognized as a trigger for many diseases, such as hypertension,  diabetes, and insulin resistance. Obesity has been consistently related to the development and progression of different types of cancers including thyroidcancer."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a gender risk factor because thyroid disorders are more common in women, probably due to the roles of hormones, which are different in females than in males. Thyroid cancer is diagnosed more often in women than men."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has an age risk factor because it can occur at any age, but about two-thirds of all cases are found in people between the ages of 20 and 55."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has an ethnicity risk factor as historically, thyroid cancer incidence is highest in whites, followed by Asians/Pacific Islanders, American Indian/Alaskan natives, and blacks"
+    },
+    {
+        "input": "A person with thyroidcancer has a/an radiation exposure risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a radiation exposure risk factor because exposure to moderate levels of radiation to the head and neck may increase the risk of papillary and follicular thyroid cancers"
+    },
+    {
+        "input": "A person with thyroidcancer has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a family history risk factor because of certain inherited genetic syndromes. Family history of thyroid cancer in first-degree relatives, particularly in siblings, is associated with an increased risk of sporadic PTC (papillary thyroid carcinoma)."
+    },
+    {
+        "input": "A person with thyroidcancer has a/an hereditary risk factor because/since/as {explanation}",
+        "output": "A person with thyroidcancer has a hereditary risk factor because approximately 5% of thyroid cancers are thought to run in families"
+    }
+]

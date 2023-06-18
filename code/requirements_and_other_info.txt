@@ -1,0 +1,39 @@
+Below are commands to create a conda environment with the basic packages/libraries required for most experiments for this project (specifically for BART and T5 training + inference related things):
+
+conda create -n T5_training python=3.8.5
+conda activate T5_training
+(maybe) conda install -c conda-forge tmux
+pip3 install torch torchvision torchaudio
+pip install scipy nltk
+pip install git+https://github.com/huggingface/transformers@t5-fp16-no-nans (NOTE: REQUIRED FOR FP16 T5-LARGE TRAINING - MAKE SURE TO INSTALL THIS SPECIFIC VERSION OF HUGGINGFACE TRANSFORMERS)
+pip install rouge_score
+pip install bert_score==0.3.8
+
+
+Potentially required packages (try to install each one as long as there are no conflicts with the packages above):
+
+pip install datasets
+pip install sentencepiece==0.1.95
+pip install spacy==2.1.0
+pip install gitpython
+python -m spacy download en
+python -m spacy validate
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz
+
+
+Note that potentially other required packages (with associated versions) can be found in many of the specific scripts (e.g. as commented-out lines), e.g. the scripts in the "BART-T5-scripts" folder.
+
+
+IMPORTANT: note that UDA backtranslation runs better on python2 and has separate requirements. See "UDA_backtrans/main_notebook_UDA_backtranslation.ipynb" notebook for more information.
+
+
+IMPORTANT: "commongen_eval" scripts require python2 and other packages - you should create another conda environment for this using the following commands:
+
+conda create -n coco_score python=2.7
+conda activate coco_score
+pip install numpy
+pip install -U spacy
+python -m spacy download en_core_web_sm
+bash get_stanford_models.sh
+
+Note that the above instructions were found in the CommonGen GitHub repo at this link: https://github.com/INK-USC/CommonGen/tree/master/evaluation/Traditional

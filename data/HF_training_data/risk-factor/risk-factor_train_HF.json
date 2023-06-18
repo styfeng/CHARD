@@ -1,0 +1,1278 @@
+[
+    {
+        "input": "A person with Dysthymia has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has a trauma or stress risk factor because stress can cause inflammation in the brain, making the brain more susceptible to health problems like dementia."
+    },
+    {
+        "input": "A person with cfs has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with cfs has an age risk factor because individuals with CFS may lose vitality over time due to worse physical functioning as it becomes more challenging for them to do functional tasks as the illness progresses."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an hypocretin risk factor because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a hypocretin risk factor because a gene mutation is associated with low levels of hypocretin. It's believed that this hereditary deficiency, along with an immune system that attacks healthy cells (i.e an autoimmune issue), contributes to narcolepsy."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a smoking risk factor because smoking reduces the function of the immune system throughout the whole body, making you more susceptible to infections. Infections can trigger a worsening of your MultipleSclerosis symptoms."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with Gastroparesis has an infection risk factor because some people with gastroparesis develop masses in their stomach caused by undigested food. These masses known as bezoars can cause a blockage in the small intestines. If not promptly treated, blockages can cause a deadly infection."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a medication risk factor because certain medicines may delay gastric emptying or affect motility resulting in symptoms that are similar to those of gastroparesis."
+    },
+    {
+        "input": "A person with Sinusitis has a/an asthma risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has an asthma risk factor because both asthma and sinusitis may be triggered by inflammation to an allergen or irritant. In addition, postnasal drip caused by sinusitis may trigger coughing arising from the throat which can aggravate asthma symptoms."
+    },
+    {
+        "input": "A person with gerd has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a pregnancy risk factor because pregnancy is a condition that predisposes to GERD due to hormonal-related alterations of the lower esophageal sphincter and gastrointestinal motility."
+    },
+    {
+        "input": "A person with gerd has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a medication risk factor because certain medications and dietary supplements can irritate the lining of your esophagus, causing peptic ulcers, and can also make heartburn and esophageal irritation worse, perhaps by weakening or relaxing the LES (Lower Esophageal Sphincter)."
+    },
+    {
+        "input": "A person with endometriosis has a/an period risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has a period risk factor because endometriosis is a condition that causes the tissue that normally lines the inside of the uterus to grow outside of the uterus, resulting in period pain and a shorter amount of time in between cycles. In many cases, endometriosis can also cause excessive menstrual bleeding."
+    },
+    {
+        "input": "A person with endometriosis has a/an menstrual risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has a menstrual risk factor because people with endometriosis experience menstrual pain when the tissue meant to line the uterus becomes trapped outside of it, sticking to the ovaries and resulting in cysts called endometriomas."
+    },
+    {
+        "input": "A person with schizophrenia has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a substance abuse risk factor because people with schizophrenia who abuse substances experience more cognitive impairment, more intense psychosis and higher rates of needing emergency services."
+    },
+    {
+        "input": "A person with pcos has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with pcos has a stress risk factor because of cortisol's impact on androgens, or male hormones. When you are overthinking or taking too much stress, your body releases cortisol or the stress hormones, inadvertently increasing your androgens even more and subsequently worsening your symptoms."
+    },
+    {
+        "input": "A person with pcos has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with pcos has a sleep problems risk factor because as a result of insulin resistance, the body constantly attempts to regulate blood glucose levels, which affects the body's fight or flight response. Problems with glucose synthesis can cause you to feel tired yet lead to difficulty falling asleep, complicating PCOS and sleep concerns."
+    },
+    {
+        "input": "A person with anxiety has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a family history risk factor because if a family member has panic disorder or generalized social phobia, that you are much more likely to actually have those corresponding conditions."
+    },
+    {
+        "input": "A person with dementia has a/an air pollution risk factor because/since/as {explanation}",
+        "output": "A person with dementia has an air pollution risk factor because long-term exposure to air pollutants was associated with higher beta amyloid levels in the blood showing a possible biological connection between air quality and physical brain changes that define Alzheimer's disease."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an heart disease risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a heart disease risk factor because of the dysfunction of the inner lining of the blood vessels (endothelium) and smooth muscle. Endothelial dysfunction causes inadequate blood supply to the heart and impaired blood flow to the penis, and aids in the development of atherosclerosis increasing the risk of heart disease."
+    },
+    {
+        "input": "A person with ocd has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a pregnancy risk factor because OCD seem to intensify in women when they're pregnant, due to the dramatic increase of progesterone and other hormones. Women who develop OCD around the time of pregnancy may be particularly likely to have symptoms related to fear of \"contamination\", germs and dirt."
+    },
+    {
+        "input": "A person with parkinsons has a/an toxins risk factor because/since/as {explanation}",
+        "output": "A person with parkinsons has a toxins risk factor because exposure to certain environmental toxins, such as pesticides, heavy metals and other substances can affect the brain cells that produce dopamine may increase the risk of Parkinson's disease."
+    },
+    {
+        "input": "A person with parkinsons has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with parkinsons has a family history risk factor because of some gene mutations that can heighten an individual's risk associated with Parkinson's."
+    },
+    {
+        "input": "A person with Alzheimers has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has an alcohol risk factor because heavy alcohol consumption can lead to brain damage. Alcohol consumption damages short- and long-term memory and affect brain structure that can lead to Alzheimer's disease."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an arthritis risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an arthritis risk factor because an imbalance in brain chemicals makes you more sensitive to pain. The immune system attacks healthy tissue in your body, such as your joints. As a result, the joints become painful and swollen."
+    },
+    {
+        "input": "A person with bpd has a/an abandonment risk factor because/since/as {explanation}",
+        "output": "A person with bpd has an abandonment risk factor because  the fear of being abandoned often causes people with BPD to form unhealthy attachments, cut off loved ones, and make frantic attempts to hold onto relationships. These overly intense or erratic behaviors, in turn, often push loved ones away."
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an physical exercise risk factor because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a physical exercise risk factor because of  repeated trauma to the veins caused by stretch during muscular strain after vigorous activity."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an toxins and pollutants risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a toxins and pollutants risk factor because of exposure to certain infections, toxins, and pollutants,  injury to affected joints, changes in the bacteria in your colon and bowel inflammation."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an genetic risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a genetic risk factor as people who have a gene called HLA-B27 are at a greatly increased risk of developing ankylosing spondylitis."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a family history risk factor as it tends to run in families. If your parents or siblings have ankylosing spondylitis, it's estimated that you're 10 to 20 times more likely to have ankylosing spondylitis than someone with no family history."
+    },
+    {
+        "input": "A person with Dysthymia has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has a substance abuse risk factor because drugs and alcohol are chemicals and have a significant effect on the chemistry and cell composition of the brain."
+    },
+    {
+        "input": "A person with ocd has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with ocd has an age risk factor because OCD is most common in older teens or young adults"
+    },
+    {
+        "input": "A person with endometriosis has a/an surgery risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has a surgery risk factor because sometimes abdominal surgery like a caesarean delivery (commonly known as a C-section) or hysterectomy can misplace endometrial tissue. If this misplaced tissue isn't destroyed by your immune system, it can lead to endometriosis."
+    },
+    {
+        "input": "A person with Dysthymia has a/an brain injury risk factor because/since/as {explanation}",
+        "output": "person with Dysthymia has a/an brain injury risk factor because it can aggravate depression"
+    },
+    {
+        "input": "A person with Dysthymia has a/an long term illness risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has a long term illness risk factor because people with this illness may also have major depression at times resulting in chemical imbalances in the brain. Neurotransmitters are naturally occurring brain chemicals that likely play a role in depression."
+    },
+    {
+        "input": "A person with endometriosis has a/an estrogen risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has an estrogen risk factor because If your estrogen level is high, your endometrium will be thicker, which can cause heavy bleeding."
+    },
+    {
+        "input": "A person with Dysthymia has a/an mental health disorder history risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has a mental health disorder history risk factor because of chemical imbalances in the brain."
+    },
+    {
+        "input": "A person with ocd has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a family history risk factor because having parents or other family members with the disorder can increase your risk of developing OCD"
+    },
+    {
+        "input": "A person with parkinsons has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with Parkinson's has a head injury risk factor because traumatic brain injury is linked to an increase of Parkinson's and the risk is higher with more severe or repeated injuries, such as a blow to the head with loss of consciousness and hospitalization, resulting in Parkinson's which is a loss of brain nerve cells."
+    },
+    {
+        "input": "A person with Dysthymia has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has an abuse risk factor because abuse can aggravate symptoms of depression"
+    },
+    {
+        "input": "A person with endometriosis has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has an age risk factor because menstruating women between 25 to 40 years old are at a higher risk, with infertility often the first sign of a medical problem leading to an endometriosis diagnosis for 20 percent to 50 percent."
+    },
+    {
+        "input": "A person with endometriosis has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with endometriosis has a family history risk factor because If someone in your family has endometriosis, your risk for developing it is 7 to 10 times higher than those with no family history of the condition"
+    },
+    {
+        "input": "A person with Dysthymia has a/an loss and grief risk factor because/since/as {explanation}",
+        "output": "A person with Dysthymia has a loss and grief risk factor because any death of a loved one can be emotionally devastating. Loss of a close relationship through death is a stressful life event  that is associated with the development of psychiatric disorders like depression."
+    },
+    {
+        "input": "A person with cfs has a/an recent infection risk factor because/since/as {explanation}",
+        "output": "A person with cfs has a recent infection risk factor since research has shown that CFS is linked with exposure to Epstein\u2013Barr virus, Coxsackie B, Human Herpes virus 6 and 7, and Coxiella burnetii"
+    },
+    {
+        "input": "A person with schizophrenia has a/an life-changing event risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a life-changing event risk factor because a stressful or emotional life event might trigger a psychotic episode"
+    },
+    {
+        "input": "A person with schizophrenia has a/an brain chemistry risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a brain chemistry risk factor because an imbalance of the brain chemicals or neurotransmitters (dopamine, glutamate and serotonin) cause schizophrenia"
+    },
+    {
+        "input": "A person with cfs has a/an mental illness risk factor because/since/as {explanation}",
+        "output": "A person with cfs has a mental illness risk factor because traumatic childhood events are associated with an increased risk, and emotional instability at any period in life increases the brain's inability to cope with challenging experiences resulting in chronic fatigue syndrome."
+    },
+    {
+        "input": "A person with Alzheimers has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has a head injury risk factor because severe head injuries may increase the risk of developing Alzheimer's disease and sustaining a head injury for those above 55 years age, may also increase the risk"
+    },
+    {
+        "input": "A person with cfs has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with cfs has a trauma or stress risk factor because prolonged stress can cause chronic fatigue and disruptions in sleep, which may result in decreased energy levels. People who experience severe or ongoing stress for any reason can develop psychological trauma."
+    },
+    {
+        "input": "A person with schizophrenia has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a trauma or stress risk factor as research and experts suggest trauma or stress especially severe childhood trauma, can increase the likelihood of someone developing schizophrenia"
+    },
+    {
+        "input": "A person with cfs has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with cfs has a gender risk factor since women are four times more likely to get CFS than men"
+    },
+    {
+        "input": "A person with Alzheimers has a/an down syndrome risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has a down syndrome risk factor since studies show that by the age of 40, almost 100% of people with Down syndrome who die have the changes in the brain associated with Alzheimer's disease"
+    },
+    {
+        "input": "A person with cfs has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with cfs has an abuse risk factor because exposure to childhood trauma was associated with a 6-fold increased risk of CFS"
+    },
+    {
+        "input": "A person with schizophrenia has a/an toxins risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a toxins risk factor because being exposed to harmful toxins are suggested to play a role in the development of schizophrenia"
+    },
+    {
+        "input": "A person with Alzheimers has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has a sleep problems risk factor because sleep disturbances are routinely encountered in Alzheimer's disease and affect about 25-40% of patients in the mild-to-moderate stages of the disease"
+    },
+    {
+        "input": "A person with schizophrenia has a/an viruses risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a viruses risk factor because epidemiological studies have indicated viral infection as one of the environmental risk factors of schizophrenia"
+    },
+    {
+        "input": "A person with Alzheimers has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has an age risk factor as Most individuals with the disease are 65 and older. After age 65, the risk of Alzheimer's doubles every five years"
+    },
+    {
+        "input": "A person with cfs has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with cfs has a family history risk factor because CFS can run in families"
+    },
+    {
+        "input": "A person with Alzheimers has a/an air pollution risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has an air pollution risk factor because a critical Alzheimer's risk gene, APOE4, interacts with air particles to accelerate brain aging"
+    },
+    {
+        "input": "A person with ibs has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a smoking risk factor because smoking can increase vascular endothelial inflammation, causing exacerbation of irritable bowel syndrome"
+    },
+    {
+        "input": "A person with Alzheimers has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has a family history risk factor because the genes you inherit from your parents can contribute to your risk of developing Alzheimer's disease."
+    },
+    {
+        "input": "A person with schizophrenia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with schizophrenia has a family history risk factor because people with first-degree relatives with schizophrenia are at an elevated risk of developing the disorder themselves"
+    },
+    {
+        "input": "A person with ibs has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with ibs has an alcohol risk factor because people who drink heavily are more likely to experience irritable bowel syndrome"
+    },
+    {
+        "input": "A person with Alzheimers has a/an genetics risk factor because/since/as {explanation}",
+        "output": "A person with Alzheimers has a genetics risk factor since having at least one APOE e4 gene increases your risk of developing Alzheimer's disease two- to threefold"
+    },
+    {
+        "input": "A person with asthma has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a smoking risk factor because cigarette smoke irritates the airways and triggers asthma symptoms"
+    },
+    {
+        "input": "A person with hpv has a/an sexual activity risk factor because/since/as {explanation}",
+        "output": "A person with hpv has a sexual activity risk factor because it spreads through sexual contact and direct skin-to-skin contact, the most common route of transmission being through penetrative sex . The more sexual partners you have, the more likely you are to contract a genital HPV infection."
+    },
+    {
+        "input": "A person with asthma has a/an cooking risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a cooking risk factor because gas cookers give off nitrogen dioxide, and fine particles small enough to get into your lungs which can make your airways swollen and inflamed, so you're more at risk of asthma symptoms."
+    },
+    {
+        "input": "A person with hpv has a/an personal contact risk factor because/since/as {explanation}",
+        "output": "A person with hpv has a personal contact risk factor because HPV is passed from one person to another during contact with an infected part of the body"
+    },
+    {
+        "input": "A person with ibs has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a medication risk factor because drugs like antibiotics, antidepressants and medicines that contain sorbitol may trigger symptoms"
+    },
+    {
+        "input": "A person with asthma has a/an physical activity risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a physical activity risk factor because during physical activity, one will often breathe more quickly through your mouth, causing cold and dry air to travel to your lungs, irritating the airways"
+    },
+    {
+        "input": "A person with hpv has a/an immune system risk factor because/since/as {explanation}",
+        "output": "A person with hpv has an immune system risk factor because people who have weakened immune systems are at greater risk of HPV infections"
+    },
+    {
+        "input": "A person with ibs has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with ibs has an infection risk factor because IBS can develop after a severe bout of diarrhea (gastroenteritis) caused by bacteria or a virus"
+    },
+    {
+        "input": "A person with asthma has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with asthma has an infection risk factor because a common cause for developing asthma is having a severe respiratory infection as a child"
+    },
+    {
+        "input": "A person with hpv has a/an damaged skin risk factor because/since/as {explanation}",
+        "output": "A person with hpv has a damaged skin risk factor because when the human papillomavirus (HPV) enters a cut in the skin, it causes a skin infection that forms warts. Warts are very contagious. The virus can spread from person to person or from different parts of the body through direct contact with a wart."
+    },
+    {
+        "input": "A person with asthma has a/an allergies risk factor because/since/as {explanation}",
+        "output": "A person with asthma has an allergies risk factor since it is triggered by airborne substances, such as pollen, mold spores, cockroach waste, or particles of skin and dried saliva shed by pets (pet dander)"
+    },
+    {
+        "input": "A person with ibs has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with ibs has an obesity risk factor because low-fiber and high refined-carbohydrate diets are linked to obesity and are another potential contributor to IBS symptoms in obese persons. Diet remains a potential factor linking IBS to obesity."
+    },
+    {
+        "input": "A person with ibs has a/an food sensitivity risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a food sensitivity risk factor because many people have worse IBS symptoms when they eat or drink certain foods or beverages, including wheat, dairy products, citrus fruits, beans, cabbage, milk and carbonated drinks"
+    },
+    {
+        "input": "A person with hpv has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with hpv has an age risk factor because the highest prevalence of HPV occurs among adolescents and young adults between the ages of 15 and 25"
+    },
+    {
+        "input": "A person with asthma has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with asthma has an obesity risk factor because excess weight around the chest and abdomen might constrict the lungs and make it harder to breathe"
+    },
+    {
+        "input": "A person with ibs has a/an digestive problem risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a digestive problem risk factor because when the digestive system contracts slowly, delaying transit time for products of digestion, resulting in hard, difficult to pass, infrequent stools (constipation)."
+    },
+    {
+        "input": "A person with Prostatitis has a/an HIV or AIDS risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has an HIV or AIDS risk factor since HIV disproportionately impacts ethnic groups with increased risk of prostate cancer"
+    },
+    {
+        "input": "A person with asthma has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a pregnancy risk factor because some women stop using asthma-controlling drugs when they realize they are pregnant, increasing their risk for attacks."
+    },
+    {
+        "input": "A person with ibs has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a stress risk factor since people exposed to stressful events, especially in childhood, tend to have more symptoms of IBS"
+    },
+    {
+        "input": "A person with asthma has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a medication risk factor because some medications like Aspirin, ibuprofen, Beta-blockers, which are usually used for heart conditions, high blood pressure and migraines can trigger asthma"
+    },
+    {
+        "input": "A person with ibs has a/an anxiety risk factor because/since/as {explanation}",
+        "output": "A person with ibs has an anxiety risk factor because concern over bowel movements or symptoms of IBS may lead patients to seek isolation and avoid social activities. These changes in behavior may cause psychological symptoms such as loneliness and helplessness, that contribute to feelings of depression."
+    },
+    {
+        "input": "A person with Prostatitis has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has a trauma or stress risk factor because studies reveal that men who reported severe stress at work or home were 1.2 and 1.5 times more likely to report prostatitis"
+    },
+    {
+        "input": "A person with asthma has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a stress risk factor because stress can trigger asthma symptoms in people with a diagnosis. It may also contribute to the development of asthma and long-term stress is correlated with the new onset of asthma, particularly if it takes place during childhood or adolescence or someone has multiple sources of stress"
+    },
+    {
+        "input": "A person with ibs has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with ibs has a gender risk factor because IBS has been reported be a more common disease in women, with a female-to-male ratio of 2\u20132.5:1"
+    },
+    {
+        "input": "A person with Prostatitis has a/an groin injury risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has a/an groin injury risk factor because It can be caused by a traumatic injury to the prostate"
+    },
+    {
+        "input": "A person with asthma has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a gender risk factor because women have an increased asthma prevalence compared to men."
+    },
+    {
+        "input": "A person with ibs has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with ibs has an age risk factor because the condition occurs more frequently in people younger than 50, with about twice as many women as men having irritable bowel syndrome which may be due to hormonal changes."
+    },
+    {
+        "input": "A person with asthma has a/an secondhand smoke risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a secondhand smoke risk factor since secondhand smoke (SHS) exposure can trigger asthma exacerbations"
+    },
+    {
+        "input": "A person with Prostatitis has a/an previous prostatitis risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has a previous prostatitis risk factor because men who have had prostatitis once are more likely to get it again"
+    },
+    {
+        "input": "A person with Prostatitis has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Prostatitis has an age risk factor because the risk of prostate cancer increases with age, especially after age 50. Around 60% of prostate cancers are diagnosed in people who are 65 or older"
+    },
+    {
+        "input": "A person with asthma has a/an humidity risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a/an humidity risk factor because dust mites live in furniture, carpets, and bedding which thrive at humidity levels of 70 to 80 percent and their dead bodies and waste can also set off asthma attacks."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with Narcolepsy has an infection risk factor because the risk of narcolepsy is 5.4 times higher in patients with a physician-diagnosed streptococcal infection."
+    },
+    {
+        "input": "A person with asthma has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with asthma has a family history risk factor because allergic asthma can be passed through generations in families"
+    },
+    {
+        "input": "A person with bipolar has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with bipolar has a substance abuse risk factor as an effort to reduce unpleasant feelings or in an act of recklessness which can cause rewiring of parts of the brain affecting mood and behavior and increase the chance of developing bipolar."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an toxins and pollutants risk factor because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a toxins and pollutants risk factor because  Narcolepsy is one of the negative outcomes related to environmental neurotoxin exposure"
+    },
+    {
+        "input": "A person with bipolar has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with bipolar has an alcohol risk factor because alcohol is known to intensify bipolar disorder due to its sedating effects"
+    },
+    {
+        "input": "A person with Narcolepsy has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a family history risk factor because genetics do seem to play some role in the condition. The risk of narcolepsy is 20 to 40 times higher if you have a family member who has narcolepsy. You are at an increased risk of having the condition if a family member has type 1 narcolepsy."
+    },
+    {
+        "input": "A person with bipolar has a/an brain chemistry risk factor because/since/as {explanation}",
+        "output": "A person with bipolar has a brain chemistry risk factor because bipolar disorder is widely believed to be the result of chemical imbalances in the brain."
+    },
+    {
+        "input": "A person with bipolar has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with bipolar has a trauma or stress risk factor because negative or stressful life events were associated with subsequent mood swings. Experiencing a lot of emotional distress can cause bipolar disorder to develop. This could be because trauma and distress can have a big effect on your ability to manage your emotions."
+    },
+    {
+        "input": "A person with Sciatica has a/an occupation risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has an occupation risk factor because a job that requires you to twist your back, carry heavy loads or drive a motor vehicle for long periods might play a role in sciatica. Even sitting in your office chair the whole day can cause sciatica pain."
+    },
+    {
+        "input": "A person with Sciatica has a/an prolonged sitting risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has a prolonged sitting risk factor because body weight puts increased pressure on the sciatic nerve below the hips making it more likely for the sciatic nerve to become pinched resulting in sciatica."
+    },
+    {
+        "input": "A person with Sciatica has a/an back posture risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has a back posture risk factor because the way you stand, sit, and walk can affect the path of the sciatic nerve from your lower back to your legs"
+    },
+    {
+        "input": "A person with Sciatica has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has a smoking risk factor because smoking actually deteriorates the discs in your spine over time. The nicotine in tobacco can damage spinal tissue, weaken bones, and speed the wearing down of vertebral disks."
+    },
+    {
+        "input": "A person with Sciatica has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has an obesity risk factor because extra body weight, especially in the mid-section, increases stress on the spine, pelvis and lower back which contributes to the compression of the sciatic nerve leading to sciatica."
+    },
+    {
+        "input": "A person with Sciatica has a/an diabetes risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has a diabetes risk factor because diabetes causes diabetic neuropathy, which leads to nerve damage"
+    },
+    {
+        "input": "A person with Sciatica has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Sciatica has an age risk factor because over time movement and stress cause spinal disks and bones to weaken, resulting in nerve compression and an increased risk of sciatica pain in the elderly."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an lack of exercise risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a lack of exercise risk factor because lack of activity leads to deconditioning of muscles"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a trauma or stress risk factor as it arise through the experience of one or many physical and/or emotional traumatic events, which create stress and distress for individuals. Symptoms often begin after an event, such as physical trauma, surgery, infection or significant psychological stress."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an obesity risk factor because fibromyalgia patients have higher prevalence of obesity (40%) and overweight (30%) in multiple studies compared with healthy patients"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an repetitive injuries risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a repetitive injuries risk factor because a person may be more at risk of fibromyalgia following a traumatic injury"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an radiation therapy risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a radiation therapy risk factor as the risk of HT increases with increasing radiation dose"
+    },
+    {
+        "input": "A person with pcos has a/an excess androgen risk factor because/since/as {explanation}",
+        "output": "A person with pcos has an excess androgen risk factor because increased androgens in the early gonadotropin-independent stage stimulate the formation of primordial follicles and increase the number of small antral follicles"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a medication risk factor because anti-thyroid drugs like methimazole and propylthioracil stop your thyroid from making hormones"
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a gender risk factor because women are more likely to get fibromyalgia than men"
+    },
+    {
+        "input": "A person with pcos has a/an insulin risk factor because/since/as {explanation}",
+        "output": "A person with pcos has an insulin risk factor because women with PCOS are often insulin resistant"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a pregnancy risk factor because some women develop hypothyroidism during or after pregnancy (postpartum hypothyroidism), often because they produce antibodies to their own thyroid gland. Hypothyroidism increases the risk of miscarriage, premature delivery and preeclampsia, a condition that causes a significant rise in a woman's blood pressure during the last three months of pregnancy. It can also seriously affect the developing fetus."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has an abuse risk factor because women who had experienced domestic abuse were almost twice as likely to develop fibromyalgia"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an thyroid surgery risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a thyroid surgery risk factor because one inevitable consequence of thyroidectomy includes hypothyroidism"
+    },
+    {
+        "input": "A person with pcos has a/an genetic risk factor because/since/as {explanation}",
+        "output": "A person with pcos has a genetic risk factor because familial clustering of PCOS has been consistently reported"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a gender risk factor because Hypothyroidism is a very common condition and affects more women than men"
+    },
+    {
+        "input": "A person with covid19 has a/an lack of exercise risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a lack of exercise risk factor because studies show that people who are less physically active are more likely to be hospitalised and die with COVID-19"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a/an age risk factor because hypothyroidism occurs primarily in women older than 50"
+    },
+    {
+        "input": "A person with bpd has a/an brain chemistry risk factor because/since/as {explanation}",
+        "output": "A person with bpd has a brain chemistry risk factor because many people with BPD have something wrong with the neurotransmitters in their brain, particularly serotonin"
+    },
+    {
+        "input": "A person with covid19 has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a smoking risk factor because smokers are more likely to develop severe symptoms or die from COVID-19"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a family history risk factor because having a first-degree family member (mother, daughter, aunt) with a thyroid problem is an increased risk factor for the disorder, and the more family members that have thyroid disease, the greater the likelihood that there is a hereditary root."
+    },
+    {
+        "input": "A person with bpd has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with bpd has an abuse risk factor because traumatic life events, such as hardship, unstable relationships or conflicts, result in feelings of abandonment leading to an inner fight between survival and psychological death causing borderline personality disorder."
+    },
+    {
+        "input": "A person with covid19 has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a substance abuse risk factor because Individuals with substance abuse are at risk for contamination due to multiple factors"
+    },
+    {
+        "input": "A person with covid19 has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a medical condition risk factor because people with obesity, diabetes, asthma or chronic lung disease, sickle cell disease, or who are immunocompromised can also be at increased risk for getting very sick from COVID-19"
+    },
+    {
+        "input": "A person with covid19 has a/an disabilities risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a disabilities risk factor because underlying medical conditions, living in shared settings and barriers to healthcare can make it more difficult to do certain activities or interact with others, increasing the chance of getting covid19."
+    },
+    {
+        "input": "A person with bpd has a/an family life risk factor because/since/as {explanation}",
+        "output": "A person with bpd has a family life risk factor because abandonment in childhood or adolescence, disrupted family life and poor communication in the family also causes BPD"
+    },
+    {
+        "input": "A person with covid19 has a/an cancer risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a/an cancer risk factor because cancer increased mortality among COVID-19 patients"
+    },
+    {
+        "input": "A person with bpd has a/an trauma risk factor because/since/as {explanation}",
+        "output": "A person with bpd has a trauma risk factor because prolonged and repeated traumas, particularly in early life, promote a chronic inability to modulate emotions, that can result in behavioral patterns characteristic of BPD, such as unstable intense relationships, distorted self-image, extreme emotions and impulsiveness."
+    },
+    {
+        "input": "A person with covid19 has a/an heart condition risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a/an heart condition risk factor because people with cardiovascular diseases are at higher risk of developing serious illness from COVID-19"
+    },
+    {
+        "input": "A person with bpd has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with bpd has a family history risk factor since siblings, children, or parents of people treated for BPD are ten times more likely to have been treated for BPD themselves"
+    },
+    {
+        "input": "A person with covid19 has a/an immune system risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has an immune system risk factor as immunocompromised patients with respiratory virus infection are at risk of more severe infection and increased rates of bacterial and fungal superinfection"
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an repetitive movements risk factor because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a repetitive movements risk factor because repetitive, prolonged or vigorous upper extremity movements especially, hyperabduction or external rotation of the shoulder joint causes the development of Paget-Schroetter"
+    },
+    {
+        "input": "A person with covid19 has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a mental health risk factor because people with mental health conditions such as depression and schizophrenia spectrum disorders may be more likely to develop serious COVID-19 symptoms. People may suffer from depression characterized by low mood, tiredness, pessimism, poor sleep, and appetite, feeling helpless, guilty, and hopeless, with a gradual reduction in work output."
+    },
+    {
+        "input": "A person with covid19 has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has an obesity risk factor because having obesity may triple the risk of hospitalization due to a COVID-19 infection as obesity is linked to impaired immune function"
+    },
+    {
+        "input": "A person with PagetSchroetter has a/an ribs risk factor because/since/as {explanation}",
+        "output": "A person with PagetSchroetter has a ribs risk factor because of actions that involve repetitive or prolonged strenuous activity of the shoulders and arms  particularly in the overhead position which includes overhead lifting or throwing."
+    },
+    {
+        "input": "A person with covid19 has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a pregnancy risk factor because women who are pregnant or were recently pregnant are at increased risk of severe illness with COVID-19"
+    },
+    {
+        "input": "A person with covid19 has a/an lung problem risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has a lung problem risk factor because COVID-19 targets the lungs and you're more likely to develop severe symptoms if you already have various lung problems"
+    },
+    {
+        "input": "A person with covid19 has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with covid19 has an age risk factor because about 81% of deaths from the disease in the U.S. have been in people ages 65 and older, with the risk of dangerous symptoms increasing with age, and those ages 85 and older at the highest risk of serious symptoms from covid19."
+    },
+    {
+        "input": "A person with acne has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with acne has a diet risk factor because consuming certain foods including carbohydrate-rich foods, such as bread, bagels and chips may worsen acne"
+    },
+    {
+        "input": "A person with acne has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with acne has a stress risk factor because excessive amounts of sudden and prolonged stress may cause changes in the brain and body chemistry. Stress increases the risk of acne by drying out the skin, ramping up oil production and increasing levels of stress hormones which ages the skin."
+    },
+    {
+        "input": "A person with acne has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with acne has a mental health risk factor because studies showed that psychological stress and depression were main risk factors for acne"
+    },
+    {
+        "input": "A person with acne has a/an hormonal change risk factor because/since/as {explanation}",
+        "output": "A person with acne has a hormonal change risk factor because acne develops when hormonal changes increase the amount of oil your skin produces. This oil interacts with bacteria on the pores of your skin where hair grows (hair follicles) and results in acne. Hormonal acne may be caused by influxes of hormones from menstruation, increased androgen levels and menopause."
+    },
+    {
+        "input": "A person with acne has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with acne has a medication risk factor because drugs that affect hormone levels can cause true acne. Several hormonal medications may cause or aggravate acne."
+    },
+    {
+        "input": "A person with acne has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with acne has a family history risk factor because people with a first-degree relative who had adult acne, such as a parent or sibling, were shown to be more likely to have it themselves"
+    },
+    {
+        "input": "A person with anxiety has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has an alcohol risk factor because alcohol changes levels of serotonin and other neurotransmitters in the brain, which can worsen anxiety."
+    },
+    {
+        "input": "A person with anxiety has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a substance abuse risk factor because individuals struggling with anxiety are at a significant risk of developing an addiction to drugs or alcohol due to the symptoms of the mental illness."
+    },
+    {
+        "input": "A person with anxiety has a/an loneliness risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a loneliness risk factor because the high levels of loneliness observed among older adults can be explained by a higher risk of anxiety in late adulthood"
+    },
+    {
+        "input": "A person with CysticFibrosis has a/an genetic mutation risk factor because/since/as {explanation}",
+        "output": "A person with CysticFibrosis has a genetic mutation risk factor since Cystic fibrosis is caused by mutations in the gene that produces the cystic fibrosis transmembrane conductance regulator (CFTR) protein"
+    },
+    {
+        "input": "A person with anxiety has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a/an trauma or stress risk factor because children who endured abuse or trauma or witnessed traumatic events are at higher risk of developing an anxiety disorder at some point in life and adults who experience a traumatic event also can develop anxiety disorders"
+    },
+    {
+        "input": "A person with POTS has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with POTS has an alcohol risk factor because alcohol can worsen symptoms for POTS patients"
+    },
+    {
+        "input": "A person with anxiety has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a medical condition risk factor because respiratory disorders, such as chronic obstructive pulmonary disease, asthma, Ddrug misuse or withdrawal and ithdrawal from alcohol could cause anxiety"
+    },
+    {
+        "input": "A person with POTS has a/an pregnancy risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a pregnancy risk factor because for a number of healthy women, pregnancy can trigger a new-onset POTS, and for substantial proportion of women with pre-existing POTS, pregnancy will be an exacerbating factor"
+    },
+    {
+        "input": "A person with anxiety has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a medication risk factor because treatments include medications and psychotherapy. ... and environmental factors can raise a person's risk for developing anxiety disorders"
+    },
+    {
+        "input": "A person with POTS has a/an illness risk factor because/since/as {explanation}",
+        "output": "A person with POTS has an illness risk factor because patients may develop POTS after a viral illness, serious infections, medical illness, pregnancy and trauma such as head injury. The condition may develop as aftermath of a significant illness (especially associated with hospitalization and prolonged immobilization)."
+    },
+    {
+        "input": "A person with anxiety has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a mental health risk factor because anxiety disorders may be linked to faulty circuits in the brain that control fear and emotions."
+    },
+    {
+        "input": "A person with POTS has a/an nerve damage risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a nerve damage risk factor because patients with peripheral nerve damage may be at an increased risk of developing the condition"
+    },
+    {
+        "input": "A person with anxiety has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with anxiety has a gender risk factor since women have a substantially higher risk of developing lifetime anxiety disorders compared with men"
+    },
+    {
+        "input": "A person with POTS has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a head injury risk factor because POTS often starts after experiencing a physical trauma, like a concussion"
+    },
+    {
+        "input": "A person with POTS has a/an medical conditions risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a medical conditions risk factor because people with certain autoimmune conditions such as Sjogren's syndrome and celiac disease can be at higher risk of POTS"
+    },
+    {
+        "input": "A person with dementia has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a/an smoking risk factor since Lancet Commission on dementia prevention ranked smoking as third among nine modifiable risk factors for dementia"
+    },
+    {
+        "input": "A person with POTS has a/an trauma risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a trauma risk factor because POTS often starts after experiencing a trauma"
+    },
+    {
+        "input": "A person with dementia has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with dementia has an alcohol risk factor because excessive alcohol consumption over a lengthy time period can lead to brain damage, and may increase the risk of developing dementia"
+    },
+    {
+        "input": "A person with POTS has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a gender risk factor because majority of patients with POTS are women (80-85%) of child-bearing age (13-50 years)"
+    },
+    {
+        "input": "A person with dementia has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a diet risk factor because diets high in saturated and trans fats have been shown to increase cognitive decline and the risk of developing dementia"
+    },
+    {
+        "input": "A person with POTS has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with POTS has an age risk factor because it is more common among women between 15 to 50 years of age, who often experiencing heart rate jumps when standing up before menstrual periods or after pregnancy, major surgery, trauma or a viral illness."
+    },
+    {
+        "input": "A person with dementia has a/an lack of exercise risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a lack of exercise risk factor because individuals who were exposed to sedentary behavior had a 30% higher risk of experiencing dementia"
+    },
+    {
+        "input": "A person with POTS has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with POTS has a family history risk factor because POTS can run in families"
+    },
+    {
+        "input": "A person with dementia has a/an diabetes risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a diabetes risk factor because oxidative stress and insulin resistance leading to an increased incidence of vascular type dementia"
+    },
+    {
+        "input": "A person with dementia has a/an cardiovascular risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a cardiovascular risk factor because damage due to buildup in the arteries can slow blood flow to the brain and over time cause damage to brain cells increasing the chance for dementia."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an infection risk factor because some research suggests that being exposed to certain infections (such as Epstein-Barr virus) can trigger MultipleSclerosis later in life. These viruses can affect the immune system, leading to dysfunction, increased levels of inflammation, and myelin degradation."
+    },
+    {
+        "input": "A person with dementia has a/an cognitive impairment risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a cognitive impairment risk factor since studies found that approximately 40 percent of people over age 65 who were diagnosed with mild cognitive impairment developed dementia within three years"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an Vitamin D risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a Vitamin D risk factor because higher levels of vitamin D are associated with reduced risk for developing multiple sclerosis"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an autoimmune disease risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an autoimmune disease risk factor because You might be more likely to get MS if you have another autoimmune condition like inflammatory bowel disease, thyroid disease etc"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an obesity risk factor because obesity can increase the risk of getting MS, make the MS symptoms more severe and harder to deal with, trigger more frequent relapses and also accelerate the progression of MS towards increasing disability"
+    },
+    {
+        "input": "A person with dementia has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a sleep problems risk factor because patients with primary insomnia had a higher risk of dementia incidence than those without insomnia."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an age risk factor because onset of Multiple Sclerosis usually occurs around 20 and 40 years of age"
+    },
+    {
+        "input": "A person with dementia has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a medication risk factor since researchers found that anticholinergic drugs in general were associated with a higher risk of dementia"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a gender risk factor because recent prevalence study shows MS is three times more common in women than in men"
+    },
+    {
+        "input": "A person with dementia has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with dementia has an age risk factor because as a person ages, they will also become more physically frail over time.  A person is more likely to develop problems with their thinking and memory. The risk rises as you age, especially after age 65."
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has an ethnicity risk factor because Multiple Sclerosis has a strong racial and ethnic component and disproportionately affects whites of European background"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an climate risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a climate risk factor because people who live in the areas farther from the equator receive less intense sun and have lower levels of vitamin D, which is a risk factor for developing MS."
+    },
+    {
+        "input": "A person with dementia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with dementia has a family history risk factor since some types of dementia there may be a strong genetic link"
+    },
+    {
+        "input": "A person with ptsd has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a substance abuse risk factor because people with a history of substance abuse tend to be more susceptible to PTSD"
+    },
+    {
+        "input": "A person with MultipleSclerosis has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with MultipleSclerosis has a family history risk factor because the risk of developing multiple sclerosis is higher for siblings or children of a person with the condition than for the general population"
+    },
+    {
+        "input": "A person with ptsd has a/an trauma risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a trauma risk factor because people who have experienced a previous trauma, such as a rape, car accident, disaster, or act of violence, are more susceptible to PTSD"
+    },
+    {
+        "input": "A person with ptsd has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a stress risk factor because PTSD can develop after a very stressful event"
+    },
+    {
+        "input": "A person with ptsd has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a gender risk factor because women develop post-traumatic stress disorder more often than men do"
+    },
+    {
+        "input": "A person with Gastroparesis has a/an surgery risk factor because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a surgery risk factor since it is often caused by operation at the upper abdomen, especially by gastric or pancreatic resection"
+    },
+    {
+        "input": "A person with ptsd has a/an mental illness risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a mental illness risk factor because people having other mental health problems, such as anxiety or depression are likely to develop PTSD"
+    },
+    {
+        "input": "A person with ptsd has a/an abuse risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has an abuse risk factor because PTSD can originate from a variety of forms of abuse, ranging from physical abuse to sexual abuse to emotional abuse"
+    },
+    {
+        "input": "A person with ptsd has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a family history risk factor because people with a family history of PTSD and/or depression tend to be more susceptible to PTSD"
+    },
+    {
+        "input": "A person with Gastroparesis has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a gender risk factor because female patients with T2DM(type 2 diabetes mellitus) reported more dyspeptic symptoms that may suggest gastroparesis. The slower gastric motility in females may be attributable to estrogen levels leading to gastroparesis in diabetic females."
+    },
+    {
+        "input": "A person with ptsd has a/an genetic risk factor because/since/as {explanation}",
+        "output": "A person with ptsd has a genetic risk factor as susceptibility for developing PTSD that is hereditary in nature, with 30% of PTSD cases explained by genetics alone"
+    },
+    {
+        "input": "A person with gout has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with gout has an alcohol risk factor as alcohol can increase the risk of gout, and the risk increases as the intake goes up"
+    },
+    {
+        "input": "A person with dystonia has a/an hand movement risk factor because/since/as {explanation}",
+        "output": "A person with dystonia has a hand movement risk factor because using precise, repetitive, task-specific hand movements at workplaces, such as artists, musicians and engineers,  increases impaired hand use."
+    },
+    {
+        "input": "A person with gout has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with gout has a diet risk factor because being overweight increases the risk of developing gout. Any diet that produces rapid changes in weight raises the risk of gout like bacon, organ meats, and some types of seafood, are high in purines and cause uric acid levels to rise."
+    },
+    {
+        "input": "A person with dystonia has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with dystonia has a head injury risk factor because head injuries with loss of consciousness was an causes the development of idiopathic dystonia"
+    },
+    {
+        "input": "A person with dystonia has a/an stroke risk factor because/since/as {explanation}",
+        "output": ": A person with dystonia has a stroke risk factor because dystonia and other types of abnormal involuntary movements are commonly associated with both ischemic and hemorrhagic strokes"
+    },
+    {
+        "input": "A person with gout has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with gout has an obesity risk factor because weight gain is associated with increased levels of uric acid in the bloodstream. Gout occurs when uric acid is not properly excreted from the body, so it crystallizes and settles in joints."
+    },
+    {
+        "input": "A person with dystonia has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with dystonia has a medication risk factor because high potency antipsychotic drugs such as haloperidol, fluphenazine, and pimozide cause dystonia"
+    },
+    {
+        "input": "A person with gout has a/an medical conditions risk factor because/since/as {explanation}",
+        "output": "A person with gout has a/an medical conditions risk factor because some medical conditions like untreated high blood pressure and chronic conditions such as diabetes, obesity, metabolic syndrome, and heart and kidney diseases increase the risk of gout"
+    },
+    {
+        "input": "A person with dystonia has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with dystonia has a infection risk factor because infections like meningitis and encephalitis caused by viral, bacterial, and fungal infections of the brain have been associated with dystonia"
+    },
+    {
+        "input": "A person with gout has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with gout has a medication risk factor because the use of loop diuretics, thiazide diuretics and thiazide-like diuretics are associated with an increased risk of gout"
+    },
+    {
+        "input": "A person with gout has a/an surgery risk factor because/since/as {explanation}",
+        "output": "A person with gout has a surgery risk factor because postsurgical gout tends to develop within 8 days after surgery"
+    },
+    {
+        "input": "A person with dystonia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with dystonia has a family history risk factor since most of the dystonias for which genes have been identified are dominantly inherited"
+    },
+    {
+        "input": "A person with gout has a/an trauma risk factor because/since/as {explanation}",
+        "output": "A person with gout has a trauma risk factor because experiencing recent trauma can sometimes trigger a gout attack."
+    },
+    {
+        "input": "A person with Epilepsy has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has an alcohol risk factor because many people with epilepsy are at a high risk of seizures after drinking three or more alcoholic beverages"
+    },
+    {
+        "input": "A person with gout has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with gout has a gender risk factor as gout is more common in men than women, with only 5.1% of the US gout population being female"
+    },
+    {
+        "input": "A person with Epilepsy has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has a head injury risk factor since the brain is covered by the skull, there is only a small amount of room for it to swell. This causes pressure inside the skull to increase, which can lead to additional widespread brain injury."
+    },
+    {
+        "input": "A person with gout has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with gout has an age risk factor as many people have their first episode of gout between the ages of 30 and 50, and the risk of gout continues to increase with age"
+    },
+    {
+        "input": "A person with Epilepsy has a/an brain chemistry risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has a brain chemistry risk factor because chemical imbalance in your braincauses a sudden surge of electrical impulses sending abnormal motor signals all over your body, which makes it convulsed and shake"
+    },
+    {
+        "input": "A person with gout has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with gout has a family history risk factor because the risk of gout is higher in people with a family history."
+    },
+    {
+        "input": "A person with Epilepsy has a/an medical history risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has a medical history risk factor because there are many conditions which can lead to the brain disorder of epilepsy such as family genetics, brain damage before birth, birth difficulties, childhood seizures, developmental disorders, head injuries, brain damage and brain infections."
+    },
+    {
+        "input": "A person with adhd has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with adhd has an alcohol risk factor because alcohol impairment could aggravate symptoms of ADHD such as impulsiveness and difficulty focusing."
+    },
+    {
+        "input": "A person with adhd has a/an maternal risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a/an maternal risk factor because a higher risk of ADHD was found with decreasing maternal age; the younger the mother the higher risk of ADHD"
+    },
+    {
+        "input": "A person with Epilepsy has a/an infection risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has an infection risk factor because infections of herpes viruses, Japanese encephalitis virus, Nipah virus, HIV, influenza viruses, parainfluenza virus, rotavirus, adenovirus, respiratory syncytial virus, cytomegalovirus and nonpolio picornavirus could cause development of seizures and epilepsy"
+    },
+    {
+        "input": "A person with adhd has a/an blood pressure risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a blood pressure risk factor because  adults with ADHD also had elevated levels of metabolic disorders, being almost twice as likely to have high blood pressure"
+    },
+    {
+        "input": "A person with Epilepsy has a/an developmental disorder risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has a developmental disorder risk factor because Epilepsy appears to be more common in people with certain developmental disorders, such as autism, Down syndrome, cerebral palsy and intellectual disability, which are linked to abnormal brain function."
+    },
+    {
+        "input": "A person with Epilepsy has a/an genetic risk factor because/since/as {explanation}",
+        "output": "A person with Epilepsy has a genetic risk factor because about 30 to 40 percent of epilepsy is caused by genetic predisposition"
+    },
+    {
+        "input": "A person with adhd has a/an premature birth risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a premature birth risk factor because being born early can injure the brain and disrupt the normal sequence of brain development processes. Event during early brain development associated with being born early contributes to the development of ADHD symptoms."
+    },
+    {
+        "input": "A person with adhd has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a head injury risk factor because severe traumatic brain injuries were associated with increased odds of ADHD"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an tobacco risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a tobacco risk factor because heavy smokers presented ED severe 43% about 2.5 times more than light smokers (17%)"
+    },
+    {
+        "input": "A person with adhd has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a gender risk factor because girls diagnosed with ADHD show fewer hyperactive/impulsive symptoms and more inattentive symptoms when compared with boys with the disorder. Boys are three times more likely than girls to develop ADHD."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has an alcohol risk factor because drinking large amounts of alcohol can make it hard to get or keep an erection"
+    },
+    {
+        "input": "A person with adhd has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with adhd has an age risk factor because studies showed that children aged 8 to 12 years were significantly more likely to receive a diagnosis of ADHD than those aged 3 to 7 years or those aged 13 to 17 years"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a substance abuse risk factor because marijuana, cocaine, and other recreational drugs can cause ED by damaging blood vessels"
+    },
+    {
+        "input": "A person with adhd has a/an toxins risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a toxins risk factor because fetal and childhood development are defenseless against the toxins in foods and household products that disrupt brain development which leave a lasting impact on brain health."
+    },
+    {
+        "input": "A person with adhd has a/an pesticides risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a pesticides risk factor because commonly used pesticides may alter the development of the brain's dopamine system responsible for emotional expression and cognitive function and increase the risk of attention deficit hyperactivity disorder in children"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has an obesity risk factor as 79% of men presenting erectile disorders have BMI of 25 kg/m2 or greater"
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a sleep problems risk factor because it indicates that insufficient sleep, disrupted sleep, and sleep disorders affect many aspects of human health including sexual function."
+    },
+    {
+        "input": "A person with adhd has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with adhd has a family history risk factor because having a family member with ADHD makes you more likely to also have the disorder. Children who have ADHD typically have a parent, sibling, or other close relative with ADHD."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a gender risk factor because it  is prevalent among men and its presence is often an indicator of systemic disease. Male sexual arousal is a complex process that involves the brain, hormones, emotions, nerves, muscles and blood vessels. Erectile dysfunction can result from a problem with any of these."
+    },
+    {
+        "input": "A person with diabetes has a/an lack of exercise risk factor because/since/as {explanation}",
+        "output": "A person with diabetes has a lack of exercise risk factor because not getting enough physical activity can raise a person's risk of developing type 2 diabetes. If you have diabetes, being active makes your body more sensitive to insulin (the hormone that allows cells in your body to use blood sugar for energy), which helps manage your diabetes."
+    },
+    {
+        "input": "A person with diabetes has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with diabetes has an obesity risk factor because obesity increases the risk of developing type 2 diabetes by at least 6 times, regardless of genetic predisposition to the disease"
+    },
+    {
+        "input": "A person with Herpes has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with Herpes has a gender risk factor because herpes is more common among women than among men"
+    },
+    {
+        "input": "A person with diabetes has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with diabetes has an age risk factor because the prevalence of both type 2 diabetes and prediabetes increases with advancing age. The burden of the disease is very high in older age groups because you tend to exercise less, lose muscle mass and gain weight as you age."
+    },
+    {
+        "input": "A person with Herpes has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Herpes has an age risk factor because prevalence of Herpes increased linearly with age"
+    },
+    {
+        "input": "A person with diabetes has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with diabetes has a family history risk factor because researches revealed that Individuals who have a family history of diabetes can have two to six times the risk of type 2 diabetes compared with individuals with no family history of the disease"
+    },
+    {
+        "input": "A person with insomnia has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a smoking risk factor because  Smokers take longer to fall asleep and wake up more frequently, they sleep less than nonsmokers, and have a less deep sleep"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a smoking risk factor because smoking affects patients with Crohn's disease by accelerating disease onset, progression and severity"
+    },
+    {
+        "input": "A person with insomnia has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has an alcohol risk factor because After a few hours of sleep, alcohol can cause you to wake up and have a difficult time going back to sleep"
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has a diet risk factor because diet is an important factor influencing the pathogenesis of Crohn's disease"
+    },
+    {
+        "input": "A person with insomnia has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has substance abuse risk factors because sleeping problems lead to alcohol and drug use in order to cope with insomnia or a person with a drug addiction leads to disrupting the brain's quality of sleep causing insomnia."
+    },
+    {
+        "input": "A person with insomnia has a/an sleep schedule risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a sleep schedule risk factor because a person's growth may be affected by not getting the full amount of sleep.  That's because growth hormone is normally released during sleep. If someone consistently gets too little sleep (known as \"sleep deprivation\"), growth hormone is suppressed. Lack of sleep also can affect other hormones."
+    },
+    {
+        "input": "A person with insomnia has a/an work schedule risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a work schedule risk factor because irregular changes in work times can cause disruptions in the sleep-wake cycle of the body's biological clock, which increases the chance of insomnia."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has an age risk factor because most often Crohn's disease affects people ages 15 to 35."
+    },
+    {
+        "input": "A person with insomnia has a/an jet lag risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a jet lag risk factor because when you travel across more than two time zones by plane, your body's \"internal clock\" (or circadian rhythm) needs time to adjust to the new sleep and wake cycles at your destination."
+    },
+    {
+        "input": "A person with CrohnsDisease has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with CrohnsDisease has an ethnicity risk factor because whites have the highest risk of Crohn's desease, especially people of Eastern European Jewish descent"
+    },
+    {
+        "input": "A person with insomnia has a/an sleep habits risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a sleep habits risk factor because inadequate sleep can cause elevated blood pressure, a major risk factor for cardiovascular disease."
+    },
+    {
+        "input": "A person with insomnia has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a medical condition risk factor because medical conditions like chronic pain, cancer, diabetes, heart disease, asthma, gastroesophageal reflux disease (GERD), overactive thyroid, Parkinson's disease and Alzheimer's disease are linked with insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a medication risk factor because some medicines like Stimulant medications that promote wakefulness, including over-the-counter medicines that contain caffeine and prescription treatments for ADHD and hypersomnia, may contribute to insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a sleep problems risk factor because poor sleep habits include an irregular bedtime schedule, naps, stimulating activities before bed, an uncomfortable sleep environment, and using your bed for work, eating or watching TV. Computers, TVs, video games, smartphones or other screens just before bed can interfere with your sleep cycle."
+    },
+    {
+        "input": "A person with insomnia has a/an trauma or stress risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a trauma or stress risk factor because stressful life events or trauma such as the death or illness of a loved one, divorce, or a job loss also may lead to insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an anxiety risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has an anxiety risk factor because anxiety and stress are closely linked, and they are among the chief causes of insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an mental health risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a mental health risk factor because poor sleep can trigger mania, psychosis or paranoia, or make existing symptoms worse."
+    },
+    {
+        "input": "A person with insomnia has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has an age risk factor because of changes in sleep patterns and health, insomnia increases with age. Older adults often have difficulty of falling asleep or experience mid-sleep awakening, and their sleep efficiencies become reduced compared with those of younger adults."
+    },
+    {
+        "input": "A person with insomnia has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a/an gender risk factor because female gender has been recognized as a significant factor for insomnia"
+    },
+    {
+        "input": "A person with insomnia has a/an poor sleep environment risk factor because/since/as {explanation}",
+        "output": "A person with insomnia has a poor sleep environment risk factor because people simply sleep better when their bedroom is optimized for light and noise levels, temperature, and comfort"
+    },
+    {
+        "input": "A person with Anemia has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a diet risk factor because a diet consistently low in iron, vitamin B-12, folate and copper increases your risk of anemia"
+    },
+    {
+        "input": "A person with Anemia has a/an alcohol risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has an alcohol risk factor because drinking too much alcohol can lead to anemia"
+    },
+    {
+        "input": "A person with Anemia has a/an diseases risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a diseases risk factor because certain diseases such as cancer, HIV / AIDS , rheumatoid arthritis, kidney disease, Crohn's disease and other acute or chronic inflammatory diseases can interfere with the production of red blood cells"
+    },
+    {
+        "input": "A person with Anemia has a/an menstruation risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a menstruation risk factor because menstruation causes the loss of red blood cells"
+    },
+    {
+        "input": "A person with Anemia has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has an age risk factor because people over 65 are more likely to have iron-poor diets and certain chronic diseases. People over age 65 are more at increased risk of anemia."
+    },
+    {
+        "input": "A person with Anemia has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Anemia has a family history risk factor because inherited types of anemia may increase the risk, for example when each parent has 2 copies of the sickle cell gene, they both have sickle cell disease, and each of their children will have the anemic disease."
+    },
+    {
+        "input": "A person with Sinusitis has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a smoking risk factor since nose and sinuses produce a quart or two of mucus a day, it can quickly build up and create a breeding ground for germs that can cause a sinus infection"
+    },
+    {
+        "input": "A person with LymeDisease has a/an outdoor activities risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has an outdoor activities risk factor because ticks that carry Lyme disease are more apt to live in wet, green, brushy, or wooded areas"
+    },
+    {
+        "input": "A person with Sinusitis has a/an flying risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a flying risk factor because the changes in barometric pressure that occur when flying can be harmful to the sinuses"
+    },
+    {
+        "input": "A person with LymeDisease has a/an exposed skin risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has an exposed skin risk factor because Lyme disease is an infectious disease caused by the bacterium Borrelia burgdorferi. B. burgdorferi is transmitted to humans by a bite from an infected tick"
+    },
+    {
+        "input": "A person with LymeDisease has a/an outdoor jobs risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has an outdoor jobs risk factor because research data suggest that Lyme disease is a hazard of outdoor work and that increased recognition of this fact will be necessary to prevent Lyme"
+    },
+    {
+        "input": "A person with LymeDisease has a/an age risk factor because/since/as {explanation}",
+        "output": "A person  with LymeDisease has an age risk factor because Lyme disease is most common in children 5 to 9 years old, and adults between 55 to 69 years old"
+    },
+    {
+        "input": "A person with LymeDisease has a/an geographic location risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has a geographic location risk factor because most cases are reported from the northeastern, mid-Atlantic, and north-central states"
+    },
+    {
+        "input": "A person with Sinusitis has a/an allergies risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has an allergy risk factor because allergies inflame mucous membranes, clog the sinuses, cause pressure and block airflow allowing bacteria to grow resulting in sinusitis."
+    },
+    {
+        "input": "A person with LymeDisease has a/an time of year risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has a time of year risk factor because summer is reported as the time of highest risk for Lyme disease"
+    },
+    {
+        "input": "A person with LymeDisease has a/an landscape risk factor because/since/as {explanation}",
+        "output": "A person with LymeDisease has a landscape risk factor because you are more likely to get Lyme disease if you live or spend time in grassy and heavily wooded areas where ticks carrying Lyme disease thrive. Children who spend a lot of time outdoors in these regions are especially at risk."
+    },
+    {
+        "input": "A person with migraine has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a smoking risk factor because Nicotine causes blood vessels to constrict. Constriction of blood vessels in certain parts of the brain, and in the meninges (the protective tissues that cover the brain), leads to altered brain activity associated with migraine symptoms."
+    },
+    {
+        "input": "A person with migraine has a/an physical exercise risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a physical exercise risk factor because while exercising the muscles of the head, neck, and scalp need more blood to circulate"
+    },
+    {
+        "input": "A person with Sinusitis has a/an medical condition risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a medical condition risk factor because medical condition such as cystic fibrosis or an immune system disorder such as HIV/AID affects sinuses"
+    },
+    {
+        "input": "A person with migraine has a/an drinks risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a drinks risk factor since alcohol can trigger migraine attack"
+    },
+    {
+        "input": "A person with Sinusitis has a/an nasal blockage risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a nasal blockage risk factor because nasal passage abnormality, such as a deviated nasal septum, nasal polyps or tumors affects sinuses"
+    },
+    {
+        "input": "A person with migraine has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a diet risk factor because several dietary triggers for migraine have already been identified"
+    },
+    {
+        "input": "A person with migraine has a/an stress risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a stress risk factor because when you're stressed, your brain releases chemicals that set off your \"fight or flight\" response"
+    },
+    {
+        "input": "A person with Sinusitis has a/an head injury risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a head injury risk factor because a traumatic brain injury can trigger venous sinus thrombosis"
+    },
+    {
+        "input": "A person with migraine has a/an tiredness risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a/an tiredness risk factor because tiredness can cause tension headaches"
+    },
+    {
+        "input": "A person with migraine has a/an anger risk factor because/since/as {explanation}",
+        "output": "A person with migraine has an anger risk factor because people who tend to bottle up their anger may be more likely to suffer from chronic headaches"
+    },
+    {
+        "input": "A person with Sinusitis has a/an tumors risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has an tumors risk factor because they can impede the frontal, ethmoid or maxillary sinuses"
+    },
+    {
+        "input": "A person with migraine has a/an sleep problems risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a sleep problems risk factor because people living with migraine are between 2 and 8 times more likely to experience sleep disorders, compared with the general public. This includes difficulty falling or staying asleep, early morning awakenings and non-refreshing sleep."
+    },
+    {
+        "input": "A person with migraine has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a medication risk factor because as your medication wears off, you get a headache again, which leads you to take even more medicine. Eventually, you find yourself getting headaches more and more, and often with greater pain."
+    },
+    {
+        "input": "A person with Sinusitis has a/an secondhand smoke risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has a/an secondhand smoke risk factor because being exposed to secondhand smoke can do damage to your respiratory system"
+    },
+    {
+        "input": "A person with migraine has a/an hormonal changes risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a hormonal changes risk factor because migraine is a predominantly female disorder. Moreover, menarche, menstruation, pregnancy, and menopause as use of oral contraceptives and of hormone replacement treatment (HRT) may influence migraine occurrence."
+    },
+    {
+        "input": "A person with Sinusitis has a/an air pollution risk factor because/since/as {explanation}",
+        "output": "A person with Sinusitis has an air pollution risk factor because air pollution may cause you to experience more breathing and sinus issues"
+    },
+    {
+        "input": "A person with migraine has a/an age risk factor because/since/as {explanation}",
+        "output": "A person with migraine has an age risk factor because migrane first often occurs during adolescence, tend to peak during your 30s and gradually become less severe and less frequent in the following decades"
+    },
+    {
+        "input": "A person with migraine has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a gender risk factor because women are two to three times more likely than men to have migraines"
+    },
+    {
+        "input": "A person with migraine has a/an loud noises risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a/an loud noises risk factor since noise is a trigger for both migraines and tension-type headaches"
+    },
+    {
+        "input": "A person with migraine has a/an bright lights risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a bright lights risk factor because bright light and other visual stimuli can trigger migraine attacks"
+    },
+    {
+        "input": "A person with migraine has a/an weather changes risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a weather changes risk factor because some people who have migraines appear to be more sensitive to changes in the weather. Weather changes may cause imbalances in brain chemicals, including serotonin, which can prompt a migraine."
+    },
+    {
+        "input": "A person with migraine has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with migraine has a family history risk factor because research indicates that both genetic factors can lead to migraine"
+    },
+    {
+        "input": "A person with ocd has a/an substance abuse risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a substance abuse risk factor because it has been estimated that nearly 30% of people with OCD have had a substance use disorder at some point in their lives"
+    },
+    {
+        "input": "A person with ocd has a/an brain chemistry risk factor because/since/as {explanation}",
+        "output": "A person with ocd has a brain chemistry risk factor because changes in the neurochemical serotonin, as well as in the neurochemicals dopamine and glutamate, are likely present in OCD"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an diabetes risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a diabetes risk factor because Diabetes can result in nerve damage so that for some people, the nerves that control sweat glands are always \"switched on.\" This can result in hyperhidrosis."
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an thyroid problem risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a thyroid problem risk factor because disorders of sweat glands even include the thyroid gland malfunctioning which leads to hyperhidrosis"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an cancer risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a cancer risk factor because a person with cancer may sweat more than usual because of the cancer or the treatment. Some treatment drugs can cause sweating and hot flashes."
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an heart attack risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a heart attack risk factor as excessive sweating and heart conditions are often linked, as sweating without physical exertion is often an indicator of stress on the body. Excessive sweating is due to an underlying medical condition such as a heart attack."
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an medication risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a medication risk factor because opiates like Hydrocodone/Vicodin, Morphine, Oxycodone/Roxicodone, Fentanyl/Duragesic, Ultra/Tramadol. NSAIDs like Toradol/Ketorolac, Celebrex, Relafen/Nabumetone and other pain medications like Marinol cause hyperhidrosis"
+    },
+    {
+        "input": "A person with Hyperhidrosis has a/an family history risk factor because/since/as {explanation}",
+        "output": "A person with Hyperhidrosis has a family history risk factor since it runs in families, which suggests a genetic link and it is common for multiple members of one family to have hyperhidrosis"
+    },
+    {
+        "input": "A person with gerd has a/an smoking risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a smoking risk factor because people who smoked cigarettes or had smoked previously were 29 to 37 percent more likely to develop GERD than never-smokers"
+    },
+    {
+        "input": "A person with gerd has a/an beverage risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a beverage risk factor because caffeinated beverages, carbonated beverages and alcohol may stimulate acid production and increase heartburn"
+    },
+    {
+        "input": "A person with gerd has a/an diet risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a diet risk factor because fatty, fried, sour, spicy food/products, orange and grapefruit juice, tomatoes and tomato preserves, chocolate, coffee/tea, carbonated beverages, alcohol are triggers for GERD symptoms"
+    },
+    {
+        "input": "A person with gerd has a/an obesity risk factor because/since/as {explanation}",
+        "output": "A person with gerd has an obesity risk factor because the risk of these disorders progressively increasing with increasing BMI"
+    },
+    {
+        "input": "A person with gerd has a/an diabetes risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a diabetes risk factor because people with diabetes, especially type 1 diabetes, often develop a condition called gastroparesis. This condition is characterized by delayed stomach emptying. The pressure within the stomach can increase, which in turn can result in reflux, making you more prone to develop GERD."
+    },
+    {
+        "input": "A person with gerd has a/an asthma risk factor because/since/as {explanation}",
+        "output": "A person with gerd has an asthma risk factor because  inhaling small amounts of stomach acid back up into the esophagus and lungs, slowly produces changes in the immune system that may lead to the development of asthma."
+    },
+    {
+        "input": "A person with gerd has a/an secondhand smoke risk factor because/since/as {explanation}",
+        "output": "A person with gerd has a secondhand smoke risk factor because smoking prompts the stomach to produce more acid, increasing the risk of gastric juices being refluxed into the esophagus. Smoking also seems to make stomach acid more intense and damaging by promoting the transfer of bile salts from the intestines into the stomach."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an bowel inflammation risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a bowel inflammation risk factor because bowel inflammation is one factor increasing your risk of developing ankylosing spondylitis"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an gender risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a gender risk factor as men are more likely to develop ankylosing spondylitis than are women."
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an ethnicity risk factor because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has an ethnicity risk factor since ankylosing spondylitis is known to have a lower prevalence in Blacks and Africans than in other ethnic groups"
+    }
+]

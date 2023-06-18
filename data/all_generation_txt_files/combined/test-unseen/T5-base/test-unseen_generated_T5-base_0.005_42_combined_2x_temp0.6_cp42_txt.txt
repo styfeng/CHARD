@@ -1,0 +1,71 @@
+A person with thyroidcancer has a pallative care treatment because palliative care can help prevent thyroid cancer
+A person with rheumatoid has a weight loss treatment because weight loss is a way to reduce the risk of arthritis
+A person with rheumatoid has a diet risk factor because eating a low-fat diet can increase the risk of developing RA.
+A person with thyroidcancer has an alcohol ablation treatment because alcohol helps reduce thyroid cancer
+A person with depression has a sleep problems risk factor because sleep disturbances can lead to depression
+A person with depression has a family and friends prevention because people with depression are more likely to have depression
+A person with depression has a stick to treatment plan treatment because sticking to a treatment plan is a way to reduce depression
+A person with Costochondritis has an exercise risk factor because exercise increases the risk of developing a chronic condition.
+A person with thyroidcancer has a thyroid surgery prevention because thyroid surgery reduces the risk of thyroid cancer
+A person with Costochondritis has an age risk factor because if you are older than 65, you are at a higher risk of developing the disease.
+A person with Costochondritis has an arthritis risk factor because a person with chronic osteoarthritis is more likely to have an arthritis-like condition.
+A person with thyroidcancer has an ethnicity risk factor because ethnicity is associated with thyroid cancer
+A person with rheumatoid has a regular exercise treatment because regular exercise can help reduce inflammation in the body and reduce inflammation
+A person with thyroidcancer has a thyroid hormone therapy treatment because thyroid hormones can help reduce thyroid cancer
+A person with rheumatoid has a heat or cold treatment because heat and cold can help reduce inflammation in the skin and reduce inflammation
+A person with Costochondritis has a coughing risk factor because coughing increases the risk of developing the disease
+A person with depression has a poor nutrition risk factor because poor nutrition can lead to depression
+A person with Costochondritis has an injury risk factor because a person with a traumatic injury can develop a chronic condition, such as osteoarthritis.
+A person with rheumatoid has a gender risk factor because women are at higher risk of developing RA.
+A person with Costochondritis has a tumors risk factor because tumors are a common cause of cancer
+A person with depression has a healthy diet treatment because eating healthy foods can help reduce the risk of depression
+A person with depression has a conflict risk factor because conflict can lead to depression
+A person with Costochondritis has an infection risk factor because a person with a chronic infection is at a higher risk of developing the disease
+A person with thyroidcancer has a radiation therapy treatment because radiation can reduce the risk of thyroid cancer
+A person with Costochondritis has a gender risk factor because women are more likely to develop a chronic disease
+A person with depression has an early treatment prevention because early treatment can help prevent depression
+A person with thyroidcancer has a surgery treatment because surgery reduces the risk of thyroid cancer
+A person with depression has an avoid drugs and alcohol treatment because alcohol can cause depression
+A person with depression has a medication risk factor because the use of medications can cause depression
+A person with thyroidcancer has a diet risk factor because eating a low-fat diet increases the risk of thyroid cancer
+A person with thyroidcancer has a family history risk factor because the risk of thyroid cancer increases with age.
+A person with thyroidcancer has a chemotherapy treatment because chemotherapy reduces the risk of thyroid cancer
+A person with rheumatoid has an early life exposure risk factor because early childhood exposure can lead to a higher risk of relapse
+A person with depression has a stress management prevention because stress can lead to depression
+A person with rheumatoid has a smoking risk factor because smokers are more likely to develop Rheumatism
+A person with rheumatoid has a birth history risk factor because a person born with a family history of RHEUMATOID is at a higher risk of developing Rheumatism
+A person with Costochondritis has a medication treatment because medications can help reduce the risk of developing a chronic disease.
+A person with depression has an abuse risk factor because alcohol and drugs can cause depression
+A person with thyroidcancer has a radioactive iodine treatment because radioactive isotopes can cause thyroid cancer
+A person with rheumatoid has an age risk factor because a person who is older than 65 has a higher risk of developing the disease
+A person with Costochondritis has a therapy treatment because therapy can help reduce the risk of developing a chronic disease.
+A person with Costochondritis has an avoid repetitive misuse of muscles prevention because repetitive use of muscles increases the risk of developing a chronic condition.
+A person with thyroidcancer has a gender risk factor because women are more likely to develop thyroid cancer
+A person with rheumatoid has a family history risk factor because people with a history of RHEUMATOID are at a higher risk of developing the disease
+A person with thyroidcancer has an age risk factor because thyroid cancer is a disease that affects the thyroid gland.
+A person with rheumatoid has an obesity risk factor because obesity increases the risk of developing arthritis
+A person with depression has a medication treatment because medication can help reduce depression
+A person with depression has a life-changing event risk factor because traumatic events can lead to depression
+A person with depression has a social isolation risk factor because social isolation can lead to depression
+A person with depression has a medical conditions risk factor because medical conditions can cause depression
+A person with depression has a family history risk factor because the risk of depression increases with age.
+A person with rheumatoid has a medication treatment because medications can help reduce inflammation in the body and reduce inflammation
+A person with thyroidcancer has a radiation exposure risk factor because radiation can cause thyroid cancer
+A person with rheumatoid has a stress risk factor because stress can lead to an increased risk of relapse
+A person with depression has a trauma or stress risk factor because stress can lead to depression
+A person with depression has a get enough sleep treatment because getting enough sleep can help reduce depression
+A person with thyroidcancer has a hereditary risk factor because thyroid cancer is caused by a genetic mutation.
+A person with thyroidcancer has an obesity risk factor because obesity increases the risk of thyroid cancer
+A person with thyroidcancer has a medication prevention because medication can help prevent thyroid cancer
+A person with Costochondritis has a fix improper posture prevention because improper posture can lead to a decrease in the risk of developing a chronic condition.
+A person with rheumatoid has a don't smoke prevention because smoking reduces the risk of developing RA.
+A person with depression has a psychotherapy treatment because psychotherapy can help you cope with depression and anxiety
+A person with depression has a grief risk factor because grief can lead to depression
+A person with Costochondritis has a surgery treatment because surgery reduces the risk of developing a chronic condition.
+A person with rheumatoid has a therapy treatment because therapy can help reduce the risk of relapse
+A person with rheumatoid has a stress management treatment because stress can lead to a relapse of the immune system.
+A person with depression has a hospitalization treatment because hospitalization can help reduce the risk of depression
+A person with depression has a regular exercise treatment because regular exercise can help reduce depression
+A person with depression has a substance abuse risk factor because substance abuse can lead to depression
+A person with rheumatoid has a take care of gums prevention because gum disease is a chronic disease that affects the immune system.
+A person with rheumatoid has a surgery treatment because surgery reduces the amount of inflammation in the body and reduces inflammation

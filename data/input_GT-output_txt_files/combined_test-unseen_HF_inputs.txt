@@ -1,0 +1,71 @@
+A person with thyroidcancer has a/an pallative care treatment because/since/as {explanation}
+A person with rheumatoid has a/an weight loss treatment because/since/as {explanation}
+A person with rheumatoid has a/an diet risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an alcohol ablation treatment because/since/as {explanation}
+A person with depression has a/an sleep problems risk factor because/since/as {explanation}
+A person with depression has a/an family and friends prevention because/since/as {explanation}
+A person with depression has a/an stick to treatment plan treatment because/since/as {explanation}
+A person with Costochondritis has a/an exercise risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an thyroid surgery prevention because/since/as {explanation}
+A person with Costochondritis has a/an age risk factor because/since/as {explanation}
+A person with Costochondritis has a/an arthritis risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an ethnicity risk factor because/since/as {explanation}
+A person with rheumatoid has a/an regular exercise treatment because/since/as {explanation}
+A person with thyroidcancer has a/an thyroid hormone therapy treatment because/since/as {explanation}
+A person with rheumatoid has a/an heat or cold treatment because/since/as {explanation}
+A person with Costochondritis has a/an coughing risk factor because/since/as {explanation}
+A person with depression has a/an poor nutrition risk factor because/since/as {explanation}
+A person with Costochondritis has a/an injury risk factor because/since/as {explanation}
+A person with rheumatoid has a/an gender risk factor because/since/as {explanation}
+A person with Costochondritis has a/an tumors risk factor because/since/as {explanation}
+A person with depression has a/an healthy diet treatment because/since/as {explanation}
+A person with depression has a/an conflict risk factor because/since/as {explanation}
+A person with Costochondritis has a/an infection risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an radiation therapy treatment because/since/as {explanation}
+A person with Costochondritis has a/an gender risk factor because/since/as {explanation}
+A person with depression has a/an early treatment prevention because/since/as {explanation}
+A person with thyroidcancer has a/an surgery treatment because/since/as {explanation}
+A person with depression has a/an avoid drugs and alcohol treatment because/since/as {explanation}
+A person with depression has a/an medication risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an diet risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an family history risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an chemotherapy treatment because/since/as {explanation}
+A person with rheumatoid has a/an early life exposure risk factor because/since/as {explanation}
+A person with depression has a/an stress management prevention because/since/as {explanation}
+A person with rheumatoid has a/an smoking risk factor because/since/as {explanation}
+A person with rheumatoid has a/an birth history risk factor because/since/as {explanation}
+A person with Costochondritis has a/an medication treatment because/since/as {explanation}
+A person with depression has a/an abuse risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an radioactive iodine treatment because/since/as {explanation}
+A person with rheumatoid has a/an age risk factor because/since/as {explanation}
+A person with Costochondritis has a/an therapy treatment because/since/as {explanation}
+A person with Costochondritis has a/an avoid repetitive misuse of muscles prevention because/since/as {explanation}
+A person with thyroidcancer has a/an gender risk factor because/since/as {explanation}
+A person with rheumatoid has a/an family history risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an age risk factor because/since/as {explanation}
+A person with rheumatoid has a/an obesity risk factor because/since/as {explanation}
+A person with depression has a/an medication treatment because/since/as {explanation}
+A person with depression has a/an life-changing event risk factor because/since/as {explanation}
+A person with depression has a/an social isolation risk factor because/since/as {explanation}
+A person with depression has a/an medical conditions risk factor because/since/as {explanation}
+A person with depression has a/an family history risk factor because/since/as {explanation}
+A person with rheumatoid has a/an medication treatment because/since/as {explanation}
+A person with thyroidcancer has a/an radiation exposure risk factor because/since/as {explanation}
+A person with rheumatoid has a/an stress risk factor because/since/as {explanation}
+A person with depression has a/an trauma or stress risk factor because/since/as {explanation}
+A person with depression has a/an get enough sleep treatment because/since/as {explanation}
+A person with thyroidcancer has a/an hereditary risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an obesity risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an medication prevention because/since/as {explanation}
+A person with Costochondritis has a/an fix improper posture prevention because/since/as {explanation}
+A person with rheumatoid has a/an don't smoke prevention because/since/as {explanation}
+A person with depression has a/an psychotherapy treatment because/since/as {explanation}
+A person with depression has a/an grief risk factor because/since/as {explanation}
+A person with Costochondritis has a/an surgery treatment because/since/as {explanation}
+A person with rheumatoid has a/an therapy treatment because/since/as {explanation}
+A person with rheumatoid has a/an stress management treatment because/since/as {explanation}
+A person with depression has a/an hospitalization treatment because/since/as {explanation}
+A person with depression has a/an regular exercise treatment because/since/as {explanation}
+A person with depression has a/an substance abuse risk factor because/since/as {explanation}
+A person with rheumatoid has a/an take care of gums prevention because/since/as {explanation}
+A person with rheumatoid has a/an surgery treatment because/since/as {explanation}

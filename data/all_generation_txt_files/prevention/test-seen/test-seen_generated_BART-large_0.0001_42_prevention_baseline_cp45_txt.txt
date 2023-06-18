@@ -1,0 +1,18 @@
+A person with gout has an lose weight prevention because/since/as {explanation}
+A person with ibs has an stress management prevention because/since/as {explanation}
+A person with diabetes has a/an regular exercise prevention because/since/as {explanation}
+A person with Prostatitis has an healthy diet prevention because/since/as {explanation}
+A person with Gastroparesis has an healthy diet prevention because/since/as {explanation}
+A person with Anemia has an healthy diet prevention because/since/as {explanation}
+A person with bipolar has a/an avoid drugs and alcohol prevention because/since/as {explanation}
+A person with covid19 has a/an booster dose prevention because/since/as {explanation}
+A person with Alzheimers has a/an engage in activity prevention because/since/as {explanation}
+A person with Fibromyalgia has an meditation and yoga prevention because/since/as {explanation}
+A person with AnkylosingSpondylitis has a/an healthy diet prevention because/since/as {explanation}
+A person with insomnia has an meditation and yoga prevention because/since/as {explanation}
+A person with bipolar has a/an medication prevention because/since/as {explanation}
+A person with LymeDisease has a/an remove ticks quickly prevention because ticks can transmit Lyme Disease to other people and can cause Lyme Disease.
+A person with acne has an stress management prevention because/since/as {explanation}
+A person with CrohnsDisease has a/an regular exercise prevention because/since/as {explanation}
+A person with dementia has an treat health conditions prevention because/since/as {explanation}
+A person with hpv has a/an HPV vaccine prevention because/since/as {explanation}

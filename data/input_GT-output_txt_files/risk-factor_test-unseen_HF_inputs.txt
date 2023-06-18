@@ -1,0 +1,37 @@
+A person with depression has a/an life-changing event risk factor because/since/as {explanation}
+A person with depression has a/an substance abuse risk factor because/since/as {explanation}
+A person with depression has a/an poor nutrition risk factor because/since/as {explanation}
+A person with depression has a/an grief risk factor because/since/as {explanation}
+A person with depression has a/an trauma or stress risk factor because/since/as {explanation}
+A person with depression has a/an medication risk factor because/since/as {explanation}
+A person with depression has a/an sleep problems risk factor because/since/as {explanation}
+A person with depression has a/an medical conditions risk factor because/since/as {explanation}
+A person with depression has a/an abuse risk factor because/since/as {explanation}
+A person with depression has a/an conflict risk factor because/since/as {explanation}
+A person with depression has a/an social isolation risk factor because/since/as {explanation}
+A person with depression has a/an family history risk factor because/since/as {explanation}
+A person with Costochondritis has a/an exercise risk factor because/since/as {explanation}
+A person with Costochondritis has a/an injury risk factor because/since/as {explanation}
+A person with Costochondritis has a/an coughing risk factor because/since/as {explanation}
+A person with Costochondritis has a/an arthritis risk factor because/since/as {explanation}
+A person with Costochondritis has a/an infection risk factor because/since/as {explanation}
+A person with Costochondritis has a/an tumors risk factor because/since/as {explanation}
+A person with Costochondritis has a/an age risk factor because/since/as {explanation}
+A person with Costochondritis has a/an gender risk factor because/since/as {explanation}
+A person with rheumatoid has a/an smoking risk factor because/since/as {explanation}
+A person with rheumatoid has a/an diet risk factor because/since/as {explanation}
+A person with rheumatoid has a/an obesity risk factor because/since/as {explanation}
+A person with rheumatoid has a/an birth history risk factor because/since/as {explanation}
+A person with rheumatoid has a/an early life exposure risk factor because/since/as {explanation}
+A person with rheumatoid has a/an stress risk factor because/since/as {explanation}
+A person with rheumatoid has a/an gender risk factor because/since/as {explanation}
+A person with rheumatoid has a/an age risk factor because/since/as {explanation}
+A person with rheumatoid has a/an family history risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an diet risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an obesity risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an gender risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an age risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an ethnicity risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an radiation exposure risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an family history risk factor because/since/as {explanation}
+A person with thyroidcancer has a/an hereditary risk factor because/since/as {explanation}

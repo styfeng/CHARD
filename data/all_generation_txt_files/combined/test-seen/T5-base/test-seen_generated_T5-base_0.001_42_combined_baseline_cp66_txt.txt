@@ -1,0 +1,70 @@
+A person with CrohnsDisease has a regular exercise prevention because regular exercise can help prevent Crohn's disease
+A person with schizophrenia has a living in a populated area risk factor because people who live in populated areas are more likely to have schizophrenia
+A person with bipolar has an avoid drugs and alcohol prevention because alcohol can cause bipolar disorder
+A person with schizophrenia has a family environment risk factor because family members are more likely to have schizophrenia
+A person with covid19 has a booster dose prevention because booster doses increase the risk of developing covid-19
+A person with Hyperhidrosis has a medication treatment because medication can help reduce the amount of blood in the body and reduce inflammation
+A person with schizophrenia has a pregnancy and birth complication risk factor because pregnant women are more likely to develop schizophrenia
+A person with gerd has a don't smoke treatment because smoking can cause GERD
+A person with dementia has a treat health conditions prevention because if you have a chronic health condition, you may be more likely to develop dementia
+A person with ocd has a mental illness risk factor because mental illness can lead to depression, anxiety and depression
+A person with insomnia has a bipolar disorder risk factor because people with bipolar disorders are more likely to have insomnia
+A person with endometriosis has an immune system disorder risk factor because a person's immune system is disrupted by a faulty immune system
+A person with Gastroparesis has a healthy diet prevention because eating a balanced diet can help prevent gastric ulcers
+A person with CysticFibrosis has a surgery treatment because surgery can reduce the risk of fibrosis
+A person with insomnia has a depression risk factor because depression can lead to insomnia
+A person with parkinsons has a medication treatment because medications like antidepressants, anti-inflammatory drugs, and anti-depressant drugs can help reduce the risk of developing parkinson
+A person with bpd has a hospitalization treatment because hospitalization is the most effective way to manage a person's condition
+A person with parkinsons has a surgery treatment because surgery can reduce the risk of developing the disease
+A person with Dysthymia has a family history risk factor because a person's family members may have a higher risk of developing the disease
+A person with Narcolepsy has an age risk factor because older adults are at a higher risk of developing a neurological disorder
+A person with Alzheimers has an engage in activity prevention because physical activity can reduce the risk of developing Alzheimer's disease
+A person with ErectileDysfunction has a regular exercise treatment because regular exercise can help reduce erectile dysfunction
+A person with adhd has a meditation treatment because meditation can help reduce stress and anxiety
+A person with insomnia has a meditation and yoga prevention because yoga is a great way to prevent insomnia
+A person with ibs has a lack of exercise risk factor because lack of physical activity can lead to a higher risk of IBS
+A person with endometriosis has a low body mass index risk factor because a person with a high body weight index is at a higher risk of developing endomegaloid disease
+A person with Gastroparesis has a diabetes risk factor because diabetes can cause gastric ulcers
+A person with CrohnsDisease has a medication risk factor because medications such as ibuprofen, accutane, phenytoin, and doxycycline can increase the risk of Crohn's disease
+A person with Alzheimers has a healthy diet treatment because eating a balanced diet can help reduce the risk of developing Alzheimer's disease
+A person with ErectileDysfunction has a psychological counseling treatment because psychological counseling helps people with erectile dysfunction to develop a better relationship with themselves and others
+A person with migraine has an acupuncture treatment because it can help reduce the symptoms of migraine
+A person with Sinusitis has a common cold risk factor because colds can cause sinusitis
+A person with Fibromyalgia has a meditation and yoga prevention because yoga is a great way to get rid of stress and anxiety
+A person with adhd has a smoking risk factor because smoking increases the risk of developing adhd
+A person with ibs has an avoid certain foods treatment because eating foods that contain a lot of sugar, sugar, and fats can cause irritable bowel syndrome (IBS)
+A person with insomnia has a caffeine risk factor because caffeine can cause insomnia
+A person with AnkylosingSpondylitis has a healthy diet prevention because eating a balanced diet can help reduce inflammation in the lungs and lungs.
+A person with gout has a lose weight prevention because weight loss can help reduce uric acid levels in the body.
+A person with ErectileDysfunction has a depression risk factor because depression can lead to erectile dysfunction
+A person with covid19 has an ethnicity risk factor because ethnicity is a factor in the development of the disease
+A person with gerd has a connective tissue disorder risk factor because GERD is a disorder that affects the connective tissues of the brain.
+A person with Hyperhidrosis has an infection risk factor because a person with a viral infection has a higher risk of developing hyperhistrosis
+A person with CrohnsDisease has a nutrition therapy treatment because eating a balanced diet is a key part of a healthy diet.
+A person with ocd has a personality risk factor because a person with OCD may have a higher risk of developing OCD
+A person with AnkylosingSpondylitis has an age risk factor because if you are older, you may have a higher risk of developing the disease
+A person with ErectileDysfunction has a surgeries risk factor because surgery can cause erectile dysfunction
+A person with bipolar has a medication prevention because medication can help reduce the symptoms of bipolar disorder
+A person with CysticFibrosis has a family history risk factor because a person's family history of cystic fibrosis can increase the risk of developing the disease
+A person with dementia has a depression risk factor because depression increases the risk of dementia
+A person with Sinusitis has a driving risk factor because driving is a risk factor for developing sinusitis
+A person with Sciatica has a medication treatment because medication can help relieve sciatica symptoms.
+A person with Prostatitis has an infection risk factor because a person with an infection has a higher risk of developing prostate cancer
+A person with pcos has a diabetes risk factor because diabetes can lead to a higher risk of developing the disease
+A person with Narcolepsy has a head injury risk factor because traumatic brain injuries can cause narcoleptic seizures
+A person with ibs has a stress management prevention because stress can increase the risk of developing irritable bowel syndrome
+A person with diabetes has a regular exercise prevention because regular exercise can help prevent diabetes
+A person with Hyperhidrosis has an antiperspirant treatment because anti-perspirants can help reduce the amount of blood in the body and reduce the risk of infection
+A person with acne has a topical medication treatment because topical medications can help treat acne by reducing the amount of oil in the skin. Topical medications may also help reduce the risk of acne
+A person with Anemia has a healthy diet prevention because eating a balanced diet can help prevent anemia
+A person with Sciatica has a surgery treatment because surgery removes the sciatic nerves that cause sciatica
+A person with Hypothyroidism has an autoimmune disease risk factor because autoimmune diseases can cause thyroid disease
+A person with asthma has an occupational exposure risk factor because occupational exposure can lead to asthma
+A person with AnkylosingSpondylitis has a joint injury risk factor because joint injuries can cause pain in the joints, resulting in a more severe condition.
+A person with LymeDisease has an remove ticks quickly prevention because ticks can cause Lyme disease
+A person with hpv has an HPV vaccine prevention because HPV is a virus that can cause a person to contract a viral infection
+A person with dystonia has a stress management treatment because stress can cause a person to have a heightened sense of self-esteem
+A person with ptsd has a follow treatment plan treatment because PTSD is a condition that affects a person's ability to cope with stress and anxiety
+A person with Sinusitis has a sprays treatment because sprays are a great way to get rid of sinusitis
+A person with Prostatitis has a healthy diet prevention because eating a balanced diet can help prevent prostate cancer.
+A person with acne has a stress management prevention because stress can cause acne

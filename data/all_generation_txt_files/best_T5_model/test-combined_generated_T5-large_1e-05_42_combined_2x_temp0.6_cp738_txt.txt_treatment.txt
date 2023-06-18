@@ -1,0 +1,46 @@
+A person with bpd has a hospitalization treatment because hospitalization can help reduce the risk of relapse.
+A person with depression has a regular exercise treatment because regular exercise can help reduce stress and improve mood
+A person with rheumatoid has a therapy treatment because therapy can help improve the quality of life of a person with arthritis.
+A person with ptsd has a follow treatment plan treatment because following a treatment plan can help a person cope with the symptoms of PTSD.
+A person with rheumatoid has a weight loss treatment because weight loss can help reduce the risk of developing RA
+A person with gerd has a don't smoke treatment because smoking increases the risk of developing GERD
+A person with thyroidcancer has a radioactive iodine treatment because radioactive isotopes are used to treat thyroid cancer
+A person with rheumatoid has a medication treatment because medications such as ibuprofen, rifampin, and nifedipine can help reduce the severity of the disease.
+A person with depression has a get enough sleep treatment because getting enough sleep can help reduce the symptoms of depression.
+A person with rheumatoid has a surgery treatment because surgery can reduce inflammation and improve the quality of life
+A person with Hyperhidrosis has a medication treatment because medications such as ibuprofen, phenytoin, and phenobarbital can help reduce the amount of sweating in the body.
+A person with depression has a stick to treatment plan treatment because if you stick to a treatment plan, you are more likely to get better.
+A person with Sciatica has a medication treatment because medications such as NSAIDs, antidepressants, and anti-inflammatory drugs can help relieve sciatica symptoms.
+A person with CrohnsDisease has a nutrition therapy treatment because a diet rich in fiber, vitamins, and minerals can help reduce inflammation in the GI tract.
+A person with Hyperhidrosis has an antiperspirant treatment because it helps control sweating and reduces sweating.
+A person with parkinsons has a surgery treatment because surgery can reduce the risk of Parkinson's disease
+A person with rheumatoid has a heat or cold treatment because heat and cold can help reduce the inflammation of the joints.
+A person with thyroidcancer has an alcohol ablation treatment because alcohol kills cancer cells by destroying them.
+A person with thyroidcancer has a thyroid hormone therapy treatment because thyroid hormones can help reduce the risk of thyroid cancer
+A person with thyroidcancer has a radiation therapy treatment because radiation therapy can be used to treat thyroid cancer.
+A person with thyroidcancer has a chemotherapy treatment because chemotherapy destroys the cells that cause the cancer.
+A person with depression has an avoid drugs and alcohol treatment because alcohol and drugs can make depression worse.
+A person with Costochondritis has a surgery treatment because surgery is a very effective treatment for osteoarthritis.
+A person with depression has a hospitalization treatment because hospitalization is a treatment for depression that is aimed at reducing the symptoms of depression.
+A person with thyroidcancer has a surgery treatment because surgery removes the cancerous cells from the thyroid gland.
+A person with Sciatica has a surgery treatment because surgery can help relieve sciatica pain and improve the function of the sciatic nerve.
+A person with ErectileDysfunction has a psychological counseling treatment because psychological counseling can help you understand and cope with erectile dysfunction.
+A person with rheumatoid has a regular exercise treatment because exercise can help reduce inflammation and improve blood flow to the joints.
+A person with depression has a medication treatment because medications can help reduce the symptoms of depression.
+A person with depression has a psychotherapy treatment because psychotherapy is a form of psychotherapy that aims to help people cope with their depression.
+A person with depression has a healthy diet treatment because eating a diet rich in fruits and vegetables can help reduce the risk of depression.
+A person with Costochondritis has a medication treatment because medications such as ibuprofen, phenytoin, and nifedipine have been shown to reduce the risk of osteoarthritis
+A person with thyroidcancer has a palliative care treatment because if you have a thyroid cancer, you may be able to live longer with a lower risk of death.
+A person with CysticFibrosis has a surgery treatment because surgery removes the cystic fibrosis from the lungs.
+A person with ErectileDysfunction has a regular exercise treatment because regular exercise improves erectile function and improves sexual function
+A person with Sinusitis has a sprays treatment because nasal sprays can be used to treat sinusitis.
+A person with acne has a topical medication treatment because topical medications such as retinoids, sulfasalazine, and salicylic acid can be used to treat acne.
+A person with migraine has an acupuncture treatment because it helps reduce the pain of migraine headaches.
+A person with parkinsons has a medication treatment because medications such as ibuprofen, phenytoin, and nifedipine are used to treat parkinson's disease.
+A person with ibs has an avoid certain foods treatment because avoiding certain foods can help reduce symptoms of irritable bowel syndrome
+A person with depression has an early treatment prevention because early treatment can reduce the risk of developing depression.
+A person with rheumatoid has a stress management treatment because stress can increase the risk of developing autoimmune diseases.
+A person with adhd has a meditation treatment because meditation is a powerful tool for reducing stress and anxiety.
+A person with dystonia has a stress management treatment because stress can cause a person to be more agitated, irritable, or anxious.
+A person with Alzheimers has a healthy diet treatment because eating a diet rich in fruits, vegetables and whole grains can help prevent Alzheimer's disease.
+A person with Costochondritis has a therapy treatment because therapy can help reduce pain and inflammation caused by osteoarthritis.

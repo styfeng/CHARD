@@ -1,0 +1,141 @@
+A person with Narcolepsy has a/an head injury risk factor because a head injury can lead to a relapse of the brain.
+A person with Costochondritis has an exercise risk factor because exercise increases the risk of developing a chronic condition.
+A person with CrohnsDisease has a medication risk factor because drugs such as ibuprofen, adipose, and doxycycline can cause Crohn's disease
+A person with gout has a lose weight prevention because weight loss can help reduce uric acid levels in the body and reduce the risk of developing gastrointestinal disorders.
+A person with bpd has a hospitalization treatment because hospitalization can help reduce the risk of BPD
+A person with covid19 has a booster dose prevention because booster doses can help reduce the risk of infection
+A person with depression has a trauma or stress risk factor because stress can lead to depression
+A person with thyroidcancer has a diet risk factor because eating a low-fat diet increases the risk of thyroid cancer
+A person with depression has a regular exercise treatment because regular exercise can help reduce depression
+A person with schizophrenia has a pregnancy and birth complication risk factor because pregnant women are more likely to develop schizophrenia
+A person with Costochondritis has a fix improper posture prevention because improper posture can lead to a decrease in the risk of developing a chronic condition.
+A person with insomnia has a depression risk factor because depression can lead to insomnia
+A person with thyroidcancer has an obesity risk factor because obesity increases the risk of thyroid cancer
+A person with Hypothyroidism has an autoimmune disease risk factor because autoimmune diseases are caused by autoimmune disorders.
+A person with Gastroparesis has a diabetes risk factor because diabetes can lead to gastric thrombosis
+A person with rheumatoid has a family history risk factor because people with a history of RHEUMATOID are at a higher risk of developing the disease
+A person with ErectileDysfunction has a surgery risk factor because surgery can cause erectile Dysfunction
+A person with rheumatoid has a therapy treatment because therapy can help reduce the risk of relapse
+A person with Fibromyalgia has a meditation and yoga prevention because yoga is a great way to reduce fibromyalgies
+A person with ptsd has a follow treatment plan treatment because follow treatment plans can help reduce the risk of developing PTSD
+A person with bipolar has a medication prevention because medication can help prevent bipolar disorder
+A person with Costochondritis has an infection risk factor because a person with a chronic infection is at a higher risk of developing the disease
+A person with ocd has a personality risk factor because people with OCD are more likely to develop OCD
+A person with rheumatoid has a weight loss treatment because weight loss is a way to reduce the risk of arthritis
+A person with rheumatoid has a smoking risk factor because smokers are more likely to develop Rheumatism
+A person with gerd has a don't smoke treatment because smoking can cause GERD
+A person with thyroidcancer has a radioactive iodine treatment because radioactive isotopes can cause thyroid cancer
+A person with rheumatoid has a medication treatment because medications can help reduce inflammation in the body and reduce inflammation
+A person with Sinusitis has a common cold risk factor because colds can cause sinusitis
+A person with depression has a get enough sleep treatment because getting enough sleep can help reduce depression
+A person with rheumatoid has a surgery treatment because surgery reduces the amount of inflammation in the body and reduces inflammation
+A person with insomnia has a bipolar disorder risk factor because people with bipolar disorders are more likely to have insomnia
+A person with depression has a poor nutrition risk factor because poor nutrition can lead to depression
+A person with rheumatoid has a gender risk factor because women are at higher risk of developing RA.
+A person with Hyperhidrosis has a medication treatment because medication can help reduce the amount of blood in your body that is absorbed by the body, reducing the risk of infection.
+A person with depression has a stick to treatment plan treatment because sticking to a treatment plan is a way to reduce depression
+A person with Hyperhidrosis has an infection risk factor because a person with a viral infection is at a higher risk of developing Hyperhistrosis
+A person with Dysthymia has a family history risk factor because a person who has had a parent or a relative with dysthymic disease is at a higher risk of developing a disease
+A person with rheumatoid has a don't smoke prevention because smoking reduces the risk of developing RA.
+A person with schizophrenia has a living in a populated area risk factor because people with schizophrenia are more likely to develop schizophrenia
+A person with ocd has a mental illness risk factor because a person with OCD is at a higher risk of developing OCD
+A person with Sciatica has a medication treatment because medication can help relieve sciatica pain and pain caused by sciatic nerves.
+A person with Anemia has a healthy diet prevention because eating healthy foods can help prevent anemia
+A person with asthma has an occupational exposure risk factor because occupational exposure can lead to asthma
+A person with CrohnsDisease has a nutrition therapy treatment because eating a balanced diet can help prevent Crohn's disease
+A person with thyroidcancer has an ethnicity risk factor because ethnicity is associated with thyroid cancer
+A person with Hyperhidrosis has an antiperspirant treatment because anti-perspirants help reduce the risk of hyperhidrosia
+A person with depression has a sleep problems risk factor because sleep disturbances can lead to depression
+A person with depression has a life-changing event risk factor because traumatic events can lead to depression
+A person with endometriosis has a low body mass index risk factor because a person with esophageal sphincter is at a higher risk of developing a condition.
+A person with Costochondritis has an arthritis risk factor because a person with chronic osteoarthritis is more likely to have an arthritis-like condition.
+A person with parkinsons has a surgery treatment because surgery reduces the risk of developing Parkinson's disease
+A person with rheumatoid has a heat or cold treatment because heat and cold can help reduce inflammation in the skin and reduce inflammation
+A person with depression has a conflict risk factor because conflict can lead to depression
+A person with thyroidcancer has an alcohol ablation treatment because alcohol helps reduce thyroid cancer
+A person with thyroidcancer has a thyroid hormone therapy treatment because thyroid hormones can help reduce thyroid cancer
+A person with thyroidcancer has a thyroid surgery prevention because thyroid surgery reduces the risk of thyroid cancer
+A person with thyroidcancer has a radiation therapy treatment because radiation can reduce the risk of thyroid cancer
+A person with rheumatoid has an age risk factor because a person who is older than 65 has a higher risk of developing the disease
+A person with insomnia has a caffeine risk factor because caffeine can cause insomnia
+A person with rheumatoid has a diet risk factor because eating a low-fat diet can increase the risk of developing RA.
+A person with Alzheimers has an engage in activity prevention because physical activity can help prevent Alzheimer's disease
+A person with thyroidcancer has a chemotherapy treatment because chemotherapy reduces the risk of thyroid cancer
+A person with pcos has a diabetes risk factor because people with diabetes are at higher risk of developing PDOS
+A person with rheumatoid has an obesity risk factor because obesity increases the risk of developing arthritis
+A person with depression has an avoid drugs and alcohol treatment because alcohol can cause depression
+A person with thyroidcancer has a family history risk factor because the risk of thyroid cancer increases with age.
+A person with depression has a social isolation risk factor because social isolation can lead to depression
+A person with thyroidcancer has a radiation exposure risk factor because radiation can cause thyroid cancer
+A person with ibs has a lack of exercise risk factor because lack of physical activity can lead to irritable bowel syndrome
+A person with Costochondritis has a coughing risk factor because coughing increases the risk of developing the disease
+A person with rheumatoid has a birth history risk factor because a person born with a family history of RHEUMATOID is at a higher risk of developing Rheumatism
+A person with AnkylosingSpondylitis has a joint injury risk factor because joint injuries can lead to a chronic inflammation of the joints, resulting in a higher risk of developing arthrosing syndrome
+A person with Costochondritis has an injury risk factor because a person with a traumatic injury can develop a chronic condition, such as osteoarthritis.
+A person with adhd has a smoking risk factor because smoking increases the risk of adhd
+A person with Costochondritis has a surgery treatment because surgery reduces the risk of developing a chronic condition.
+A person with Costochondritis has an age risk factor because if you are older than 65, you are at a higher risk of developing the disease.
+A person with covid19 has an ethnicity risk factor because a person with a race or ethnicity is at a higher risk of developing the disease
+A person with CrohnsDisease has a regular exercise prevention because regular exercise can help prevent Crohn's Disease
+A person with depression has a substance abuse risk factor because substance abuse can lead to depression
+A person with depression has a hospitalization treatment because hospitalization can help reduce the risk of depression
+A person with depression has a medical conditions risk factor because medical conditions can cause depression
+A person with depression has an abuse risk factor because alcohol and drugs can cause depression
+A person with thyroidcancer has a surgery treatment because surgery reduces the risk of thyroid cancer
+A person with CysticFibrosis has a family history risk factor because a person with cystic fibrosis may have a genetic or family history.
+A person with ibs has a stress management prevention because stress increases the risk of developing IBS
+A person with rheumatoid has an early life exposure risk factor because early childhood exposure can lead to a higher risk of relapse
+A person with bipolar has an avoid drugs and alcohol prevention because alcohol can cause bipolar disorder
+A person with Sciatica has a surgery treatment because surgery reduces the risk of sciatica
+A person with ErectileDysfunction has a psychological counseling treatment because psychological counseling can help people with erectile Dysfunction develop a better understanding of their symptoms and how to manage them.
+A person with thyroidcancer has a medication prevention because medication can help prevent thyroid cancer
+A person with rheumatoid has a regular exercise treatment because regular exercise can help reduce inflammation in the body and reduce inflammation
+A person with dementia has a depression risk factor because depression can lead to dementia
+A person with depression has a medication treatment because medication can help reduce depression
+A person with depression has a psychotherapy treatment because psychotherapy can help you cope with depression and anxiety
+A person with Prostatitis has a healthy diet prevention because eating healthy foods can help prevent prostate cancer
+A person with depression has a healthy diet treatment because eating healthy foods can help reduce the risk of depression
+A person with diabetes has a regular exercise prevention because regular exercise can help prevent diabetes
+A person with Gastroparesis has a healthy diet prevention because eating a balanced diet can help reduce the risk of gastric acid reflux
+A person with thyroidcancer has an age risk factor because thyroid cancer is a disease that affects the thyroid gland.
+A person with Sinusitis has a driving risk factor because driving can lead to sinusitis
+A person with Costochondritis has a medication treatment because medications can help reduce the risk of developing a chronic disease.
+A person with AnkylosingSpondylitis has a healthy diet prevention because eating a balanced diet can help reduce the risk of developing a chronic inflammatory bowel disease.
+A person with schizophrenia has a family environment risk factor because a person who has schizophrenia is likely to have a higher risk of developing schizophrenia
+A person with thyroidcancer has a pallative care treatment because palliative care can help prevent thyroid cancer
+A person with CysticFibrosis has a surgery treatment because surgery reduces the risk of cystic fibrosis
+A person with Narcolepsy has an age risk factor because a person with a chronic illness is at a higher risk of developing a neurological disorder
+A person with insomnia has a meditation and yoga prevention because yoga is a great way to prevent insomnia
+A person with AnkylosingSpondylitis has an age risk factor because a person with a chronic inflammatory bowel disease is at a higher risk of developing a disease
+A person with rheumatoid has a stress risk factor because stress can lead to an increased risk of relapse
+A person with Costochondritis has an avoid repetitive misuse of muscles prevention because repetitive use of muscles increases the risk of developing a chronic condition.
+A person with endometriosis has an immune system disorder risk factor because a person with esophageal sphincter is more likely to have a gastrointestinal disease
+A person with thyroidcancer has a gender risk factor because women are more likely to develop thyroid cancer
+A person with ErectileDysfunction has a depression risk factor because depression can lead to erectile dysfunction
+A person with depression has a grief risk factor because grief can lead to depression
+A person with gerd has a connective tissue disorder risk factor because a person who has an irritable bowel syndrome (GERD) is more likely to develop GERD
+A person with Prostatitis has an infection risk factor because infection can lead to prostate cancer
+A person with ErectileDysfunction has a regular exercise treatment because regular exercise can help reduce erectile dysfunction
+A person with Sinusitis has a/an sprays treatment because sprays can help relieve sinusitis
+A person with Costochondritis has a tumors risk factor because tumors are a common cause of cancer
+A person with depression has a family history risk factor because the risk of depression increases with age.
+A person with Costochondritis has a gender risk factor because women are more likely to develop a chronic disease
+A person with dementia has a treat health conditions prevention because if you have a health condition, you can help prevent dementia
+A person with acne has a topical medication treatment because topical medications can help prevent acne
+A person with rheumatoid has a take care of gums prevention because gum disease is a chronic disease that affects the immune system.
+A person with depression has a medication risk factor because the use of medications can cause depression
+A person with migraine has anacupuncture treatment because acupuncture can help reduce migraine symptoms by reducing inflammation and inflammation in the brain.
+A person with parkinsons has a medication treatment because medications can help prevent the development of Parkinson's disease
+A person with ibs has an avoid certain foods treatment because eating certain foods can cause irritable bowel syndrome
+A person with acne has a stress management prevention because stress can cause acne
+A person with depression has a family and friends prevention because people with depression are more likely to have depression
+A person with depression has an early treatment prevention because early treatment can help prevent depression
+A person with thyroidcancer has a hereditary risk factor because thyroid cancer is caused by a genetic mutation.
+A person with LymeDisease has an remove ticks quickly prevention because ticks can cause Lyme disease
+A person with hpv has an HPV vaccine prevention because HPV is a virus that can cause a person to contract a disease.
+A person with rheumatoid has a stress management treatment because stress can lead to a relapse of the immune system.
+A person with adhd has a meditation treatment because meditation is a way to reduce stress and anxiety
+A person with dystonia has a stress management treatment because stress can lead to a heightened sense of reactivity and a greater sense of self-confidence.
+A person with Alzheimers has a healthy diet treatment because eating healthy foods can help prevent Alzheimer's disease
+A person with depression has a stress management prevention because stress can lead to depression
+A person with Costochondritis has a therapy treatment because therapy can help reduce the risk of developing a chronic disease.

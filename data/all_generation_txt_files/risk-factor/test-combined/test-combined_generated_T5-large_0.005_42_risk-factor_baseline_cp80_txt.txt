@@ -1,0 +1,69 @@
+A person with depression has a life-changing event risk factor because depression can develop after a major life event
+A person with depression has a substance abuse risk factor because substance abuse can worsen depression
+A person with depression has a poor nutrition risk factor because poor nutrition can worsen depression
+A person with depression has a grief risk factor because grief can trigger depression
+A person with depression has a trauma or stress risk factor because trauma and stress can cause depression
+A person with depression has a medication risk factor because antidepressants like Ritalin, Prozac, and Zoloft can cause depression
+A person with depression has a sleep problems risk factor because depression can be caused by a lack of sleep
+A person with depression has a medical conditions risk factor because depression can be caused by a variety of medical conditions
+A person with depression has an abuse risk factor because abuse can worsen depression
+A person with depression has a conflict risk factor because conflict can cause depression
+A person with depression has a social isolation risk factor because social isolation can lead to depression
+A person with depression has a family history risk factor because depression can run in families
+A person with Costochondritis has an exercise risk factor because exercise increases the risk of developing the disease
+A person with Costochondritis has an injury risk factor because a person may be more at risk of developing the condition after an injury
+A person with Costochondritis has a coughing risk factor because coughing increases the risk of developing the condition
+A person with Costochondritis has an arthritis risk factor because arthritis is an autoimmune disease that causes joint damage
+A person with Costochondritis has an infection risk factor because infection with a bacterial or fungal infection can lead to the development of osteoarthritis
+A person with Costochondritis has a tumors risk factor because tumors can lead to osteoarthritis
+A person with Costochondritis has an age risk factor because the risk of developing it increases with age
+A person with Costochondritis has a gender risk factor because the condition is more common in women than in men
+A person with rheumatoid has a smoking risk factor because smoking increases the risk of developing autoimmune diseases
+A person with rheumatoid has a diet risk factor because diets high in saturated and trans fats are associated with an increased risk of autoimmune disease
+A person with rheumatoid has an obesity risk factor because obesity is associated with an increased risk of autoimmune disease
+A person with rheumatoid has a birth history risk factor because autoimmune diseases such as lupus, psoriasis, arthritis, sjogren's syndrome, and spondyloarthritis may be linked
+A person with rheumatoid has an early life exposure risk factor because exposure to inflammatory bowel disease (IBD) in childhood may increase the risk of developing RA
+A person with rheumatoid has a stress risk factor because stress can increase the risk of developing a autoimmune disorder
+A person with rheumatoid has a gender risk factor because it is more common in women than in men
+A person with rheumatoid has an age risk factor because it is more common in older adults
+A person with rheumatoid has a family history risk factor because the risk of developing a autoimmune disorder increases with increasing age
+A person with thyroidcancer has a diet risk factor because diets high in saturated and trans fats are associated with an increased risk of thyroid cancer
+A person with thyroidcancer has an obesity risk factor because obesity increases the risk of developing thyroid cancer
+A person with thyroidcancer has a gender risk factor because thyroid cancer is more common in women than in men
+A person with thyroidcancer has an age risk factor because the risk of developing thyroid cancer increases with age
+A person with thyroidcancer has an ethnicity risk factor because thyroid cancer is more common in Asians than in other ethnic groups
+A person with thyroidcancer has a radiation exposure risk factor because radiation can damage thyroid tissue
+A person with thyroidcancer has a family history risk factor because Thyroid cancer is a genetic disease that runs in families
+A person with thyroidcancer has a hereditary risk factor because a person's risk of developing thyroid cancer increases with age
+A person with Sinusitis has a driving risk factor because driving can cause sinusitis
+A person with schizophrenia has a pregnancy and birth complication risk factor because women with schizophrenia are at a higher risk of developing the disorder during pregnancy
+A person with endometriosis has an immune system disorder risk factor because a person's immune system may not be working properly, resulting in an infection
+A person with AnkylosingSpondylitis has an age risk factor because it is more common in older adults
+A person with schizophrenia has a family environment risk factor because the risk of schizophrenia increases with increasing age
+A person with AnkylosingSpondylitis has a joint injury risk factor because people who have had a traumatic injury to their joints may be at a higher risk of developing the disease
+A person with Dysthymia has a family history risk factor because it is a condition that can run in families
+A person with ErectileDysfunction has a surgeries risk factor because erectile dysfunction is a condition that can be caused by a surgery, such as a hysterectomy.
+A person with endometriosis has a low body mass index risk factor because women with low BMI are at an increased risk of developing the condition
+A person with asthma has an occupational exposure risk factor because occupational exposure can trigger asthma
+A person with Narcolepsy has an age risk factor because it is more common in older adults
+A person with adhd has a smoking risk factor because smoking increases the risk of developing ADHD
+A person with insomnia has a bipolar disorder risk factor because Bipolar disorder is a disorder that affects a large number of people
+A person with Hyperhidrosis has an infection risk factor because people with HIV/AIDS are at an increased risk of hyperhidrisis
+A person with Sinusitis has a common cold risk factor because sinusitis can be caused by a viral infection
+A person with ocd has a mental illness risk factor because people with OCD are more likely to have mental illness
+A person with dementia has a depression risk factor because depression increases the risk of developing dementia
+A person with Gastroparesis has a diabetes risk factor because people with type 1 diabetes are at an increased risk of developing gastroparesis
+A person with insomnia has a caffeine risk factor because caffeine can cause insomnia
+A person with Hypothyroidism has an autoimmune disease risk factor because people with autoimmune diseases, such as Crohn's disease, lupus and psoriasis are at an increased risk of hypothyroid disease
+A person with Narcolepsy has a head injury risk factor because traumatic brain injury can trigger narcolepsis
+A person with ocd has a personality risk factor because people with OCD are more likely to have personality disorders
+A person with covid19 has an ethnicity risk factor because people of African descent are at a higher risk of developing COVID-19
+A person with ibs has a lack of exercise risk factor because IBS is a condition that occurs when a person does not get enough physical activity
+A person with insomnia has a depression risk factor because depression increases the risk of insomnia
+A person with pcos has a diabetes risk factor because people with type 1 diabetes are at an increased risk of developing type 2 diabetes
+A person with ErectileDysfunction has a depression risk factor because depression can lead to erectile dysfunction
+A person with gerd has a connective tissue disorder risk factor because GERD is a disorder of connective tissues
+A person with schizophrenia has a populated area risk factor because people living in populated areas are more likely to develop schizophrenia
+A person with CysticFibrosis has a family history risk factor because it is a genetic disorder that can run in families
+A person with CrohnsDisease has a medication risk factor because certain medications can increase the risk of Crohn's disease
+A person with Prostatitis has an infection risk factor because infection of the prostate can lead to prostate cancer

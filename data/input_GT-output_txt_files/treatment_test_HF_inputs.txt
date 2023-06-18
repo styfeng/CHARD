@@ -1,0 +1,45 @@
+A person with Costochondritis has a/an medication treatment because/since/as {explanation}
+A person with Costochondritis has a/an therapy treatment because/since/as {explanation}
+A person with Costochondritis has a/an surgery treatment because/since/as {explanation}
+A person with rheumatoid has a/an medication treatment because/since/as {explanation}
+A person with rheumatoid has a/an therapy treatment because/since/as {explanation}
+A person with rheumatoid has a/an surgery treatment because/since/as {explanation}
+A person with rheumatoid has a/an regular exercise treatment because/since/as {explanation}
+A person with rheumatoid has a/an heat or cold treatment because/since/as {explanation}
+A person with rheumatoid has a/an stress management treatment because/since/as {explanation}
+A person with rheumatoid has a/an weight loss treatment because/since/as {explanation}
+A person with thyroidcancer has a/an surgery treatment because/since/as {explanation}
+A person with thyroidcancer has a/an thyroid hormone therapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an radioactive iodine treatment because/since/as {explanation}
+A person with thyroidcancer has a/an alcohol ablation treatment because/since/as {explanation}
+A person with thyroidcancer has a/an radiation therapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an chemotherapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an pallative care treatment because/since/as {explanation}
+A person with depression has a/an medication treatment because/since/as {explanation}
+A person with depression has a/an psychotherapy treatment because/since/as {explanation}
+A person with depression has a/an hospitalization treatment because/since/as {explanation}
+A person with depression has a/an avoid drugs and alcohol treatment because/since/as {explanation}
+A person with depression has a/an healthy diet treatment because/since/as {explanation}
+A person with depression has a/an regular exercise treatment because/since/as {explanation}
+A person with depression has a/an get enough sleep treatment because/since/as {explanation}
+A person with depression has a/an stick to treatment plan treatment because/since/as {explanation}
+A person with gerd has a/an don't smoke treatment because/since/as {explanation}
+A person with ErectileDysfunction has a/an regular exercise treatment because/since/as {explanation}
+A person with CysticFibrosis has a/an surgery treatment because/since/as {explanation}
+A person with ibs has a/an avoid certain foods treatment because/since/as {explanation}
+A person with Hyperhidrosis has a/an medication treatment because/since/as {explanation}
+A person with adhd has a/an meditation treatment because/since/as {explanation}
+A person with ErectileDysfunction has a/an psychological counseling treatment because/since/as {explanation}
+A person with parkinsons has a/an medication treatment because/since/as {explanation}
+A person with CrohnsDisease has a/an nutrition therapy treatment because/since/as {explanation}
+A person with Hyperhidrosis has a/an antiperspirant treatment because/since/as {explanation}
+A person with dystonia has a/an stress management treatment because/since/as {explanation}
+A person with bpd has a/an hospitalization treatment because/since/as {explanation}
+A person with migraine has a/an acupuncture treatment because/since/as {explanation}
+A person with ptsd has a/an follow treatment plan treatment because/since/as {explanation}
+A person with Sciatica has a/an medication treatment because/since/as {explanation}
+A person with parkinsons has a/an surgery treatment because/since/as {explanation}
+A person with Sciatica has a/an surgery treatment because/since/as {explanation}
+A person with Sinusitis has a/an sprays treatment because/since/as {explanation}
+A person with Alzheimers has a/an healthy diet treatment because/since/as {explanation}
+A person with acne has a/an topical medication treatment because/since/as {explanation}

@@ -1,0 +1,110 @@
+[
+    {
+        "input": "A person with bulimia has a/an healthy body image prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an healthy body image prevention because it's believed bulimia begins with dissatisfaction with your body and extreme concern with your size and shape"
+    },
+    {
+        "input": "A person with bulimia has a/an family meals prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an family meals prevention because eating regularly with family showcases healthy eating habits and help family members detect early on if bulimia is occurring."
+    },
+    {
+        "input": "A person with bulimia has a/an avoid talking about weight prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an avoid talking about weight prevention because focusing on being healthy rather than weight gained can stop the person from spiraling into unhealthy purging."
+    },
+    {
+        "input": "A person with bulimia has a/an discourage dieting prevention because/since/as {explanation}",
+        "output": "A person with bulimia has a discourage dieting prevention because dieting is generally deemed a risk factor for bulimia because someone diets, eventually craves and eats, then feels badly for eating and purges, and the cycle begins"
+    },
+    {
+        "input": "A person with bulimia has a/an family and friends prevention because/since/as {explanation}",
+        "output": "A person with bulimia has an family and friends prevention because your friends and family provide emotional support to keep up healthy habits."
+    },
+    {
+        "input": "A person with psychosis has a/an early treatment prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an early treatment prevention because early treatment reduces suffering, improves outcome and reduces future episodes of illness."
+    },
+    {
+        "input": "A person with psychosis has a/an avoid exposure to risk factors prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an avoid exposure to risk factors prevention because avoiding certain risk factors like obstetric events, adverse life events and cannabis use are some of the most productive approach for psychosis prevention."
+    },
+    {
+        "input": "A person with psychosis has a/an avoid cannabis prevention because/since/as {explanation}",
+        "output": "A person with psychosis has an avoid cannabis prevention because people who use marijuana and have the AKT1 gene, provides coding for enzyme that affects dopamine signaling, are at increased risk of developing psychosis."
+    },
+    {
+        "input": "A person with lupus has a/an limit sun exposure prevention because/since/as {explanation}",
+        "output": "A person with lupus has a limit sun exposure prevention because people experience lupus  flare or their symptoms when exposed to sunlight affecting areas that are frequently exposed such as the face, neck, hands and feet."
+    },
+    {
+        "input": "A person with lupus has a/an stress management prevention because/since/as {explanation}",
+        "output": "A person with lupus has a/an stress management prevention because stress causes lupus flares ups which include fatigue, muscle and joint aching and stiffness, fevers, and blood test abnormalities."
+    },
+    {
+        "input": "A person with lupus has a/an get enough sleep prevention because/since/as {explanation}",
+        "output": "A person with lupus has a get enough sleep prevention because getting enough sleep can help you prevent lupus flares, manage fatigue, and keep your body's immune system healthy."
+    },
+    {
+        "input": "A person with backpain has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with backpain has a regular exercise prevention because back exercises reduces stiffness by keeping the connective fibers of ligaments and tendons flexible"
+    },
+    {
+        "input": "A person with backpain has a/an build muscle strength and flexibility prevention because/since/as {explanation}",
+        "output": "A person with backpain has a build muscle strength and flexibility prevention because a general exercise programme that combines muscular strength, flexibility and aerobic fitness is beneficial for rehabilitation of non-specific chronic low back pain. Increasing core muscular strength can assist in supporting the lumbar spine."
+    },
+    {
+        "input": "A person with backpain has a/an lose weight prevention because/since/as {explanation}",
+        "output": "A person with backpain has an lose weight prevention because being overweight can alter the natural curve of your spine, press on the shock-absorbing disks between vertebrae and cause them to become herniated, pinched, or cause pressure on nerves that travel through the central canal, and strain the muscles and ligaments that support your back."
+    },
+    {
+        "input": "A person with backpain has a/an don't smoke prevention because/since/as {explanation}",
+        "output": "A person with backpain has a/an don't smoke prevention because smoking damages the arteries in the back discs and joints causing pain and injury"
+    },
+    {
+        "input": "A person with backpain has a/an good posture prevention because/since/as {explanation}",
+        "output": "A person with backpain has an good posture prevention because proper posture keeps bones and joints in alignment. This decreases the abnormal wearing of joint surfaces, reduces stress on the ligaments holding the spinal joints together and allows muscles to work more efficiently"
+    },
+    {
+        "input": "A person with backpain has a/an sit smart prevention because/since/as {explanation}",
+        "output": "A person with backpain has a/an sit smart prevention because sitting in an office chair for a long period, the natural tendency for most people is to slouch over or slouch down in the chair which can overstretch the spinal ligaments and strain the discs. So it's important to sit correctly."
+    },
+    {
+        "input": "A person with backpain has a/an lift smart prevention because/since/as {explanation}",
+        "output": "A person with backpain has an lift smart prevention because lifting with your back and not your legs can cause muscle strains or ligament sprains in the lower back"
+    },
+    {
+        "input": "A person with bipolar has a/an pay attention to warning signs prevention because/since/as {explanation}",
+        "output": "A person with bipolar has a pay attention to warning signs prevention because addressing symptoms early, one can prevent episodes from getting worse. Identifying a pattern to your bipolar episodes and what triggers them can help prevent bipolar."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has a regular exercise prevention because exercise can help improve the efficiency of the digestive process"
+    },
+    {
+        "input": "A person with Sciatica has a/an regular exercise prevention because/since/as {explanation}",
+        "output": "A person with Sciatica has an regular exercise prevention because exercise improves the health of your muscles and joints in your spine and nourish your spinal reducing pressure on your sciatic nerve roots."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an avoid nicotine and alcohol prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has an avoid nicotine and alcohol prevention because  using these substances, especially at night, can worsen the signs and symptoms of narcolepsy"
+    },
+    {
+        "input": "A person with covid19 has a/an face mask prevention because/since/as {explanation}",
+        "output": "A person with covid19 has a face mask prevention because face masks are meant to protect the wearer from contact with droplets and sprays that may contain germs. Masks with several layers offer more protection."
+    },
+    {
+        "input": "A person with acne has a/an shower after physical exercise prevention because/since/as {explanation}",
+        "output": "A person with acne has an shower after physical exercise prevention because it rinses off the bacteria and access oil that cause acne."
+    },
+    {
+        "input": "A person with Gastroparesis has a/an insulin prevention because/since/as {explanation}",
+        "output": "A person with Gastroparesis has an insulin prevention because Gastroparesis causes food to be absorbed more slowly and at unpredictable times so insulin helps stabilize it."
+    },
+    {
+        "input": "A person with Dysthymia has a/an family and friends prevention because/since/as {explanation}",
+        "output": "A person with Dysthymia has a family and friends prevention as reaching out to close family and friends especially in times of stress and crisis to help you weather rough spells can help prevent dysthymia."
+    },
+    {
+        "input": "A person with Narcolepsy has a/an take naps prevention because/since/as {explanation}",
+        "output": "A person with Narcolepsy has a take naps prevention because a brief nap especially before driving is refreshing improving alertness for one to three hours afterwards"
+    }
+]

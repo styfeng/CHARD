@@ -1,0 +1,32 @@
+A person with Sinusitis has a driving risk factor because driving can cause sinusitis
+A person with schizophrenia has a pregnancy and birth complication risk factor because pregnancy can trigger schizophrenia
+A person with endometriosis has an immune system disorder risk factor because immune system disorders such as HIV, HPV, HPV and HPV can cause endometrial disease
+A person with AnkylosingSpondylitis has an age risk factor because older adults are more likely to develop the disease
+A person with schizophrenia has a family environment risk factor because people with schizophrenia are more likely to develop schizophrenia
+A person with AnkylosingSpondylitis has a joint injury risk factor because joint injuries, such as an injury to the spine, tend to increase the risk of developing a joint disease
+A person with Dysthymia has a family history risk factor because a family member may have a genetic predisposition to the disease
+A person with ErectileDysfunction has a surgeries risk factor because patients who have had a surgery can also have a surgery problem
+A person with endometriosis has a low body mass index risk factor because the body's mass index increases with age
+A person with asthma has an occupational exposure risk factor because people with asthma may be exposed to asthma
+A person with Narcolepsy has an age risk factor because older adults are more likely to have narcoleptic
+A person with adhd has a smoking risk factor because smoking increases the risk of developing ADHD
+A person with insomnia has a bipolar disorder risk factor because bipolar disorder is linked to bipolar disorder
+A person with Hyperhidrosis has an infection risk factor because bacterial infections can cause hyperhidrosis
+A person with Sinusitis has a common cold risk factor because cold can cause sinusitis
+A person with ocd has a mental illness risk factor because mental illness is linked to OCD
+A person with dementia has a depression risk factor because depression is linked to depression
+A person with Gastroparesis has a diabetes risk factor because diabetes is linked to gastric disease
+A person with insomnia has a caffeine risk factor because caffeine can cause insomnia
+A person with Hypothyroidism has an autoimmune disease risk factor because autoimmune diseases such as autoimmune disease such as thyroid disease, diabetes, thyroid disease and thyroid disease are linked to autoimmune disease
+A person with Narcolepsy has a head injury risk factor because head injuries can result in a head infection
+A person with ocd has a personality risk factor because people with OCD are more likely to develop OCD
+A person with covid19 has an ethnicity risk factor because ethnic groups are more likely to be at risk of developing the disease
+A person with ibs has a lack of exercise risk factor because IBS can be caused by physical activity
+A person with insomnia has a depression risk factor because depression is linked to depression
+A person with pcos has a diabetes risk factor because diabetes can trigger pcos
+A person with ErectileDysfunction has a depression risk factor because depression is associated with depression
+A person with gerd has a connective tissue disorder risk factor because it's caused by a connection between the brain and the body.
+A person with schizophrenia has a living in a populated area risk factor because people with schizophrenia are more likely to develop schizophrenia
+A person with CysticFibrosis has a family history risk factor because of the family history of Cystic fibrosis
+A person with CrohnsDisease has a medication risk factor because it can cause Crohn's disease
+A person with Prostatitis has an infection risk factor because bacterial infections such as bacterial infections, viruses, bacteria, viruses and viruses, such as HPV, HPV, HIV, herpes virus, HPV virus, HIV virus, herpes viruses, and herpes virus

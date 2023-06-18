@@ -1,0 +1,182 @@
+[
+    {
+        "input": "A person with bulimia has a/an psychotherapy treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a psychotherapy treatment because psychotherapy aims to change thinking patterns (cognitive) and actions (behavioral) causing bulimia"
+    },
+    {
+        "input": "A person with bulimia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a medication treatment because the imbalance of serotonin levels in the body can increase urges to binge and purge in women and men who have bulimia, and antidepressant medications can decrease these urges by effectively balancing the levels of neurotransmitters in the brain."
+    },
+    {
+        "input": "A person with bulimia has a/an nutrition education treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a nutrition education treatment because it helps address research based nutrition knowledge, correct the misinformation the patient might already have, and alter the distorted cognition of the patient"
+    },
+    {
+        "input": "A person with bulimia has a/an hospitalization treatment because/since/as {explanation}",
+        "output": "A person with bulimia has a hospitalization treatment because inpatient care lets individuals escape negative environments that may be contributing to the eating disorder"
+    },
+    {
+        "input": "A person with psychosis has a/an tranquilization treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a tranquilization treatment because people experiencing psychosis can become agitated and be at risk of hurting themselves or others. In these cases, doctor administer a fast-acting injection or liquid medication to quickly relax the person."
+    },
+    {
+        "input": "A person with psychosis has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a medication treatment because medications are the cornerstone of psychosis treatment. They work by blocking the effect of dopamine, a chemical that transmits messages in the brain."
+    },
+    {
+        "input": "A person with psychosis has a/an cognitive behavioral therapy treatment because/since/as {explanation}",
+        "output": "A person with psychosis has a cognitive behavioral therapy treatment because CBT helps a person experiencing delusions and hallucinations and change the way he thinks about and responds to these experiences. The goal is to make them less distressing and less impairing in day to day life."
+    },
+    {
+        "input": "A person with backpain has a/an heat treatment because/since/as {explanation}",
+        "output": "A person with backpain has a heat treatment because heat therapy dilates blood vessels which increases blood circulation in the painful or stiff area ans heat transfers from the skin surface deep into the muscles, and improves blood circulation into the muscles"
+    },
+    {
+        "input": "A person with backpain has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with backpain has a medication treatment because ibuprofen (such as Advil or Motrin), available over-the-counter, is an excellent medication for the short-term treatment of low back pain"
+    },
+    {
+        "input": "A person with backpain has a/an light activity treatment because/since/as {explanation}",
+        "output": "A person with backpain has a light activity treatment because if you stop being active for a long time, the muscles in your back become weak and you become less fit, and this can make your back pain worse"
+    },
+    {
+        "input": "A person with backpain has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with backpain has a physical therapy treatment because physical therapy will reduce lower back pain and restore mobility"
+    },
+    {
+        "input": "A person with backpain has a/an surgery treatment because/since/as {explanation}",
+        "output": "A person with backpain has a surgery treatment as in the back surgery procedure, a surgeon removes parts of the bone, bone spurs, or ligaments in your back and thus relieves pressure on spinal nerves and can ease pain or weakness"
+    },
+    {
+        "input": "A person with backpain has a/an cortisone injections treatment because/since/as {explanation}",
+        "output": "A person with backpain has a cortisone injections treatment because cortisone injections resulting in pain relief lasts for several months after the shot"
+    },
+    {
+        "input": "A person with backpain has a/an chiropractic care treatment because/since/as {explanation}",
+        "output": "A person with backpain has a chiropractic care treatment because it involves moving a joint in your spine to the end of its range, followed by a light thrust. This is often called an \"adjustment.\" It realigns the bones of your spine to place them in a better position and the patient gets pain relief."
+    },
+    {
+        "input": "A person with backpain has a/an acupuncture treatment because/since/as {explanation}",
+        "output": "A person with backpain has an acupuncture treatment because acupuncture helps stimulate the central nervous system, which triggers the release of beneficial chemicals such as endorphins and serotonin into a patient's muscles, spinal cord and brain and these chemicals work to lower and even eliminate a patient's back pain, promoting overall wellness"
+    },
+    {
+        "input": "A person with backpain has a/an massage treatment because/since/as {explanation}",
+        "output": "A person with backpain has a massage treatment because massaging improves blood circulation, which aids in recovery of muscle soreness"
+    },
+    {
+        "input": "A person with backpain has a/an yoga treatment because/since/as {explanation}",
+        "output": "person with backpain has a yoga treatment because many of the postures in yoga gently strengthen the muscles in the back, as well as the abdominal muscles. Back and abdominal muscles are essential components of the muscular network of the spine, helping the body maintain proper upright posture and movement. When these muscles are well conditioned, back pain can be greatly reduced or avoided"
+    },
+    {
+        "input": "A person with lupus has a/an medication treatment because/since/as {explanation}",
+        "output": "A person witA person with lupus has a medication treatment because Steroids can help reduce pain and inflammation by decreasing the activity of overactive white blood cells and Non-steroidal anti-inflammatories (NSAIDs) by reducing chemicals in the body that cause inflammationh lupus has a medication treatment because"
+    },
+    {
+        "input": "A person with lupus has a/an regular exercise treatment because/since/as {explanation}",
+        "output": "A person with lupus has a regular exercise treatment because studies show that for individuals with lupus, regular exercise improves one's ability to function independently. Exercise helps reduce fatigue from lupus and overall fatigue from life in general"
+    },
+    {
+        "input": "A person with lupus has a/an don't smoke treatment because/since/as {explanation}",
+        "output": "A person with lupus has a don't smoke treatment because if you quit smoking, your immune system is no longer exposed to tar and nicotine, and within a week, you will have higher blood levels of protective antioxidants such as vitamin C."
+    },
+    {
+        "input": "A person with lupus has a/an healthy diet treatment because/since/as {explanation}",
+        "output": "A person with lupus has a healthy diet treatment because a healthy diet includes plenty of fruits, vegetables, and whole grains. It should also include moderate amounts of meats, poultry, and oily fish ect helps reduce inflammation and other lupus symptoms"
+    },
+    {
+        "input": "A person with lupus has a/an supplements treatment because/since/as {explanation}",
+        "output": "A person with lupus has a/an supplements treatment since people with lupus might have higher levels of oxidative stress and antioxidants like selenium and vitamin C can help protect against free radicals which are molecules that can damage your cells in a process called oxidation"
+    },
+    {
+        "input": "A person with lupus has a/an avoid sun treatment because/since/as {explanation}",
+        "output": "A person with lupus has an avoid sun treatment because for people with lupus, even minimal amounts of exposure to UV light can be disastrous as lupus increases photosensitivity, making unprotected skin cells more vulnerable to UV damage"
+    },
+    {
+        "input": "A person with lupus has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with lupus has a get enough sleep treatment because getting enough sleep can help to prevent lupus flares, manage fatigue, and keep the body's immune system healthy"
+    },
+    {
+        "input": "A person with lupus has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with lupus has a stress management treatment because stress can trigger a lupus flare or make symptoms worse"
+    },
+    {
+        "input": "A person with AnkylosingSpondylitis has a/an good posture treatment because/since/as {explanation}",
+        "output": "A person with AnkylosingSpondylitis has a good posture treatment because it can help sidestep a vicious cycle of pain and aggravated symptoms"
+    },
+    {
+        "input": "A person with asthma has a/an action plan treatment because/since/as {explanation}",
+        "output": "A person with asthma has an action plan treatment because it shows you the steps to take to keep your asthma from getting worse. It also provides guidance on when to call your healthcare provider or when to go to the emergency room."
+    },
+    {
+        "input": "A person with parkinsons has a/an physical therapy treatment because/since/as {explanation}",
+        "output": "A person with parkinsons has a physical therapy treatment because physical therapy helps parkinsons patient to keep moving as well and as long as possible, while enhancing the ability to move."
+    },
+    {
+        "input": "A person with ErectileDysfunction has a/an don't smoke treatment because/since/as {explanation}",
+        "output": "A person with ErectileDysfunction has a don't smoke treatment because smoking hampers circulation to all areas of the body, including the genitals, making it tougher to get and keep an erection"
+    },
+    {
+        "input": "A person with Dysthymia has a/an get enough sleep treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has a get enough sleep treatment because getting a good night's sleep can be an important part of your plan to manage depression and when you're well rested, you'll not only have more energy, but you may also have a more upbeat view on life and better focus."
+    },
+    {
+        "input": "A person with Fibromyalgia has a/an massage treatment because/since/as {explanation}",
+        "output": "A person with Fibromyalgia has a massage treatment as it can reduce heart rate, relax muscles, improve range of motion in joints and increase production of the body's natural painkillers"
+    },
+    {
+        "input": "A person with Epilepsy has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with Epilepsy has a therapy treatment because psychological interventions such as relaxation therapy, cognitive behaviour therapy, electroencephalogram (EEG) bio-feedback and educational interventions have been used alone or in combination in the treatment of epilepsy, to reduce the seizure frequency and improve the quality of life"
+    },
+    {
+        "input": "A person with Hypothyroidism has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Hypothyroidism has a medication treatment because standard treatment for hypothyroidism involves daily use of the synthetic thyroid hormone levothyroxine (Levo-T, Synthroid, others). This oral medication restores adequate hormone levels, reversing the signs and symptoms of hypothyroidism. You'll likely start to feel better soon after you start treatmentas"
+    },
+    {
+        "input": "A person with Alzheimers has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with Alzheimers has a medication treatment because cholinesterase inhibitors such as Galantamine, rivastigmine, and donepezil prescribed for mild to moderate Alzheimer's symptoms help reduce or control some cognitive and behavioral symptoms. Memantine, an N-methyl D-aspartate (NMDA) antagonist, is prescribed to treat moderate to severe Alzheimer's disease decrease symptoms and enable some people to maintain certain daily functions a little longer than they would without the medication"
+    },
+    {
+        "input": "A person with dementia has a/an keep a calendar treatment because/since/as {explanation}",
+        "output": "A person with dementia has a keep a calendar treatment because a predictable routine can prevent a person with dementia from becoming distracted and forgetting what they were doing. A calendar might help to remember upcoming events, daily activities and medication schedules."
+    },
+    {
+        "input": "A person with bipolar has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a medication treatment because medication can bring mania and depression under control and prevent relapse once your mood has stabilized"
+    },
+    {
+        "input": "A person with dystonia has a/an heat or cold treatment because/since/as {explanation}",
+        "output": "A person with dystonia has a heat or cold treatment because applying heat or cold can help ease muscle pain"
+    },
+    {
+        "input": "A person with bipolar has a/an social support treatment because/since/as {explanation}",
+        "output": "A person with bipolar has a social support treatment since bipolar patients with full interepisode remission perceive more social support than those who do not achieve full remission and poor social support may increase the risk of relapse in bipolar disorder."
+    },
+    {
+        "input": "A person with gerd has a/an stress management treatment because/since/as {explanation}",
+        "output": "A person with gerd has a stress management treatment because stress is closely linked to anxiety, is also known to worsen acid reflux"
+    },
+    {
+        "input": "A person with insomnia has a/an meditation and yoga treatment because/since/as {explanation}",
+        "output": "A person with insomnia has a meditation and yoga treatment because they help reduce body stress, anxiety, and boosts the nervous system which are all important for better sleep."
+    },
+    {
+        "input": "A person with asthma has a/an lose weight treatment because/since/as {explanation}",
+        "output": "A person with asthma has a lose weight treatment because It can help you exercise more easily, which in turn helps you keep the weight down, and get fitter"
+    },
+    {
+        "input": "A person with Anemia has a/an blood transfusions treatment because/since/as {explanation}",
+        "output": "A person with Anemia has a blood transfusions treatment because the red blood cells also give a source of iron that your body can reuse"
+    },
+    {
+        "input": "A person with Dysthymia has a/an eat healthy treatment because/since/as {explanation}",
+        "output": "A person with Dysthymia has an eat healthy treatment as reaerches found that the symptoms of people with moderate to severe depression improved when they received nutritional counseling sessions and ate a more healthful diet for 12 weeks."
+    },
+    {
+        "input": "A person with acne has a/an therapy treatment because/since/as {explanation}",
+        "output": "A person with acne has a therapy treatment because blue light therapy is the type of light therapy most commonly used to address acne breakouts. The wavelength of blue light has an antimicrobial effect, making it effective at killing several types of bacteria that can collect in your pores and oil glands and cause breakouts."
+    },
+    {
+        "input": "A person with schizophrenia has a/an medication treatment because/since/as {explanation}",
+        "output": "A person with schizophrenia has a medication treatment because most antipsychotic drugs are known to block some of the dopamine receptors in the brain. This reduces the flow of these messages, which can help to reduce your psychotic symptom"
+    }
+]

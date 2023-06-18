@@ -1,0 +1,37 @@
+A person with depression has a life-changing event risk factor because people with depression are more likely to experience major life changes
+A person with depression has a substance abuse risk factor because substance abuse is associated with depression
+A person with depression has a poor nutrition risk factor because people who are overweight or obese are more likely to develop depression
+A person with depression has a grief risk factor because people who have experienced a loss are more likely to develop depression
+A person with depression has a trauma or stress risk factor because trauma can trigger depression
+A person with depression has a medication risk factor because antidepressants and anti-depressants can cause depression
+A person with depression has a sleep problems risk factor because a lack of sleep is associated with depression
+A person with depression has a medical conditions risk factor because depression can be triggered by a medical condition such as a heart condition, diabetes, or a medical illness
+A person with depression has an abuse risk factor because abuse can trigger depression
+A person with depression has a conflict risk factor because people who experience conflict are more likely to develop depression
+A person with depression has a social isolation risk factor because people who live alone are more likely to develop depression
+A person with depression has a family history risk factor because depression is more common in families
+A person with Costochondritis has an exercise risk factor because exercise increases the risk of developing the condition
+A person with Costochondritis has an injury risk factor because people who have been injured tend to develop the condition more often
+A person with Costochondritis has a coughing risk factor because coughing can aggravate the symptoms of the condition
+A person with Costochondritis has an arthritis risk factor because arthritis can cause pain in the joints
+A person with Costochondritis has an infection risk factor because infections can cause inflammation of the sinuses
+A person with Costochondritis has a tumors risk factor because tumors are a common cause of costochondritis
+A person with Costochondritis has an age risk factor because the risk of developing the condition increases with age
+A person with Costochondritis has a gender risk factor because women are more likely to develop the condition than men
+A person with rheumatoid has a smoking risk factor because smoking increases the risk of autoimmune disease
+A person with rheumatoid has a diet risk factor because a diet high in red meat, saturated fats, and trans fats can cause rheumatic disease
+A person with rheumatoid has an obesity risk factor because obesity is associated with an increased risk of RA
+A person with rheumatoid has a birth history risk factor because the risk of RA increases with age
+A person with rheumatoid has an early life exposure risk factor because the immune system is more sensitive to certain environmental factors, such as cigarette smoke.
+A person with rheumatoid has a/an stress risk factor because stress can trigger autoimmune disease
+A person with rheumatoid has a gender risk factor because women are more likely than men to develop RA
+A person with rheumatoid has an age risk factor because the risk increases with age
+A person with rheumatoid has a family history risk factor because autoimmune diseases are more common in families
+A person with thyroidcancer has a diet risk factor because a diet high in saturated fats and trans fats can increase the risk of thyroid cancer
+A person with thyroidcancer has an obesity risk factor because obesity increases the risk of thyroid cancer
+A person with thyroidcancer has a gender risk factor because women are more likely to develop thyroid cancer than men
+A person with thyroidcancer has an age risk factor because thyroid cancer is more common in women than men
+A person with thyroidcancer has an ethnicity risk factor because thyroid cancer is more common among ethnic minorities
+A person with thyroidcancer has a radiation exposure risk factor because radiation can cause thyroid cancer
+A person with thyroidcancer has a family history risk factor because thyroid cancer is more common in women than men
+A person with thyroidcancer has a hereditary risk factor because thyroid cancer is more common in women than men

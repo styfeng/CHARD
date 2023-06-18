@@ -1,0 +1,25 @@
+A person with Costochondritis has a/an medication treatment because/since/as {explanation}
+A person with Costochondritis has a/an therapy treatment because/since/as {explanation}
+A person with Costochondritis has a/an surgery treatment because/since/as {explanation}
+A person with rheumatoid has a/an medication treatment because/since/as {explanation}
+A person with rheumatoid has a/an therapy treatment because/since/as {explanation}
+A person with rheumatoid has a/an surgery treatment because/since/as {explanation}
+A person with rheumatoid has a/an regular exercise treatment because/since/as {explanation}
+A person with rheumatoid has a/an heat or cold treatment because/since/as {explanation}
+A person with rheumatoid has a/an stress management treatment because/since/as {explanation}
+A person with rheumatoid has a/an weight loss treatment because/since/as {explanation}
+A person with thyroidcancer has a/an surgery treatment because/since/as {explanation}
+A person with thyroidcancer has a/an thyroid hormone therapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an radioactive iodine treatment because/since/as {explanation}
+A person with thyroidcancer has a/an alcohol ablation treatment because/since/as {explanation}
+A person with thyroidcancer has a/an radiation therapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an chemotherapy treatment because/since/as {explanation}
+A person with thyroidcancer has a/an pallative care treatment because/since/as {explanation}
+A person with depression has a/an medication treatment because/since/as {explanation}
+A person with depression has a/an psychotherapy treatment because/since/as {explanation}
+A person with depression has a/an hospitalization treatment because/since/as {explanation}
+A person with depression has a/an avoid drugs and alcohol treatment because/since/as {explanation}
+A person with depression has a/an healthy diet treatment because/since/as {explanation}
+A person with depression has a/an regular exercise treatment because/since/as {explanation}
+A person with depression has a/an get enough sleep treatment because/since/as {explanation}
+A person with depression has a/an stick to treatment plan treatment because/since/as {explanation}
