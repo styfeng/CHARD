@@ -26,4 +26,4 @@ Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">S
 
 Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
 
-See [code](https://github.com/styfeng/CHARD/tree/master/code) for code and [data](https://github.com/styfeng/CHARD/tree/master/data) for data.
+See [code](https://github.com/styfeng/CHARD/tree/master/code) for code and [data](https://github.com/styfeng/CHARD/tree/master/data) for data (and accompanying instructions).
