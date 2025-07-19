@@ -1,8 +1,7 @@
 # CHARD Dataset Files
 
 This directory contains the data used in the paper:  
-**"CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models"**  
-[arXiv:2210.04191](https://arxiv.org/abs/2210.04191)  
+[**"CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models"**  ](https://aclanthology.org/2023.eacl-main.24/)
 Work by Carnegie Mellon University and Accenture Labs
 
 ---
