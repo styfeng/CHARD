@@ -1,35 +1,94 @@
-Relevant data for the paper: "CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models" (https://arxiv.org/abs/2210.04191)
+# CHARD Dataset Files
+
+This directory contains the data used in the paper:  
+**"CHARD: Clinical Health-Aware Reasoning Across Dimensions for Text Generation Models"**  
+[arXiv:2210.04191](https://arxiv.org/abs/2210.04191)  
 Work by Carnegie Mellon University and Accenture Labs
 
+---
 
-CHARDAT folder contains data for our actual CHARDAT dataset, separated into three subfolders for each of the three dimensions.
+## 📁 `CHARDAT/` – Raw Dataset
 
-Each of those subfolders contains three .txt files for the train, val, and test splits. Each line contains an example in the format "input_ID <sep> condition <sep> dimension attribute <sep> passage containing explanation". 
+This folder contains the core **CHARDAT** dataset, split by dimension:
 
-The input_ID is the ID of that specific example when collecting the data from AMT, and is a unique identifier for each example, but can be ignored for most purposes.
+- `prevention/`
+- `risk-factor/`
+- `treatment/`
 
+Each subfolder includes:
+- `train.txt`
+- `val.txt`
+- `test.txt`
 
+Each line in these files follows the format:
 
-HF_training_data folder contains the .json files used to train BART and T5 and run inference + evaluation using BART and T5 (using their HuggingFace codebases). It is split into the three individual dimensions (for training dimension-specific models), a "combined" subfolder for training the final combined models, and an "augmented" folder for training the data augmented combined models.
+```
+input_ID <sep> condition <sep> dimension attribute <sep> passage containing explanation
+```
 
-In the augmented subfolder, the "2x" subfolder contains 2x augmentation training data for various backtranslation temperatures. The other subfolders contain training data for the different data augmentation strategies and amounts (see the paper for more information).
+- `input_ID`: A unique identifier from AMT collection (can be ignored for most uses).
+- The passage contains a natural language explanation relevant to the input condition and dimension attribute.
 
+---
 
+## 📁 `HF_training_data/` – Model Training Data (HuggingFace Format)
 
-input_GT-output_txt_files folder contains .txt files with the inputs and ground-truth outputs (one per line) for the various test splits (combined, for each of the three dimensions, and further split into the test-seen and test-unseen portions of each test split). These .txt files allow for easy viewing of the inputs and ground-truth outputs (one per line) for each test split, and are used for evaluation purposes (e.g. to get BLEU and other metrics).
+This folder contains `.json` files prepared for training and evaluation with HuggingFace BART/T5 models.
 
+### Subfolders:
+- **Per-dimension folders** (`prevention/`, `risk-factor/`, `treatment/`) – for dimension-specific training.
+- **`combined/`** – used to train models on all three dimensions jointly.
+- **`augmented/`** – includes data augmentation variants.
 
+#### `augmented/2x/`
+- Contains 2x backtranslation-augmented training data across different temperatures.
+- Other subfolders explore alternative augmentation scales and strategies (see paper for details).
 
-all_generation_txt_files folder contains the final outputs by the various models/methods, split by various attributes (e.g. combined vs. individual dimensions, the different methods/models, etc.). 
+---
 
-"humans" subfolder contains the ground-truth human-written outputs, "retrieval" subfolder contains the Google Search retrieval-based baseline outputs, and "best_T5_model" subfolder contains the outputs by the best T5-large model (which was subsequently used for qualitative analysis and human evaluation). 
+## 📁 `input_GT-output_txt_files/` – Inputs and Ground Truth Outputs
 
-The remaining folders ("prevention, "risk-factor", "treatment", and "combined") contain various model outputs split by the test-split (either full test-split (named "test-combined"), test-seen, or test-unseen).
+This folder provides `.txt` files with **inputs** and **ground-truth outputs** (one per line) for all test splits:
 
-The "combined" subfolder contains outputs by several different models on the combination of all three dimensions. See the paper for more info, and to determine the "best" models per model type (BART vs. T5) and size (base vs. large) combination.
+- Full combined split
+- Each individual dimension
+- `test-seen` and `test-unseen` subsets
 
+These files are used for:
+- Easy inspection
+- Evaluation (e.g., BLEU, METEOR, CIDEr, SPICE)
 
+---
 
-backtranslation_data folder contains all the data used for backtranslation. The "inputs" subfolder contains the input .txt files to backtranslation. Specifically, "combined_train_explanations.txt" contains the explanation portion of examples that is actually backtranslated, whereas "combined_train_initials.txt" contains the initial part of the passages/templates which does not get backtranslated.
+## 📁 `all_generation_txt_files/` – Model Generations
 
-The "backtranslations" subfolder contains actual UDA backtranslated explanations for various backtranslation temperatures, including different versions (e.g. up to 9 for temp=0.9). See the paper for more info.
+This folder contains **model outputs** generated from different methods and models.
+
+### Key Subfolders:
+- `humans/`: Ground-truth human-written outputs
+- `retrieval/`: Outputs from Google Search retrieval-based baseline
+- `best_T5_model/`: Generations from the best-performing T5-large model (used for human eval)
+
+### Other Subfolders:
+- `prevention/`, `risk-factor/`, `treatment/`, and `combined/` – model outputs split by test set:
+  - `test-combined` (full)
+  - `test-seen`
+  - `test-unseen`
+
+> 🔎 The `combined/` subfolder includes outputs from several models. Refer to the paper to determine the best model per type and size (e.g., BART-base, T5-large).
+
+---
+
+## 📁 `backtranslation_data/` – UDA Backtranslation Inputs & Outputs
+
+This folder includes all data used for **backtranslation-based data augmentation**.
+
+### Structure:
+- **`inputs/`**:
+  - `combined_train_explanations.txt`: Explanation portions to be backtranslated.
+  - `combined_train_initials.txt`: Template/initial portion that is kept fixed.
+- **`backtranslations/`**:
+  - Contains backtranslated explanations for various temperatures and versions (e.g., 9 variations for `temp=0.9`).
+
+> See the paper for full methodology and backtranslation usage.
+
